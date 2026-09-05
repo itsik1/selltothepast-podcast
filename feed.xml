@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>למכור לעבר</title>
+    <link>https://itsik1.github.io/selltothepast-podcast</link>
+    <language>he</language>
+    <description>אני סוחר עם מכונת זמן. בכל פרק אני לוקח דבר אחד שאנחנו קונים בלי לחשוב, ומנסה למכור אותו לאנשים בעבר. כמה ימי עבודה הם היו משלמים? וכמה זה עולה לנו היום? 8 דקות, מספרים אמיתיים עם מקורות.</description>
+    <atom:link href="https://itsik1.github.io/selltothepast-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <itunes:author>למכור לעבר</itunes:author>
+    <itunes:owner><itunes:name>למכור לעבר</itunes:name><itunes:email>selltothepast@gmail.com</itunes:email></itunes:owner>
+    <itunes:image href="https://itsik1.github.io/selltothepast-podcast/cover.jpg"/>
+    <itunes:category text="History"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <item>
+      <title>ניסיתי למכור כיכר לחם מהסופר לאנשים ב‑1795. הנה כמה הם שילמו</title>
+      <description>כיכר לחם אחיד עולה 8.38 ₪, שמונה דקות של שכר מינימום. בפרק הראשון אני לוקח אותה למכונת זמן ומנסה למכור אותה שלוש פעמים: לפועל חקלאי באנגליה בקיץ המחסור של 1795, שם כיכר עלתה חמש שעות בשדה; לפועל בניין ברומא של 301, שם החיטה של כיכר עלתה שעתיים אבל לחם לבן היה מעמד; ולפקיד בפריז במצור 1870, שם חילקו שלוש מאות גרם ליום ואף כסף לא קנה יותר. הקונה הכי טוב לא היה הכי עשיר. כל המספרים עם מקורות בתיאור.</description>
+      <enclosure url="https://itsik1.github.io/selltothepast-podcast/audio/001-bread.mp3" length="6912140" type="audio/mpeg"/>
+      <guid isPermaLink="false">001-bread</guid>
+      <pubDate>Sat, 05 Sep 2026 22:30:27 +0000</pubDate>
+      <itunes:duration>00:06:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
