@@ -10,6 +10,7 @@ import json
 import os
 import re
 import sys
+import urllib.error
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -102,41 +103,37 @@ def check_apple():
     }
 
 
+SPOTIFY_SHOW_URL = "https://open.spotify.com/show/{show_id}"
+
+
 def check_spotify():
-    cid, sec = os.environ.get("SPOTIFY_CLIENT_ID"), os.environ.get("SPOTIFY_CLIENT_SECRET")
-    if not (cid and sec):
-        return {"ok": True, "configured": False,
-                "note": "set repo secrets SPOTIFY_CLIENT_ID / SPOTIFY_CLIENT_SECRET (free app at developer.spotify.com) to check the Spotify catalog"}
-    auth = base64.b64encode(f"{cid}:{sec}".encode()).decode()
-    _, _, body = get("https://accounts.spotify.com/api/token",
-                     headers={"Authorization": f"Basic {auth}", "Content-Type": "application/x-www-form-urlencoded"},
-                     data=b"grant_type=client_credentials")
-    token = json.loads(body)["access_token"]
+    """Spotify catalog check. Default: the public oEmbed endpoint (no key, no Premium needed).
+    With SPOTIFY_CLIENT_ID/SECRET (Web API access) it also reports the episode count."""
     show_id = os.environ.get("SPOTIFY_SHOW_ID")
-    show = None
-    if show_id:
+    if not show_id:
+        return {"ok": True, "configured": False, "note": "set repo variable SPOTIFY_SHOW_ID (the id in open.spotify.com/show/...) to check the Spotify catalog"}
+    show_url = SPOTIFY_SHOW_URL.format(show_id=show_id)
+    q = urllib.parse.urlencode({"url": show_url})
+    try:
+        _, _, body = get(f"https://open.spotify.com/oembed?{q}")
+    except urllib.error.HTTPError as e:
+        if e.code == 404:
+            return {"ok": True, "configured": True, "listed": False, "url": show_url, "note": "show id not found in the Spotify catalog yet"}
+        raise
+    data = json.loads(body)
+    out = {"ok": True, "configured": True, "listed": True, "name": data.get("title"), "url": show_url, "id": show_id,
+           "artwork": data.get("thumbnail_url"), "source": "oembed"}
+    cid, sec = os.environ.get("SPOTIFY_CLIENT_ID"), os.environ.get("SPOTIFY_CLIENT_SECRET")
+    if cid and sec:
+        auth = base64.b64encode(f"{cid}:{sec}".encode()).decode()
+        _, _, body = get("https://accounts.spotify.com/api/token",
+                         headers={"Authorization": f"Basic {auth}", "Content-Type": "application/x-www-form-urlencoded"},
+                         data=b"grant_type=client_credentials")
+        token = json.loads(body)["access_token"]
         _, _, body = get(f"https://api.spotify.com/v1/shows/{show_id}?market=IL", headers={"Authorization": f"Bearer {token}"})
-        show = json.loads(body)
-    else:
-        for name in NAMES:
-            q = urllib.parse.urlencode({"q": name, "type": "show", "market": "IL", "limit": 20})
-            _, _, body = get(f"https://api.spotify.com/v1/search?{q}", headers={"Authorization": f"Bearer {token}"})
-            for s in json.loads(body).get("shows", {}).get("items", []) or []:
-                if s and s.get("name") in NAMES:
-                    show = s
-                    break
-            if show:
-                break
-    if not show:
-        return {"ok": True, "configured": True, "listed": False, "note": "not found in the Spotify catalog (market IL)"}
-    return {
-        "ok": True, "configured": True, "listed": True,
-        "name": show.get("name"),
-        "url": show.get("external_urls", {}).get("spotify"),
-        "id": show.get("id"),
-        "episodes": show.get("total_episodes"),
-        "artwork": (show.get("images") or [{}])[0].get("url"),
-    }
+        out["episodes"] = json.loads(body).get("total_episodes")
+        out["source"] = "web-api"
+    return out
 
 
 def check_youtube():
@@ -202,7 +199,7 @@ def main():
     if sp.get("configured") and not sp.get("listed"):
         todo.append("עדיין לא מופיע ב‑Spotify")
     if not sp.get("configured"):
-        todo.append("בדיקת Spotify לא מוגדרת (חסרים secrets)")
+        todo.append("בדיקת Spotify לא מוגדרת (חסר SPOTIFY_SHOW_ID)")
     if not status["youtube"].get("configured"):
         todo.append("בדיקת YouTube לא מוגדרת (חסר YOUTUBE_CHANNEL_ID)")
     status["todo"] = todo

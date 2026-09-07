@@ -14,8 +14,8 @@ Optional repo settings that light up more of the page:
 | --- | --- | --- |
 | `YOUTUBE_CHANNEL_ID` | Actions → Variables | upload list from the channel RSS |
 | `YOUTUBE_API_KEY` | Actions → Secrets | subscribers / views (YouTube Data API v3 key) |
-| `SPOTIFY_CLIENT_ID`, `SPOTIFY_CLIENT_SECRET` | Actions → Secrets | catalog check (free app at developer.spotify.com) |
-| `SPOTIFY_SHOW_ID` | Actions → Variables | exact show lookup instead of a name search |
+| `SPOTIFY_SHOW_ID` | Actions → Variables | catalog check via the public oEmbed endpoint (no key needed) |
+| `SPOTIFY_CLIENT_ID`, `SPOTIFY_CLIENT_SECRET` | Actions → Secrets | optional, episode count via the Web API (needs Web API access) |
 
 ## Branding
 
