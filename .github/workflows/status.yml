@@ -1,0 +1,61 @@
+name: status
+
+# Collects the public state of the show into status.json on the `status` branch.
+# index.html (GitHub Pages) reads that file, so the phone always shows fresh data.
+on:
+  schedule:
+    - cron: "0 5,17 * * *"   # 08:00 and 20:00 Israel time (UTC+3)
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [feed.xml, episodes.json, scripts/status_check.py, .github/workflows/status.yml]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: status
+  cancel-in-progress: true
+
+jobs:
+  status:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Collect status
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          SPOTIFY_SHOW_ID: ${{ vars.SPOTIFY_SHOW_ID }}
+          YOUTUBE_CHANNEL_ID: ${{ vars.YOUTUBE_CHANNEL_ID }}
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          STATUS_OUT: ${{ runner.temp }}/status.json
+        run: python scripts/status_check.py
+      - name: Publish to the status branch
+        run: |
+          set -e
+          git config user.name "status-bot"
+          git config user.email "status-bot@users.noreply.github.com"
+          git checkout --orphan status
+          git rm -rfq --cached .
+          rm -rf -- * .github
+          cp "$RUNNER_TEMP/status.json" status.json
+          git add status.json
+          git commit -qm "status $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push --force origin status
+      - name: Summary
+        run: |
+          python - <<'PY' >> "$GITHUB_STEP_SUMMARY"
+          import json, os
+          s = json.load(open(os.path.join(os.environ["RUNNER_TEMP"], "status.json")))
+          print(f"## {s['feed'].get('title','?')} · {s['generated_at']}")
+          print(f"- feed: {s['feed'].get('episodes','?')} episodes, last {s['feed'].get('days_since_last_episode','?')} days ago")
+          print(f"- apple: {'listed' if s['apple'].get('listed') else s['apple'].get('note') or s['apple'].get('error')}")
+          print(f"- spotify: {'listed' if s['spotify'].get('listed') else s['spotify'].get('note') or s['spotify'].get('error')}")
+          print(f"- youtube: {s['youtube'].get('videos_in_feed','?') if s['youtube'].get('configured') else s['youtube'].get('note')}")
+          for t in s["todo"]:
+              print(f"- ⚠️ {t}")
+          PY
