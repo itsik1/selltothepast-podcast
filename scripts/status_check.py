@@ -162,13 +162,21 @@ def check_youtube():
     key = os.environ.get("YOUTUBE_API_KEY")
     if key:
         q = urllib.parse.urlencode({"part": "statistics,snippet", "id": channel, "key": key})
-        _, _, body = get(f"https://www.googleapis.com/youtube/v3/channels?{q}")
+        try:
+            _, _, body = get(f"https://www.googleapis.com/youtube/v3/channels?{q}")
+        except urllib.error.HTTPError as e:
+            detail = e.read().decode("utf-8", "replace")[:600]
+            try:
+                detail = json.loads(detail)["error"]["message"]
+            except Exception:  # noqa: BLE001
+                pass
+            out["api_key_error"] = f"HTTP {e.code}: {detail}"
+            body = b"{}"
         items = json.loads(body).get("items") or []
         if items:
             st = items[0]["statistics"]
             out["subscribers"] = int(st.get("subscriberCount", 0))
             out["views"] = int(st.get("viewCount", 0))
-            out["videos"] = out["videos"]
             out["video_count"] = int(st.get("videoCount", 0))
             out["handle"] = items[0]["snippet"].get("customUrl")
     return out
@@ -200,8 +208,13 @@ def main():
         todo.append("עדיין לא מופיע ב‑Spotify")
     if not sp.get("configured"):
         todo.append("בדיקת Spotify לא מוגדרת (חסר SPOTIFY_SHOW_ID)")
-    if not status["youtube"].get("configured"):
+    yt = status["youtube"]
+    if not yt.get("ok"):
+        todo.append(f"בדיקת YouTube נכשלה: {yt.get('error')}")
+    elif not yt.get("configured"):
         todo.append("בדיקת YouTube לא מוגדרת (חסר YOUTUBE_CHANNEL_ID)")
+    elif yt.get("api_key_error"):
+        todo.append(f"מפתח YouTube API לא עובד: {yt['api_key_error']}")
     status["todo"] = todo
     out = os.environ.get("STATUS_OUT", "status.json")
     with open(out, "w", encoding="utf-8") as fh:
