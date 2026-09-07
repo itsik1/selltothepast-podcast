@@ -165,11 +165,11 @@ def check_youtube():
         try:
             _, _, body = get(f"https://www.googleapis.com/youtube/v3/channels?{q}")
         except urllib.error.HTTPError as e:
-            detail = e.read().decode("utf-8", "replace")[:600]
+            raw = e.read().decode("utf-8", "replace")
             try:
-                detail = json.loads(detail)["error"]["message"]
+                detail = json.loads(raw)["error"]["message"]
             except Exception:  # noqa: BLE001
-                pass
+                detail = raw[:300]
             out["api_key_error"] = f"HTTP {e.code}: {detail}"
             body = b"{}"
         items = json.loads(body).get("items") or []
