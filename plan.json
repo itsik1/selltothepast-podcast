@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-11T15:28:25+00:00",
+ "generated_at": "2026-09-11T15:30:49+00:00",
  "cadence": "ep2-6 weekly Monday; from ep7 Monday + Thursday, 23:00 UTC; Shorts on the days between",
  "episodes": [
   {
@@ -56,11 +56,11 @@
    "title_en": "An LED bulb",
    "title_he": "נורת LED",
    "release_en": "2026-09-28",
-   "status_en": "built",
-   "youtube_en": "",
+   "status_en": "uploaded",
+   "youtube_en": "https://www.youtube.com/watch?v=LIlfWKCUpGE",
    "shorts_en": [
-    "",
-    "",
+    "https://www.youtube.com/watch?v=WZ8ODfpzSOQ",
+    "https://www.youtube.com/watch?v=crf3VjDbTpg",
     ""
    ],
    "youtube_he": "",
@@ -72,7 +72,7 @@
    "title_en": "Ice cubes",
    "title_he": "קוביות קרח מהמקפיא",
    "release_en": "2026-10-05",
-   "status_en": "queued",
+   "status_en": "building",
    "youtube_en": "",
    "shorts_en": [
     "",
