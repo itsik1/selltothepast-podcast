@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-11T15:30:49+00:00",
+ "generated_at": "2026-09-11T17:44:08+00:00",
  "cadence": "ep2-6 weekly Monday; from ep7 Monday + Thursday, 23:00 UTC; Shorts on the days between",
  "episodes": [
   {
@@ -23,8 +23,8 @@
    "number": 2,
    "title_en": "A glass of tap water",
    "title_he": "כוס מים מהברז",
-   "release_en": "",
-   "status_en": "uploaded",
+   "release_en": "2026-09-14",
+   "status_en": "scheduled",
    "youtube_en": "https://www.youtube.com/watch?v=xFuOcyHwkhk",
    "shorts_en": [
     "https://www.youtube.com/watch?v=R8dPdufyTyU",
@@ -39,8 +39,8 @@
    "number": 3,
    "title_en": "A bag of salt",
    "title_he": "שקית מלח",
-   "release_en": "",
-   "status_en": "uploaded",
+   "release_en": "2026-09-21",
+   "status_en": "scheduled",
    "youtube_en": "https://www.youtube.com/watch?v=jH4Dy8EKufc",
    "shorts_en": [
     "https://www.youtube.com/watch?v=EnA3alwgdE0",
@@ -56,7 +56,7 @@
    "title_en": "An LED bulb",
    "title_he": "נורת LED",
    "release_en": "2026-09-28",
-   "status_en": "uploaded",
+   "status_en": "scheduled",
    "youtube_en": "https://www.youtube.com/watch?v=LIlfWKCUpGE",
    "shorts_en": [
     "https://www.youtube.com/watch?v=WZ8ODfpzSOQ",
@@ -72,7 +72,7 @@
    "title_en": "Ice cubes",
    "title_he": "קוביות קרח מהמקפיא",
    "release_en": "2026-10-05",
-   "status_en": "building",
+   "status_en": "built",
    "youtube_en": "",
    "shorts_en": [
     "",
@@ -88,7 +88,7 @@
    "title_en": "A kilo of sugar",
    "title_he": "קילו סוכר",
    "release_en": "2026-10-12",
-   "status_en": "uploaded",
+   "status_en": "scheduled",
    "youtube_en": "https://www.youtube.com/watch?v=63Jr8Li-s_s",
    "shorts_en": [
     "https://www.youtube.com/watch?v=ghEEWk-q4_8",
@@ -280,7 +280,7 @@
    "title_en": "A banana",
    "title_he": "בננה",
    "release_en": "2026-11-26",
-   "status_en": "planned",
+   "status_en": "queued",
    "youtube_en": "",
    "shorts_en": [
     "",
@@ -288,7 +288,7 @@
     ""
    ],
    "youtube_he": "",
-   "hebrew": ""
+   "hebrew": "script ready"
   },
   {
    "slug": "019-camera",
@@ -296,7 +296,7 @@
    "title_en": "The phone camera",
    "title_he": "מצלמת הטלפון",
    "release_en": "2026-11-30",
-   "status_en": "planned",
+   "status_en": "queued",
    "youtube_en": "",
    "shorts_en": [
     "",
@@ -304,7 +304,7 @@
     ""
    ],
    "youtube_he": "",
-   "hebrew": ""
+   "hebrew": "script ready"
   },
   {
    "slug": "020-smartphone",
@@ -312,7 +312,7 @@
    "title_en": "A smartphone",
    "title_he": "סמארטפון",
    "release_en": "2026-12-03",
-   "status_en": "planned",
+   "status_en": "queued",
    "youtube_en": "",
    "shorts_en": [
     "",
@@ -320,7 +320,7 @@
     ""
    ],
    "youtube_he": "",
-   "hebrew": ""
+   "hebrew": "script ready"
   },
   {
    "slug": "021-pineapple",
