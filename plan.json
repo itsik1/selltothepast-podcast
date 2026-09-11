@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-11T13:55:16+00:00",
+ "generated_at": "2026-09-11T15:28:25+00:00",
  "cadence": "ep2-6 weekly Monday; from ep7 Monday + Thursday, 23:00 UTC; Shorts on the days between",
  "episodes": [
   {
@@ -56,7 +56,7 @@
    "title_en": "An LED bulb",
    "title_he": "נורת LED",
    "release_en": "2026-09-28",
-   "status_en": "building",
+   "status_en": "built",
    "youtube_en": "",
    "shorts_en": [
     "",
@@ -216,7 +216,7 @@
    "title_en": "A ballpoint pen",
    "title_he": "עט כדורי",
    "release_en": "2026-11-12",
-   "status_en": "planned",
+   "status_en": "queued",
    "youtube_en": "",
    "shorts_en": [
     "",
@@ -224,7 +224,7 @@
     ""
    ],
    "youtube_he": "",
-   "hebrew": ""
+   "hebrew": "script ready"
   },
   {
    "slug": "015-canned-food",
@@ -232,7 +232,7 @@
    "title_en": "A can of food",
    "title_he": "קופסת שימורים",
    "release_en": "2026-11-16",
-   "status_en": "planned",
+   "status_en": "queued",
    "youtube_en": "",
    "shorts_en": [
     "",
@@ -240,7 +240,7 @@
     ""
    ],
    "youtube_he": "",
-   "hebrew": ""
+   "hebrew": "script ready"
   },
   {
    "slug": "016-antibiotics",
@@ -248,7 +248,7 @@
    "title_en": "A course of antibiotics",
    "title_he": "אנטיביוטיקה",
    "release_en": "2026-11-19",
-   "status_en": "planned",
+   "status_en": "queued",
    "youtube_en": "",
    "shorts_en": [
     "",
@@ -256,7 +256,7 @@
     ""
    ],
    "youtube_he": "",
-   "hebrew": ""
+   "hebrew": "script ready"
   },
   {
    "slug": "017-toilet-paper",
@@ -264,7 +264,7 @@
    "title_en": "A roll of toilet paper",
    "title_he": "גליל נייר טואלט",
    "release_en": "2026-11-23",
-   "status_en": "planned",
+   "status_en": "queued",
    "youtube_en": "",
    "shorts_en": [
     "",
@@ -272,7 +272,7 @@
     ""
    ],
    "youtube_he": "",
-   "hebrew": ""
+   "hebrew": "script ready"
   },
   {
    "slug": "018-banana",
