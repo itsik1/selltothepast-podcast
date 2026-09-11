@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-11T19:56:59+00:00",
+ "generated_at": "2026-09-11T21:30:50+00:00",
  "cadence": "ep2-6 weekly Monday; from ep7 Monday + Thursday, 23:00 UTC; Shorts on the days between",
  "episodes": [
   {
@@ -120,7 +120,7 @@
    "title_en": "A box of painkillers",
    "title_he": "אקמול",
    "release_en": "2026-10-22",
-   "status_en": "queued",
+   "status_en": "building",
    "youtube_en": "",
    "shorts_en": [
     "",
@@ -408,7 +408,7 @@
    "title_en": "A hand mirror",
    "title_he": "מראה",
    "release_en": "2026-12-24",
-   "status_en": "planned",
+   "status_en": "queued",
    "youtube_en": "",
    "shorts_en": [
     "",
@@ -416,7 +416,7 @@
     ""
    ],
    "youtube_he": "",
-   "hebrew": ""
+   "hebrew": "script ready"
   },
   {
    "slug": "027-nails",
@@ -424,7 +424,7 @@
    "title_en": "A box of nails",
    "title_he": "קופסת מסמרים",
    "release_en": "2026-12-28",
-   "status_en": "planned",
+   "status_en": "queued",
    "youtube_en": "",
    "shorts_en": [
     "",
@@ -432,7 +432,7 @@
     ""
    ],
    "youtube_he": "",
-   "hebrew": ""
+   "hebrew": "script ready"
   },
   {
    "slug": "028-window-glass",
@@ -440,7 +440,7 @@
    "title_en": "A pane of window glass",
    "title_he": "שמשת חלון",
    "release_en": "2026-12-31",
-   "status_en": "planned",
+   "status_en": "queued",
    "youtube_en": "",
    "shorts_en": [
     "",
@@ -448,7 +448,7 @@
     ""
    ],
    "youtube_he": "",
-   "hebrew": ""
+   "hebrew": "script ready"
   },
   {
    "slug": "029-tea",
@@ -456,7 +456,7 @@
    "title_en": "A box of tea bags",
    "title_he": "קופסת תה",
    "release_en": "2027-01-04",
-   "status_en": "planned",
+   "status_en": "queued",
    "youtube_en": "",
    "shorts_en": [
     "",
@@ -464,7 +464,7 @@
     ""
    ],
    "youtube_he": "",
-   "hebrew": ""
+   "hebrew": "script ready"
   },
   {
    "slug": "030-pepper",
