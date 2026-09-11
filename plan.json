@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-11T17:44:08+00:00",
+ "generated_at": "2026-09-11T19:56:57+00:00",
  "cadence": "ep2-6 weekly Monday; from ep7 Monday + Thursday, 23:00 UTC; Shorts on the days between",
  "episodes": [
   {
@@ -104,7 +104,7 @@
    "title_en": "A cotton T-shirt",
    "title_he": "חולצת טי",
    "release_en": "2026-10-19",
-   "status_en": "queued",
+   "status_en": "built",
    "youtube_en": "",
    "shorts_en": [
     "",
@@ -328,7 +328,7 @@
    "title_en": "A pineapple",
    "title_he": "אננס",
    "release_en": "2026-12-07",
-   "status_en": "planned",
+   "status_en": "queued",
    "youtube_en": "",
    "shorts_en": [
     "",
@@ -336,7 +336,7 @@
     ""
    ],
    "youtube_he": "",
-   "hebrew": ""
+   "hebrew": "script ready"
   },
   {
    "slug": "022-milk",
@@ -344,7 +344,7 @@
    "title_en": "A carton of milk",
    "title_he": "קרטון חלב",
    "release_en": "2026-12-10",
-   "status_en": "planned",
+   "status_en": "queued",
    "youtube_en": "",
    "shorts_en": [
     "",
@@ -352,7 +352,7 @@
     ""
    ],
    "youtube_he": "",
-   "hebrew": ""
+   "hebrew": "script ready"
   },
   {
    "slug": "023-orange",
@@ -360,7 +360,7 @@
    "title_en": "An orange",
    "title_he": "תפוז",
    "release_en": "2026-12-14",
-   "status_en": "planned",
+   "status_en": "queued",
    "youtube_en": "",
    "shorts_en": [
     "",
@@ -368,7 +368,7 @@
     ""
    ],
    "youtube_he": "",
-   "hebrew": ""
+   "hebrew": "script ready"
   },
   {
    "slug": "024-soap",
@@ -376,7 +376,7 @@
    "title_en": "A bar of soap",
    "title_he": "סבון",
    "release_en": "2026-12-17",
-   "status_en": "planned",
+   "status_en": "queued",
    "youtube_en": "",
    "shorts_en": [
     "",
@@ -384,7 +384,7 @@
     ""
    ],
    "youtube_he": "",
-   "hebrew": ""
+   "hebrew": "script ready"
   },
   {
    "slug": "025-socks",
@@ -392,7 +392,7 @@
    "title_en": "A pair of socks",
    "title_he": "זוג גרביים",
    "release_en": "2026-12-21",
-   "status_en": "planned",
+   "status_en": "queued",
    "youtube_en": "",
    "shorts_en": [
     "",
@@ -400,7 +400,7 @@
     ""
    ],
    "youtube_he": "",
-   "hebrew": ""
+   "hebrew": "script ready"
   },
   {
    "slug": "026-mirror",
