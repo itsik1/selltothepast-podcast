@@ -41,6 +41,7 @@
 <main>
   <div class="card todo" id="todo" hidden><h2>⚠️ דורש טיפול</h2><ul></ul></div>
   <div class="card" id="feed"><h2><span class="dot"></span>הפיד (RSS)</h2><div class="kv"></div><div class="eps"></div></div>
+  <div class="card" id="feeden"><h2><span class="dot"></span>הפיד באנגלית (RSS) · Sell to the Past</h2><div class="kv"></div><div class="eps"></div></div>
   <div class="card" id="apple"><h2><span class="dot"></span>Apple Podcasts</h2><div class="kv"></div></div>
   <div class="card" id="spotify"><h2><span class="dot"></span>Spotify</h2><div class="kv"></div></div>
   <div class="card" id="youtube"><h2><span class="dot"></span>YouTube</h2><div class="kv"></div><div class="eps"></div></div>
@@ -113,6 +114,12 @@ function renderPlan(p){
     return `<div class="ep">${t} <span class="note">· ${esc(e.title_he)}</span><div class="note"><span class="dot ${cls}"></span> ${esc(st)}${e.release_en?' · '+shortDate(e.release_en):''}${e.hebrew?' · עברית: '+esc(e.hebrew):''}</div></div>`;
   }).join('');
 }
+fetch('feed-en.xml', {cache:'no-store'}).then(r=>r.text()).then(t=>{
+  const x=new DOMParser().parseFromString(t,'text/xml'), items=[...x.querySelectorAll('item')], c=$('#feeden');
+  setDot(c, items.length?'ok':'warn');
+  kv(c, [['כתובת הפיד', link(location.origin+location.pathname.replace(/[^/]*$/,'')+'feed-en.xml','feed-en.xml')], ['פרקים', items.length], ['להגשה', 'Spotify for Creators → Add a podcast → RSS']]);
+  $('.eps', c).innerHTML = items.slice(0,5).map(i=>`<div class="ep">${esc(i.querySelector('title')?.textContent)}<div class="note">${fmtDate(i.querySelector('pubDate')?.textContent)} · ${esc(i.getElementsByTagName('itunes:duration')[0]?.textContent||'')}</div></div>`).join('');
+}).catch(()=>{ setDot($('#feeden'),'warn'); kv($('#feeden'), [['מצב','feed-en.xml עדיין לא נוצר']]); });
 fetch('plan.json', {cache:'no-store'}).then(r=>r.ok?r.json():null).then(p=>{ if(p) renderPlan(p); }).catch(()=>{});
 
 async function fallbackFromFeed(){
