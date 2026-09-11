@@ -1,0 +1,646 @@
+{
+ "generated_at": "2026-09-11T13:55:16+00:00",
+ "cadence": "ep2-6 weekly Monday; from ep7 Monday + Thursday, 23:00 UTC; Shorts on the days between",
+ "episodes": [
+  {
+   "slug": "001-bread",
+   "number": 1,
+   "title_en": "A supermarket loaf",
+   "title_he": "כיכר לחם מהסופר",
+   "release_en": "",
+   "status_en": "uploaded",
+   "youtube_en": "https://www.youtube.com/watch?v=3KHjfu15FrA",
+   "shorts_en": [
+    "https://www.youtube.com/watch?v=DpRtTCkutrM",
+    "https://www.youtube.com/watch?v=dd4ShjS2nkM",
+    "https://www.youtube.com/watch?v=2g5WOaiH_lw"
+   ],
+   "youtube_he": "https://www.youtube.com/watch?v=Fn9RgbNp2Cg",
+   "hebrew": "recorded"
+  },
+  {
+   "slug": "002-tap-water",
+   "number": 2,
+   "title_en": "A glass of tap water",
+   "title_he": "כוס מים מהברז",
+   "release_en": "",
+   "status_en": "uploaded",
+   "youtube_en": "https://www.youtube.com/watch?v=xFuOcyHwkhk",
+   "shorts_en": [
+    "https://www.youtube.com/watch?v=R8dPdufyTyU",
+    "https://www.youtube.com/watch?v=7JuvSV3_xII",
+    "https://www.youtube.com/watch?v=yW8OhgEF3YM"
+   ],
+   "youtube_he": "",
+   "hebrew": "script ready"
+  },
+  {
+   "slug": "003-salt",
+   "number": 3,
+   "title_en": "A bag of salt",
+   "title_he": "שקית מלח",
+   "release_en": "",
+   "status_en": "uploaded",
+   "youtube_en": "https://www.youtube.com/watch?v=jH4Dy8EKufc",
+   "shorts_en": [
+    "https://www.youtube.com/watch?v=EnA3alwgdE0",
+    "https://www.youtube.com/watch?v=dxjJVqZaAaY",
+    "https://www.youtube.com/watch?v=bZn8LBzSc-U"
+   ],
+   "youtube_he": "",
+   "hebrew": "script ready"
+  },
+  {
+   "slug": "004-lightbulb",
+   "number": 4,
+   "title_en": "An LED bulb",
+   "title_he": "נורת LED",
+   "release_en": "2026-09-28",
+   "status_en": "building",
+   "youtube_en": "",
+   "shorts_en": [
+    "",
+    "",
+    ""
+   ],
+   "youtube_he": "",
+   "hebrew": "script ready"
+  },
+  {
+   "slug": "005-ice",
+   "number": 5,
+   "title_en": "Ice cubes",
+   "title_he": "קוביות קרח מהמקפיא",
+   "release_en": "2026-10-05",
+   "status_en": "queued",
+   "youtube_en": "",
+   "shorts_en": [
+    "",
+    "",
+    ""
+   ],
+   "youtube_he": "",
+   "hebrew": "script ready"
+  },
+  {
+   "slug": "006-sugar",
+   "number": 6,
+   "title_en": "A kilo of sugar",
+   "title_he": "קילו סוכר",
+   "release_en": "2026-10-12",
+   "status_en": "uploaded",
+   "youtube_en": "https://www.youtube.com/watch?v=63Jr8Li-s_s",
+   "shorts_en": [
+    "https://www.youtube.com/watch?v=ghEEWk-q4_8",
+    "https://www.youtube.com/watch?v=C_T_DGSxX4s",
+    "https://www.youtube.com/watch?v=bCAWd1mKKYg"
+   ],
+   "youtube_he": "",
+   "hebrew": "script ready"
+  },
+  {
+   "slug": "007-tshirt",
+   "number": 7,
+   "title_en": "A cotton T-shirt",
+   "title_he": "חולצת טי",
+   "release_en": "2026-10-19",
+   "status_en": "queued",
+   "youtube_en": "",
+   "shorts_en": [
+    "",
+    "",
+    ""
+   ],
+   "youtube_he": "",
+   "hebrew": "script ready"
+  },
+  {
+   "slug": "008-aspirin",
+   "number": 8,
+   "title_en": "A box of painkillers",
+   "title_he": "אקמול",
+   "release_en": "2026-10-22",
+   "status_en": "queued",
+   "youtube_en": "",
+   "shorts_en": [
+    "",
+    "",
+    ""
+   ],
+   "youtube_he": "",
+   "hebrew": "script ready"
+  },
+  {
+   "slug": "009-matches",
+   "number": 9,
+   "title_en": "A box of matches",
+   "title_he": "קופסת גפרורים",
+   "release_en": "2026-10-26",
+   "status_en": "queued",
+   "youtube_en": "",
+   "shorts_en": [
+    "",
+    "",
+    ""
+   ],
+   "youtube_he": "",
+   "hebrew": "script ready"
+  },
+  {
+   "slug": "010-book",
+   "number": 10,
+   "title_en": "A paperback",
+   "title_he": "ספר כיס",
+   "release_en": "2026-10-29",
+   "status_en": "queued",
+   "youtube_en": "",
+   "shorts_en": [
+    "",
+    "",
+    ""
+   ],
+   "youtube_he": "",
+   "hebrew": "script ready"
+  },
+  {
+   "slug": "011-coffee",
+   "number": 11,
+   "title_en": "A cup of coffee",
+   "title_he": "כוס קפה",
+   "release_en": "2026-11-02",
+   "status_en": "queued",
+   "youtube_en": "",
+   "shorts_en": [
+    "",
+    "",
+    ""
+   ],
+   "youtube_he": "",
+   "hebrew": "script ready"
+  },
+  {
+   "slug": "012-glasses",
+   "number": 12,
+   "title_en": "Reading glasses",
+   "title_he": "משקפי ראייה",
+   "release_en": "2026-11-05",
+   "status_en": "queued",
+   "youtube_en": "",
+   "shorts_en": [
+    "",
+    "",
+    ""
+   ],
+   "youtube_he": "",
+   "hebrew": "script ready"
+  },
+  {
+   "slug": "013-chocolate",
+   "number": 13,
+   "title_en": "A chocolate bar",
+   "title_he": "חפיסת שוקולד",
+   "release_en": "2026-11-09",
+   "status_en": "queued",
+   "youtube_en": "",
+   "shorts_en": [
+    "",
+    "",
+    ""
+   ],
+   "youtube_he": "",
+   "hebrew": "script ready"
+  },
+  {
+   "slug": "014-pen",
+   "number": 14,
+   "title_en": "A ballpoint pen",
+   "title_he": "עט כדורי",
+   "release_en": "2026-11-12",
+   "status_en": "planned",
+   "youtube_en": "",
+   "shorts_en": [
+    "",
+    "",
+    ""
+   ],
+   "youtube_he": "",
+   "hebrew": ""
+  },
+  {
+   "slug": "015-canned-food",
+   "number": 15,
+   "title_en": "A can of food",
+   "title_he": "קופסת שימורים",
+   "release_en": "2026-11-16",
+   "status_en": "planned",
+   "youtube_en": "",
+   "shorts_en": [
+    "",
+    "",
+    ""
+   ],
+   "youtube_he": "",
+   "hebrew": ""
+  },
+  {
+   "slug": "016-antibiotics",
+   "number": 16,
+   "title_en": "A course of antibiotics",
+   "title_he": "אנטיביוטיקה",
+   "release_en": "2026-11-19",
+   "status_en": "planned",
+   "youtube_en": "",
+   "shorts_en": [
+    "",
+    "",
+    ""
+   ],
+   "youtube_he": "",
+   "hebrew": ""
+  },
+  {
+   "slug": "017-toilet-paper",
+   "number": 17,
+   "title_en": "A roll of toilet paper",
+   "title_he": "גליל נייר טואלט",
+   "release_en": "2026-11-23",
+   "status_en": "planned",
+   "youtube_en": "",
+   "shorts_en": [
+    "",
+    "",
+    ""
+   ],
+   "youtube_he": "",
+   "hebrew": ""
+  },
+  {
+   "slug": "018-banana",
+   "number": 18,
+   "title_en": "A banana",
+   "title_he": "בננה",
+   "release_en": "2026-11-26",
+   "status_en": "planned",
+   "youtube_en": "",
+   "shorts_en": [
+    "",
+    "",
+    ""
+   ],
+   "youtube_he": "",
+   "hebrew": ""
+  },
+  {
+   "slug": "019-camera",
+   "number": 19,
+   "title_en": "The phone camera",
+   "title_he": "מצלמת הטלפון",
+   "release_en": "2026-11-30",
+   "status_en": "planned",
+   "youtube_en": "",
+   "shorts_en": [
+    "",
+    "",
+    ""
+   ],
+   "youtube_he": "",
+   "hebrew": ""
+  },
+  {
+   "slug": "020-smartphone",
+   "number": 20,
+   "title_en": "A smartphone",
+   "title_he": "סמארטפון",
+   "release_en": "2026-12-03",
+   "status_en": "planned",
+   "youtube_en": "",
+   "shorts_en": [
+    "",
+    "",
+    ""
+   ],
+   "youtube_he": "",
+   "hebrew": ""
+  },
+  {
+   "slug": "021-pineapple",
+   "number": 21,
+   "title_en": "A pineapple",
+   "title_he": "אננס",
+   "release_en": "2026-12-07",
+   "status_en": "planned",
+   "youtube_en": "",
+   "shorts_en": [
+    "",
+    "",
+    ""
+   ],
+   "youtube_he": "",
+   "hebrew": ""
+  },
+  {
+   "slug": "022-milk",
+   "number": 22,
+   "title_en": "A carton of milk",
+   "title_he": "קרטון חלב",
+   "release_en": "2026-12-10",
+   "status_en": "planned",
+   "youtube_en": "",
+   "shorts_en": [
+    "",
+    "",
+    ""
+   ],
+   "youtube_he": "",
+   "hebrew": ""
+  },
+  {
+   "slug": "023-orange",
+   "number": 23,
+   "title_en": "An orange",
+   "title_he": "תפוז",
+   "release_en": "2026-12-14",
+   "status_en": "planned",
+   "youtube_en": "",
+   "shorts_en": [
+    "",
+    "",
+    ""
+   ],
+   "youtube_he": "",
+   "hebrew": ""
+  },
+  {
+   "slug": "024-soap",
+   "number": 24,
+   "title_en": "A bar of soap",
+   "title_he": "סבון",
+   "release_en": "2026-12-17",
+   "status_en": "planned",
+   "youtube_en": "",
+   "shorts_en": [
+    "",
+    "",
+    ""
+   ],
+   "youtube_he": "",
+   "hebrew": ""
+  },
+  {
+   "slug": "025-socks",
+   "number": 25,
+   "title_en": "A pair of socks",
+   "title_he": "זוג גרביים",
+   "release_en": "2026-12-21",
+   "status_en": "planned",
+   "youtube_en": "",
+   "shorts_en": [
+    "",
+    "",
+    ""
+   ],
+   "youtube_he": "",
+   "hebrew": ""
+  },
+  {
+   "slug": "026-mirror",
+   "number": 26,
+   "title_en": "A hand mirror",
+   "title_he": "מראה",
+   "release_en": "2026-12-24",
+   "status_en": "planned",
+   "youtube_en": "",
+   "shorts_en": [
+    "",
+    "",
+    ""
+   ],
+   "youtube_he": "",
+   "hebrew": ""
+  },
+  {
+   "slug": "027-nails",
+   "number": 27,
+   "title_en": "A box of nails",
+   "title_he": "קופסת מסמרים",
+   "release_en": "2026-12-28",
+   "status_en": "planned",
+   "youtube_en": "",
+   "shorts_en": [
+    "",
+    "",
+    ""
+   ],
+   "youtube_he": "",
+   "hebrew": ""
+  },
+  {
+   "slug": "028-window-glass",
+   "number": 28,
+   "title_en": "A pane of window glass",
+   "title_he": "שמשת חלון",
+   "release_en": "2026-12-31",
+   "status_en": "planned",
+   "youtube_en": "",
+   "shorts_en": [
+    "",
+    "",
+    ""
+   ],
+   "youtube_he": "",
+   "hebrew": ""
+  },
+  {
+   "slug": "029-tea",
+   "number": 29,
+   "title_en": "A box of tea bags",
+   "title_he": "קופסת תה",
+   "release_en": "2027-01-04",
+   "status_en": "planned",
+   "youtube_en": "",
+   "shorts_en": [
+    "",
+    "",
+    ""
+   ],
+   "youtube_he": "",
+   "hebrew": ""
+  },
+  {
+   "slug": "030-pepper",
+   "number": 30,
+   "title_en": "A jar of black pepper",
+   "title_he": "פלפל שחור",
+   "release_en": "2027-01-07",
+   "status_en": "planned",
+   "youtube_en": "",
+   "shorts_en": [
+    "",
+    "",
+    ""
+   ],
+   "youtube_he": "",
+   "hebrew": ""
+  },
+  {
+   "slug": "031-watch",
+   "number": 31,
+   "title_en": "A wristwatch",
+   "title_he": "שעון יד",
+   "release_en": "2027-01-11",
+   "status_en": "planned",
+   "youtube_en": "",
+   "shorts_en": [
+    "",
+    "",
+    ""
+   ],
+   "youtube_he": "",
+   "hebrew": ""
+  },
+  {
+   "slug": "032-pencil",
+   "number": 32,
+   "title_en": "A pencil",
+   "title_he": "עיפרון",
+   "release_en": "2027-01-14",
+   "status_en": "planned",
+   "youtube_en": "",
+   "shorts_en": [
+    "",
+    "",
+    ""
+   ],
+   "youtube_he": "",
+   "hebrew": ""
+  },
+  {
+   "slug": "033-umbrella",
+   "number": 33,
+   "title_en": "An umbrella",
+   "title_he": "מטרייה",
+   "release_en": "2027-01-18",
+   "status_en": "planned",
+   "youtube_en": "",
+   "shorts_en": [
+    "",
+    "",
+    ""
+   ],
+   "youtube_he": "",
+   "hebrew": ""
+  },
+  {
+   "slug": "034-toothbrush",
+   "number": 34,
+   "title_en": "A toothbrush",
+   "title_he": "מברשת שיניים",
+   "release_en": "2027-01-21",
+   "status_en": "planned",
+   "youtube_en": "",
+   "shorts_en": [
+    "",
+    "",
+    ""
+   ],
+   "youtube_he": "",
+   "hebrew": ""
+  },
+  {
+   "slug": "035-razor",
+   "number": 35,
+   "title_en": "A disposable razor",
+   "title_he": "סכין גילוח",
+   "release_en": "2027-01-25",
+   "status_en": "planned",
+   "youtube_en": "",
+   "shorts_en": [
+    "",
+    "",
+    ""
+   ],
+   "youtube_he": "",
+   "hebrew": ""
+  },
+  {
+   "slug": "036-eggs",
+   "number": 36,
+   "title_en": "A dozen eggs",
+   "title_he": "תריסר ביצים",
+   "release_en": "2027-01-28",
+   "status_en": "planned",
+   "youtube_en": "",
+   "shorts_en": [
+    "",
+    "",
+    ""
+   ],
+   "youtube_he": "",
+   "hebrew": ""
+  },
+  {
+   "slug": "037-honey",
+   "number": 37,
+   "title_en": "A jar of honey",
+   "title_he": "צנצנת דבש",
+   "release_en": "2027-02-01",
+   "status_en": "planned",
+   "youtube_en": "",
+   "shorts_en": [
+    "",
+    "",
+    ""
+   ],
+   "youtube_he": "",
+   "hebrew": ""
+  },
+  {
+   "slug": "038-blanket",
+   "number": 38,
+   "title_en": "A wool blanket",
+   "title_he": "שמיכת צמר",
+   "release_en": "2027-02-04",
+   "status_en": "planned",
+   "youtube_en": "",
+   "shorts_en": [
+    "",
+    "",
+    ""
+   ],
+   "youtube_he": "",
+   "hebrew": ""
+  },
+  {
+   "slug": "039-vaccine",
+   "number": 39,
+   "title_en": "A vaccine",
+   "title_he": "חיסון",
+   "release_en": "2027-02-08",
+   "status_en": "planned",
+   "youtube_en": "",
+   "shorts_en": [
+    "",
+    "",
+    ""
+   ],
+   "youtube_he": "",
+   "hebrew": ""
+  },
+  {
+   "slug": "040-batteries",
+   "number": 40,
+   "title_en": "A pack of AA batteries",
+   "title_he": "חבילת סוללות",
+   "release_en": "2027-02-11",
+   "status_en": "planned",
+   "youtube_en": "",
+   "shorts_en": [
+    "",
+    "",
+    ""
+   ],
+   "youtube_he": "",
+   "hebrew": ""
+  }
+ ]
+}
