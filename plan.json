@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-11T21:44:35+00:00",
+ "generated_at": "2026-09-11T23:39:57+00:00",
  "cadence": "ep2-6 weekly Monday; from ep7 Monday + Thursday, 23:00 UTC; Shorts on the days between",
  "episodes": [
   {
@@ -136,7 +136,7 @@
    "title_en": "A box of matches",
    "title_he": "קופסת גפרורים",
    "release_en": "2026-10-26",
-   "status_en": "queued",
+   "status_en": "building",
    "youtube_en": "",
    "shorts_en": [
     "",
@@ -488,7 +488,7 @@
    "title_en": "A wristwatch",
    "title_he": "שעון יד",
    "release_en": "2027-01-11",
-   "status_en": "planned",
+   "status_en": "queued",
    "youtube_en": "",
    "shorts_en": [
     "",
@@ -496,7 +496,7 @@
     ""
    ],
    "youtube_he": "",
-   "hebrew": ""
+   "hebrew": "script ready"
   },
   {
    "slug": "032-pencil",
@@ -504,7 +504,7 @@
    "title_en": "A pencil",
    "title_he": "עיפרון",
    "release_en": "2027-01-14",
-   "status_en": "planned",
+   "status_en": "queued",
    "youtube_en": "",
    "shorts_en": [
     "",
@@ -512,7 +512,7 @@
     ""
    ],
    "youtube_he": "",
-   "hebrew": ""
+   "hebrew": "script ready"
   },
   {
    "slug": "033-umbrella",
@@ -520,7 +520,7 @@
    "title_en": "An umbrella",
    "title_he": "מטרייה",
    "release_en": "2027-01-18",
-   "status_en": "planned",
+   "status_en": "queued",
    "youtube_en": "",
    "shorts_en": [
     "",
@@ -528,7 +528,7 @@
     ""
    ],
    "youtube_he": "",
-   "hebrew": ""
+   "hebrew": "script ready"
   },
   {
    "slug": "034-toothbrush",
@@ -536,7 +536,7 @@
    "title_en": "A toothbrush",
    "title_he": "מברשת שיניים",
    "release_en": "2027-01-21",
-   "status_en": "planned",
+   "status_en": "queued",
    "youtube_en": "",
    "shorts_en": [
     "",
@@ -544,7 +544,7 @@
     ""
    ],
    "youtube_he": "",
-   "hebrew": ""
+   "hebrew": "script ready"
   },
   {
    "slug": "035-razor",
@@ -552,7 +552,7 @@
    "title_en": "A disposable razor",
    "title_he": "סכין גילוח",
    "release_en": "2027-01-25",
-   "status_en": "planned",
+   "status_en": "researched",
    "youtube_en": "",
    "shorts_en": [
     "",
