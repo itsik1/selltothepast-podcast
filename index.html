@@ -44,6 +44,7 @@
   <div class="card" id="apple"><h2><span class="dot"></span>Apple Podcasts</h2><div class="kv"></div></div>
   <div class="card" id="spotify"><h2><span class="dot"></span>Spotify</h2><div class="kv"></div></div>
   <div class="card" id="youtube"><h2><span class="dot"></span>YouTube</h2><div class="kv"></div><div class="eps"></div></div>
+  <div class="card" id="plan"><h2><span class="dot ok"></span>תוכנית הפרקים (אנגלית)</h2><div class="kv"></div><div class="eps"></div></div>
   <div class="card"><h2>קישורים מהירים</h2>
     <div class="links">
       <a href="https://studio.youtube.com/">YouTube Studio</a>
@@ -99,6 +100,20 @@ function render(s){
     $('.eps', yc).innerHTML = (y.videos||[]).slice(0,5).map(v=>`<div class="ep">${link(v.url, v.title)}<div class="note">${fmtDate(v.published)}${v.views!=null?' · '+v.views+' צפיות':''}</div></div>`).join('');
   }
 }
+
+const STATUS_HE = {planned:'מתוכנן', researched:'מחקר מוכן', written:'תסריט מוכן', queued:'בתור לבנייה', building:'בבנייה', built:'נבנה, ממתין להעלאה', failed:'בנייה נכשלה', uploaded:'הועלה', scheduled:'מתוזמן'};
+const shortDate = d => d ? new Date(d+'T00:00:00Z').toLocaleDateString('he-IL', {day:'numeric', month:'numeric', year:'2-digit'}) : '';
+function renderPlan(p){
+  const c=$('#plan'), eps=p.episodes||[];
+  const done = eps.filter(e=>e.status_en==='scheduled'||e.status_en==='uploaded').length;
+  kv(c, [['מתוזמנים', `${done} מתוך ${eps.length}`], ['קצב', esc(p.cadence)], ['עודכן', fmtDate(p.generated_at)]]);
+  $('.eps', c).innerHTML = eps.map(e=>{
+    const st = STATUS_HE[e.status_en]||e.status_en, cls = e.status_en==='scheduled'?'ok':(e.status_en==='failed'?'bad':'');
+    const t = e.youtube_en ? link(e.youtube_en, `${e.number}. ${e.title_en}`) : esc(`${e.number}. ${e.title_en}`);
+    return `<div class="ep">${t} <span class="note">· ${esc(e.title_he)}</span><div class="note"><span class="dot ${cls}"></span> ${esc(st)}${e.release_en?' · '+shortDate(e.release_en):''}${e.hebrew?' · עברית: '+esc(e.hebrew):''}</div></div>`;
+  }).join('');
+}
+fetch('plan.json', {cache:'no-store'}).then(r=>r.ok?r.json():null).then(p=>{ if(p) renderPlan(p); }).catch(()=>{});
 
 async function fallbackFromFeed(){
   // status.json not published yet: show what the feed itself says
