@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-12T12:17:18+00:00",
+ "generated_at": "2026-09-12T14:30:11+00:00",
  "cadence": "ep2-6 weekly Monday; from ep7 Monday + Thursday, 23:00 UTC; Shorts on the days between",
  "episodes": [
   {
@@ -232,7 +232,7 @@
    "title_en": "A can of food",
    "title_he": "קופסת שימורים",
    "release_en": "2026-11-16",
-   "status_en": "queued",
+   "status_en": "built",
    "youtube_en": "",
    "shorts_en": [
     "",
