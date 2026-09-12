@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-12T05:45:29+00:00",
+ "generated_at": "2026-09-12T07:54:55+00:00",
  "cadence": "ep2-6 weekly Monday; from ep7 Monday + Thursday, 23:00 UTC; Shorts on the days between",
  "episodes": [
   {
@@ -184,7 +184,7 @@
    "title_en": "Reading glasses",
    "title_he": "משקפי ראייה",
    "release_en": "2026-11-05",
-   "status_en": "queued",
+   "status_en": "built",
    "youtube_en": "",
    "shorts_en": [
     "",
