@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-11T23:39:57+00:00",
+ "generated_at": "2026-09-12T00:48:20+00:00",
  "cadence": "ep2-6 weekly Monday; from ep7 Monday + Thursday, 23:00 UTC; Shorts on the days between",
  "episodes": [
   {
@@ -136,7 +136,7 @@
    "title_en": "A box of matches",
    "title_he": "קופסת גפרורים",
    "release_en": "2026-10-26",
-   "status_en": "building",
+   "status_en": "built",
    "youtube_en": "",
    "shorts_en": [
     "",
@@ -552,7 +552,7 @@
    "title_en": "A disposable razor",
    "title_he": "סכין גילוח",
    "release_en": "2027-01-25",
-   "status_en": "researched",
+   "status_en": "queued",
    "youtube_en": "",
    "shorts_en": [
     "",
@@ -560,7 +560,7 @@
     ""
    ],
    "youtube_he": "",
-   "hebrew": ""
+   "hebrew": "script ready"
   },
   {
    "slug": "036-eggs",
@@ -568,7 +568,7 @@
    "title_en": "A dozen eggs",
    "title_he": "תריסר ביצים",
    "release_en": "2027-01-28",
-   "status_en": "planned",
+   "status_en": "queued",
    "youtube_en": "",
    "shorts_en": [
     "",
@@ -576,7 +576,7 @@
     ""
    ],
    "youtube_he": "",
-   "hebrew": ""
+   "hebrew": "script ready"
   },
   {
    "slug": "037-honey",
@@ -584,7 +584,7 @@
    "title_en": "A jar of honey",
    "title_he": "צנצנת דבש",
    "release_en": "2027-02-01",
-   "status_en": "planned",
+   "status_en": "queued",
    "youtube_en": "",
    "shorts_en": [
     "",
@@ -592,7 +592,7 @@
     ""
    ],
    "youtube_he": "",
-   "hebrew": ""
+   "hebrew": "script ready"
   },
   {
    "slug": "038-blanket",
@@ -600,7 +600,7 @@
    "title_en": "A wool blanket",
    "title_he": "שמיכת צמר",
    "release_en": "2027-02-04",
-   "status_en": "planned",
+   "status_en": "researched",
    "youtube_en": "",
    "shorts_en": [
     "",
