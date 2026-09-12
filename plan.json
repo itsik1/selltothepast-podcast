@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-12T05:44:31+00:00",
+ "generated_at": "2026-09-12T05:44:53+00:00",
  "cadence": "ep2-6 weekly Monday; from ep7 Monday + Thursday, 23:00 UTC; Shorts on the days between",
  "episodes": [
   {
@@ -72,12 +72,12 @@
    "title_en": "Ice cubes",
    "title_he": "קוביות קרח מהמקפיא",
    "release_en": "2026-10-05",
-   "status_en": "built",
-   "youtube_en": "",
+   "status_en": "scheduled",
+   "youtube_en": "https://www.youtube.com/watch?v=B_4X2ySmcr8",
    "shorts_en": [
-    "",
-    "",
-    ""
+    "https://www.youtube.com/watch?v=B2fW5C4ZhVc",
+    "https://www.youtube.com/watch?v=-DiqNo-BWYU",
+    "https://www.youtube.com/watch?v=Pdz7foEwnEs"
    ],
    "youtube_he": "",
    "hebrew": "script ready"
