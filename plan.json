@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-12T05:45:04+00:00",
+ "generated_at": "2026-09-12T05:45:25+00:00",
  "cadence": "ep2-6 weekly Monday; from ep7 Monday + Thursday, 23:00 UTC; Shorts on the days between",
  "episodes": [
   {
@@ -104,12 +104,12 @@
    "title_en": "A cotton T-shirt",
    "title_he": "חולצת טי",
    "release_en": "2026-10-19",
-   "status_en": "built",
-   "youtube_en": "",
+   "status_en": "scheduled",
+   "youtube_en": "https://www.youtube.com/watch?v=6Gd8BGKShr8",
    "shorts_en": [
-    "",
-    "",
-    ""
+    "https://www.youtube.com/watch?v=gWzNxlToOkk",
+    "https://www.youtube.com/watch?v=IJUrbJZMCug",
+    "https://www.youtube.com/watch?v=h7ecXWDZpBs"
    ],
    "youtube_he": "",
    "hebrew": "script ready"
