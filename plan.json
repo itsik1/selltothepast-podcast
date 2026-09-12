@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-12T00:48:22+00:00",
+ "generated_at": "2026-09-12T01:34:16+00:00",
  "cadence": "ep2-6 weekly Monday; from ep7 Monday + Thursday, 23:00 UTC; Shorts on the days between",
  "episodes": [
   {
@@ -152,7 +152,7 @@
    "title_en": "A paperback",
    "title_he": "ספר כיס",
    "release_en": "2026-10-29",
-   "status_en": "queued",
+   "status_en": "building",
    "youtube_en": "",
    "shorts_en": [
     "",
@@ -600,7 +600,7 @@
    "title_en": "A wool blanket",
    "title_he": "שמיכת צמר",
    "release_en": "2027-02-04",
-   "status_en": "researched",
+   "status_en": "queued",
    "youtube_en": "",
    "shorts_en": [
     "",
@@ -608,7 +608,7 @@
     ""
    ],
    "youtube_he": "",
-   "hebrew": ""
+   "hebrew": "script ready"
   },
   {
    "slug": "039-vaccine",
@@ -616,7 +616,7 @@
    "title_en": "A vaccine",
    "title_he": "חיסון",
    "release_en": "2027-02-08",
-   "status_en": "planned",
+   "status_en": "queued",
    "youtube_en": "",
    "shorts_en": [
     "",
@@ -624,7 +624,7 @@
     ""
    ],
    "youtube_he": "",
-   "hebrew": ""
+   "hebrew": "script ready"
   },
   {
    "slug": "040-batteries",
@@ -632,7 +632,7 @@
    "title_en": "A pack of AA batteries",
    "title_he": "חבילת סוללות",
    "release_en": "2027-02-11",
-   "status_en": "planned",
+   "status_en": "queued",
    "youtube_en": "",
    "shorts_en": [
     "",
@@ -640,7 +640,7 @@
     ""
    ],
    "youtube_he": "",
-   "hebrew": ""
+   "hebrew": "script ready"
   }
  ]
 }
