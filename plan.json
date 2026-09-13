@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-13T01:31:00+00:00",
+ "generated_at": "2026-09-13T03:31:03+00:00",
  "cadence": "ep2-6 weekly Monday; from ep7 Monday + Thursday, 23:00 UTC; Shorts on the days between",
  "episodes": [
   {
@@ -328,7 +328,7 @@
    "title_en": "A pineapple",
    "title_he": "אננס",
    "release_en": "2026-12-07",
-   "status_en": "queued",
+   "status_en": "building",
    "youtube_en": "",
    "shorts_en": [
     "",
