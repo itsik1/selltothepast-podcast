@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-13T03:41:13+00:00",
+ "generated_at": "2026-09-13T05:52:06+00:00",
  "cadence": "ep2-6 weekly Monday; from ep7 Monday + Thursday, 23:00 UTC; Shorts on the days between",
  "episodes": [
   {
@@ -120,12 +120,12 @@
    "title_en": "A box of painkillers",
    "title_he": "אקמול",
    "release_en": "2026-10-22",
-   "status_en": "built",
-   "youtube_en": "",
+   "status_en": "scheduled",
+   "youtube_en": "https://www.youtube.com/watch?v=wBIjyXVHlUs",
    "shorts_en": [
-    "",
-    "",
-    ""
+    "https://www.youtube.com/watch?v=OfBpXkrEp_g",
+    "https://www.youtube.com/watch?v=h7uvvsdcuJ0",
+    "https://www.youtube.com/watch?v=GOnCqX1sklQ"
    ],
    "youtube_he": "",
    "hebrew": "script ready"
@@ -344,7 +344,7 @@
    "title_en": "A carton of milk",
    "title_he": "קרטון חלב",
    "release_en": "2026-12-10",
-   "status_en": "queued",
+   "status_en": "built",
    "youtube_en": "",
    "shorts_en": [
     "",
