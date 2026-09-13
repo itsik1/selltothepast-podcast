@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-13T05:52:06+00:00",
+ "generated_at": "2026-09-13T05:52:27+00:00",
  "cadence": "ep2-6 weekly Monday; from ep7 Monday + Thursday, 23:00 UTC; Shorts on the days between",
  "episodes": [
   {
@@ -136,12 +136,12 @@
    "title_en": "A box of matches",
    "title_he": "קופסת גפרורים",
    "release_en": "2026-10-26",
-   "status_en": "built",
-   "youtube_en": "",
+   "status_en": "scheduled",
+   "youtube_en": "https://www.youtube.com/watch?v=L7OgrQimm78",
    "shorts_en": [
-    "",
-    "",
-    ""
+    "https://www.youtube.com/watch?v=wwq5GeVDj5c",
+    "https://www.youtube.com/watch?v=Zj2YfN9YI5E",
+    "https://www.youtube.com/watch?v=_sFim5WOE1k"
    ],
    "youtube_he": "",
    "hebrew": "script ready"
