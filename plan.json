@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-14T03:55:06+00:00",
+ "generated_at": "2026-09-14T06:06:50+00:00",
  "cadence": "ep2-6 weekly Monday; from ep7 Monday + Thursday, 23:00 UTC; Shorts on the days between",
  "episodes": [
   {
@@ -155,9 +155,9 @@
    "status_en": "scheduled",
    "youtube_en": "https://www.youtube.com/watch?v=rbhrSbTES_A",
    "shorts_en": [
-    "",
+    "https://www.youtube.com/watch?v=0PZbLdjTY5U",
     "https://www.youtube.com/watch?v=31k7L9lLank",
-    ""
+    "https://www.youtube.com/watch?v=9xClDKlrVzM"
    ],
    "youtube_he": "",
    "hebrew": "script ready"
@@ -520,7 +520,7 @@
    "title_en": "An umbrella",
    "title_he": "מטרייה",
    "release_en": "2027-01-18",
-   "status_en": "queued",
+   "status_en": "built",
    "youtube_en": "",
    "shorts_en": [
     "",
