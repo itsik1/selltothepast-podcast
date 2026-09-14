@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-14T06:07:41+00:00",
- "cadence": "ep2-6 weekly Monday; from ep7 Monday + Thursday, 23:00 UTC; Shorts on the days between",
+ "generated_at": "2026-09-14T07:18:38+00:00",
+ "cadence": "ep2-6 weekly Monday; from ep7 Monday, Wednesday and Friday, 23:00 UTC; a Short every day",
  "episodes": [
   {
    "slug": "001-bread",
@@ -119,7 +119,7 @@
    "number": 8,
    "title_en": "A box of painkillers",
    "title_he": "אקמול",
-   "release_en": "2026-10-22",
+   "release_en": "2026-10-21",
    "status_en": "scheduled",
    "youtube_en": "https://www.youtube.com/watch?v=wBIjyXVHlUs",
    "shorts_en": [
@@ -135,7 +135,7 @@
    "number": 9,
    "title_en": "A box of matches",
    "title_he": "קופסת גפרורים",
-   "release_en": "2026-10-26",
+   "release_en": "2026-10-23",
    "status_en": "scheduled",
    "youtube_en": "https://www.youtube.com/watch?v=L7OgrQimm78",
    "shorts_en": [
@@ -151,7 +151,7 @@
    "number": 10,
    "title_en": "A paperback",
    "title_he": "ספר כיס",
-   "release_en": "2026-10-29",
+   "release_en": "2026-10-26",
    "status_en": "scheduled",
    "youtube_en": "https://www.youtube.com/watch?v=rbhrSbTES_A",
    "shorts_en": [
@@ -167,7 +167,7 @@
    "number": 11,
    "title_en": "A cup of coffee",
    "title_he": "כוס קפה",
-   "release_en": "2026-11-02",
+   "release_en": "2026-10-28",
    "status_en": "scheduled",
    "youtube_en": "https://www.youtube.com/watch?v=PcTevO1oB-8",
    "shorts_en": [
@@ -183,7 +183,7 @@
    "number": 12,
    "title_en": "Reading glasses",
    "title_he": "משקפי ראייה",
-   "release_en": "2026-11-05",
+   "release_en": "2026-10-30",
    "status_en": "scheduled",
    "youtube_en": "https://www.youtube.com/watch?v=FS_DUEkrfZI",
    "shorts_en": [
@@ -199,7 +199,7 @@
    "number": 13,
    "title_en": "A chocolate bar",
    "title_he": "חפיסת שוקולד",
-   "release_en": "2026-11-09",
+   "release_en": "2026-11-02",
    "status_en": "built",
    "youtube_en": "",
    "shorts_en": [
@@ -215,7 +215,7 @@
    "number": 14,
    "title_en": "A ballpoint pen",
    "title_he": "עט כדורי",
-   "release_en": "2026-11-12",
+   "release_en": "2026-11-04",
    "status_en": "built",
    "youtube_en": "",
    "shorts_en": [
@@ -231,7 +231,7 @@
    "number": 15,
    "title_en": "A can of food",
    "title_he": "קופסת שימורים",
-   "release_en": "2026-11-16",
+   "release_en": "2026-11-06",
    "status_en": "built",
    "youtube_en": "",
    "shorts_en": [
@@ -247,7 +247,7 @@
    "number": 16,
    "title_en": "A course of antibiotics",
    "title_he": "אנטיביוטיקה",
-   "release_en": "2026-11-19",
+   "release_en": "2026-11-09",
    "status_en": "built",
    "youtube_en": "",
    "shorts_en": [
@@ -263,7 +263,7 @@
    "number": 17,
    "title_en": "A roll of toilet paper",
    "title_he": "גליל נייר טואלט",
-   "release_en": "2026-11-23",
+   "release_en": "2026-11-11",
    "status_en": "built",
    "youtube_en": "",
    "shorts_en": [
@@ -279,7 +279,7 @@
    "number": 18,
    "title_en": "A banana",
    "title_he": "בננה",
-   "release_en": "2026-11-26",
+   "release_en": "2026-11-13",
    "status_en": "built",
    "youtube_en": "",
    "shorts_en": [
@@ -295,7 +295,7 @@
    "number": 19,
    "title_en": "The phone camera",
    "title_he": "מצלמת הטלפון",
-   "release_en": "2026-11-30",
+   "release_en": "2026-11-16",
    "status_en": "built",
    "youtube_en": "",
    "shorts_en": [
@@ -311,7 +311,7 @@
    "number": 20,
    "title_en": "A smartphone",
    "title_he": "סמארטפון",
-   "release_en": "2026-12-03",
+   "release_en": "2026-11-18",
    "status_en": "built",
    "youtube_en": "",
    "shorts_en": [
@@ -327,7 +327,7 @@
    "number": 21,
    "title_en": "A pineapple",
    "title_he": "אננס",
-   "release_en": "2026-12-07",
+   "release_en": "2026-11-20",
    "status_en": "built",
    "youtube_en": "",
    "shorts_en": [
@@ -343,7 +343,7 @@
    "number": 22,
    "title_en": "A carton of milk",
    "title_he": "קרטון חלב",
-   "release_en": "2026-12-10",
+   "release_en": "2026-11-23",
    "status_en": "built",
    "youtube_en": "",
    "shorts_en": [
@@ -359,7 +359,7 @@
    "number": 23,
    "title_en": "An orange",
    "title_he": "תפוז",
-   "release_en": "2026-12-14",
+   "release_en": "2026-11-25",
    "status_en": "built",
    "youtube_en": "",
    "shorts_en": [
@@ -375,7 +375,7 @@
    "number": 24,
    "title_en": "A bar of soap",
    "title_he": "סבון",
-   "release_en": "2026-12-17",
+   "release_en": "2026-11-27",
    "status_en": "built",
    "youtube_en": "",
    "shorts_en": [
@@ -391,7 +391,7 @@
    "number": 25,
    "title_en": "A pair of socks",
    "title_he": "זוג גרביים",
-   "release_en": "2026-12-21",
+   "release_en": "2026-11-30",
    "status_en": "built",
    "youtube_en": "",
    "shorts_en": [
@@ -407,7 +407,7 @@
    "number": 26,
    "title_en": "A hand mirror",
    "title_he": "מראה",
-   "release_en": "2026-12-24",
+   "release_en": "2026-12-02",
    "status_en": "built",
    "youtube_en": "",
    "shorts_en": [
@@ -423,7 +423,7 @@
    "number": 27,
    "title_en": "A box of nails",
    "title_he": "קופסת מסמרים",
-   "release_en": "2026-12-28",
+   "release_en": "2026-12-04",
    "status_en": "built",
    "youtube_en": "",
    "shorts_en": [
@@ -439,7 +439,7 @@
    "number": 28,
    "title_en": "A pane of window glass",
    "title_he": "שמשת חלון",
-   "release_en": "2026-12-31",
+   "release_en": "2026-12-07",
    "status_en": "built",
    "youtube_en": "",
    "shorts_en": [
@@ -455,7 +455,7 @@
    "number": 29,
    "title_en": "A box of tea bags",
    "title_he": "קופסת תה",
-   "release_en": "2027-01-04",
+   "release_en": "2026-12-09",
    "status_en": "built",
    "youtube_en": "",
    "shorts_en": [
@@ -471,7 +471,7 @@
    "number": 30,
    "title_en": "A jar of black pepper",
    "title_he": "פלפל שחור",
-   "release_en": "2027-01-07",
+   "release_en": "2026-12-11",
    "status_en": "built",
    "youtube_en": "",
    "shorts_en": [
@@ -487,7 +487,7 @@
    "number": 31,
    "title_en": "A wristwatch",
    "title_he": "שעון יד",
-   "release_en": "2027-01-11",
+   "release_en": "2026-12-14",
    "status_en": "built",
    "youtube_en": "",
    "shorts_en": [
@@ -503,7 +503,7 @@
    "number": 32,
    "title_en": "A pencil",
    "title_he": "עיפרון",
-   "release_en": "2027-01-14",
+   "release_en": "2026-12-16",
    "status_en": "built",
    "youtube_en": "",
    "shorts_en": [
@@ -519,7 +519,7 @@
    "number": 33,
    "title_en": "An umbrella",
    "title_he": "מטרייה",
-   "release_en": "2027-01-18",
+   "release_en": "2026-12-18",
    "status_en": "built",
    "youtube_en": "",
    "shorts_en": [
@@ -535,8 +535,8 @@
    "number": 34,
    "title_en": "A toothbrush",
    "title_he": "מברשת שיניים",
-   "release_en": "2027-01-21",
-   "status_en": "queued",
+   "release_en": "2026-12-21",
+   "status_en": "building",
    "youtube_en": "",
    "shorts_en": [
     "",
@@ -551,7 +551,7 @@
    "number": 35,
    "title_en": "A disposable razor",
    "title_he": "סכין גילוח",
-   "release_en": "2027-01-25",
+   "release_en": "2026-12-23",
    "status_en": "queued",
    "youtube_en": "",
    "shorts_en": [
@@ -567,7 +567,7 @@
    "number": 36,
    "title_en": "A dozen eggs",
    "title_he": "תריסר ביצים",
-   "release_en": "2027-01-28",
+   "release_en": "2026-12-25",
    "status_en": "queued",
    "youtube_en": "",
    "shorts_en": [
@@ -583,7 +583,7 @@
    "number": 37,
    "title_en": "A jar of honey",
    "title_he": "צנצנת דבש",
-   "release_en": "2027-02-01",
+   "release_en": "2026-12-28",
    "status_en": "queued",
    "youtube_en": "",
    "shorts_en": [
@@ -599,7 +599,7 @@
    "number": 38,
    "title_en": "A wool blanket",
    "title_he": "שמיכת צמר",
-   "release_en": "2027-02-04",
+   "release_en": "2026-12-30",
    "status_en": "queued",
    "youtube_en": "",
    "shorts_en": [
@@ -615,7 +615,7 @@
    "number": 39,
    "title_en": "A vaccine",
    "title_he": "חיסון",
-   "release_en": "2027-02-08",
+   "release_en": "2027-01-01",
    "status_en": "queued",
    "youtube_en": "",
    "shorts_en": [
@@ -631,7 +631,7 @@
    "number": 40,
    "title_en": "A pack of AA batteries",
    "title_he": "חבילת סוללות",
-   "release_en": "2027-02-11",
+   "release_en": "2027-01-04",
    "status_en": "queued",
    "youtube_en": "",
    "shorts_en": [
