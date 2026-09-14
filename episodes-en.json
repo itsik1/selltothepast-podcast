@@ -8,5 +8,15 @@
     "bytes": 7324815,
     "seconds": 428,
     "published": "2026-09-06T23:00:00+00:00"
+  },
+  {
+    "slug": "002-tap-water",
+    "title": "I tried to sell a litre of water to a man who sells water in 1854. Then I said one word",
+    "summary": "I took a one-litre bottle of tap water, worth a fifth of a cent in the US, into a time machine. I tried to sell it to a water carrier in cholera-era London, to a water carrier in Paris before the Revolution, and to a sailor in the middle of the ocean in 1812. Who paid the most, and why, says something about what water really costs.\n\nChapters:\n0:00 The bottle and the rules\n0:35 London, 1854: William\n3:00 Paris, 1785: Jacques\n5:30 The ocean, 1812: Tom\n7:30 Back to today\n\nSources:\n- US EPA WaterSense, national average water rates: https://www.epa.gov/watersense/data-and-information-used-watersense\n- US federal minimum wage: https://www.usa.gov/minimum-wage\n- All historical sources are listed in research/research.md of the episode (Wellcome Collection, John Snow archive, Paris Musées, USS Constitution Museum).\nImages: Wikimedia Commons, public domain / CC (credit on screen).",
+    "file": "audio/002-tap-water.en.mp3",
+    "url": "https://itsik1.github.io/selltothepast-podcast/audio/002-tap-water.en.mp3",
+    "bytes": 7150111,
+    "seconds": 417,
+    "published": "2026-09-14T23:00:00+00:00"
   }
 ]

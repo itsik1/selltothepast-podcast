@@ -13,6 +13,28 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>I tried to sell a litre of water to a man who sells water in 1854. Then I said one word</title>
+      <description>I took a one-litre bottle of tap water, worth a fifth of a cent in the US, into a time machine. I tried to sell it to a water carrier in cholera-era London, to a water carrier in Paris before the Revolution, and to a sailor in the middle of the ocean in 1812. Who paid the most, and why, says something about what water really costs.
+
+Chapters:
+0:00 The bottle and the rules
+0:35 London, 1854: William
+3:00 Paris, 1785: Jacques
+5:30 The ocean, 1812: Tom
+7:30 Back to today
+
+Sources:
+- US EPA WaterSense, national average water rates: https://www.epa.gov/watersense/data-and-information-used-watersense
+- US federal minimum wage: https://www.usa.gov/minimum-wage
+- All historical sources are listed in research/research.md of the episode (Wellcome Collection, John Snow archive, Paris Musées, USS Constitution Museum).
+Images: Wikimedia Commons, public domain / CC (credit on screen).</description>
+      <enclosure url="https://itsik1.github.io/selltothepast-podcast/audio/002-tap-water.en.mp3" length="7150111" type="audio/mpeg"/>
+      <guid isPermaLink="false">002-tap-water</guid>
+      <pubDate>Mon, 14 Sep 2026 23:00:00 +0000</pubDate>
+      <itunes:duration>00:06:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>I tried to sell a supermarket loaf of bread to people in 1795. Here's what they paid</title>
       <description>A standard sliced loaf costs about $2.30 in the US, or 19 minutes of work at the federal minimum wage. In this first episode I take it into a time machine and try to sell it three times: to a farm labourer in England in the hungry summer of 1795, where a loaf cost five hours in the field; to a builder in Rome in 301 AD, where the wheat in a loaf cost two hours but white bread was status; and to a clerk in Paris under siege in 1870, where 300 grams a day were rationed and no money bought more. The best buyer wasn't the richest. All numbers with sources in the description.</description>
       <enclosure url="https://itsik1.github.io/selltothepast-podcast/audio/001-bread.en.mp3" length="7324815" type="audio/mpeg"/>
