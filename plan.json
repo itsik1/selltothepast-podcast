@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-14T06:06:50+00:00",
+ "generated_at": "2026-09-14T06:07:13+00:00",
  "cadence": "ep2-6 weekly Monday; from ep7 Monday + Thursday, 23:00 UTC; Shorts on the days between",
  "episodes": [
   {
@@ -168,12 +168,12 @@
    "title_en": "A cup of coffee",
    "title_he": "כוס קפה",
    "release_en": "2026-11-02",
-   "status_en": "built",
-   "youtube_en": "",
+   "status_en": "scheduled",
+   "youtube_en": "https://www.youtube.com/watch?v=PcTevO1oB-8",
    "shorts_en": [
-    "",
-    "",
-    ""
+    "https://www.youtube.com/watch?v=jdNg7zwGC4w",
+    "https://www.youtube.com/watch?v=o8Bb_utlStA",
+    "https://www.youtube.com/watch?v=f68eZ3GuuQ4"
    ],
    "youtube_he": "",
    "hebrew": "script ready"
