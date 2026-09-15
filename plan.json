@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-15T03:06:04+00:00",
+ "generated_at": "2026-09-15T05:13:58+00:00",
  "cadence": "ep2-6 weekly Monday; from ep7 Monday, Wednesday and Friday, 23:00 UTC; a Short every day",
  "episodes": [
   {
@@ -632,7 +632,7 @@
    "title_en": "A pack of AA batteries",
    "title_he": "חבילת סוללות",
    "release_en": "2027-01-04",
-   "status_en": "queued",
+   "status_en": "built",
    "youtube_en": "",
    "shorts_en": [
     "",
