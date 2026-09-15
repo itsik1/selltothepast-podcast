@@ -1,0 +1,367 @@
+<title>Buds4 Pro on BuyMe</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Heebo:wght@400;500;700;900&family=IBM+Plex+Mono:wght@400;500;600&display=swap">
+<style>
+  :root {
+    --ground: #eef1f5;
+    --surface: #ffffff;
+    --surface-2: #f6f8fa;
+    --ink: #131920;
+    --ink-2: #4a5663;
+    --ink-3: #74818f;
+    --line: #d8dee6;
+    --line-2: #e7ecf1;
+    --accent: #0b5fbb;
+    --accent-soft: #e3edfa;
+    --stop: #9c4a12;
+    --stop-soft: #fbeade;
+    --go: #176944;
+    --go-soft: #e0f0e8;
+
+    --font-body: 'Heebo', system-ui, -apple-system, 'Segoe UI', sans-serif;
+    --font-mono: 'IBM Plex Mono', ui-monospace, 'SF Mono', Menlo, monospace;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --ground: #0d1116;
+      --surface: #161c23;
+      --surface-2: #1d242c;
+      --ink: #e7ecf2;
+      --ink-2: #a3b0bd;
+      --ink-3: #7d8a97;
+      --line: #2b343e;
+      --line-2: #222a33;
+      --accent: #5aa2ef;
+      --accent-soft: #16283d;
+      --stop: #e0965c;
+      --stop-soft: #33220f;
+      --go: #5cc294;
+      --go-soft: #10291e;
+    }
+  }
+  :root[data-theme="dark"] {
+    --ground: #0d1116;
+    --surface: #161c23;
+    --surface-2: #1d242c;
+    --ink: #e7ecf2;
+    --ink-2: #a3b0bd;
+    --ink-3: #7d8a97;
+    --line: #2b343e;
+    --line-2: #222a33;
+    --accent: #5aa2ef;
+    --accent-soft: #16283d;
+    --stop: #e0965c;
+    --stop-soft: #33220f;
+    --go: #5cc294;
+    --go-soft: #10291e;
+  }
+
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--ground);
+    color: var(--ink);
+    font-family: var(--font-body);
+    font-size: 16px;
+    line-height: 1.55;
+    -webkit-font-smoothing: antialiased;
+  }
+  .wrap {
+    max-width: 760px;
+    margin: 0 auto;
+    padding-inline: 18px;
+    padding-block: 28px 56px;
+    display: flex;
+    flex-direction: column;
+    gap: 26px;
+  }
+
+  .eyebrow {
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: .13em;
+    text-transform: uppercase;
+    color: var(--ink-3);
+    margin: 0;
+  }
+  h1 {
+    font-size: clamp(27px, 6.6vw, 40px);
+    line-height: 1.12;
+    font-weight: 900;
+    letter-spacing: -.022em;
+    text-wrap: balance;
+    margin: 6px 0 0;
+  }
+  .sub { color: var(--ink-2); margin: 10px 0 0; max-width: 60ch; }
+  .mono { font-family: var(--font-mono); font-variant-numeric: tabular-nums; }
+
+  /* Verdict */
+  .verdict {
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-left: 5px solid var(--stop);
+    border-radius: 3px;
+    padding: 20px 22px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  .verdict h2 {
+    margin: 0;
+    font-size: 19px;
+    font-weight: 700;
+    letter-spacing: -.01em;
+  }
+  .verdict p { margin: 0; color: var(--ink-2); }
+
+  .tag {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    align-self: flex-start;
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: .09em;
+    text-transform: uppercase;
+    padding: 4px 9px;
+    border-radius: 2px;
+  }
+  .tag-stop { background: var(--stop-soft); color: var(--stop); }
+  .tag-go   { background: var(--go-soft);   color: var(--go); }
+
+  /* Model comparison */
+  .models { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+  .model {
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: 3px;
+    padding: 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 7px;
+  }
+  .model .sku {
+    font-family: var(--font-mono);
+    font-size: 12px;
+    font-weight: 600;
+    color: var(--ink-3);
+    letter-spacing: .02em;
+  }
+  .model .name { font-weight: 700; font-size: 16px; line-height: 1.25; }
+  .model .price {
+    font-family: var(--font-mono);
+    font-variant-numeric: tabular-nums;
+    font-size: 25px;
+    font-weight: 600;
+    letter-spacing: -.02em;
+  }
+  .model .note { font-size: 13px; color: var(--ink-2); line-height: 1.45; }
+
+  h2.section {
+    margin: 0 0 2px;
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: .1em;
+    text-transform: uppercase;
+    color: var(--ink-3);
+  }
+  .block { display: flex; flex-direction: column; gap: 12px; }
+
+  /* Store cards */
+  .store {
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: 3px;
+    overflow: hidden;
+  }
+  .store-head {
+    padding: 14px 16px;
+    border-bottom: 1px solid var(--line-2);
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 12px;
+    flex-wrap: wrap;
+  }
+  .store-name { font-weight: 700; font-size: 17px; }
+  .store-role { font-size: 12.5px; color: var(--ink-3); }
+  .branches { display: flex; flex-direction: column; }
+  .branch {
+    padding: 12px 16px;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 14px;
+    flex-wrap: wrap;
+    border-top: 1px solid var(--line-2);
+  }
+  .branch:first-child { border-top: 0; }
+  .branch-where { display: flex; flex-direction: column; gap: 2px; min-width: 0; }
+  .branch-city { font-weight: 500; }
+  .branch-addr { font-size: 13.5px; color: var(--ink-2); }
+  .branch a {
+    font-family: var(--font-mono);
+    font-size: 14px;
+    color: var(--accent);
+    text-decoration: none;
+    white-space: nowrap;
+    border-bottom: 1px solid transparent;
+  }
+  .branch a:hover, .branch a:focus-visible { border-bottom-color: var(--accent); }
+
+  .callout {
+    background: var(--accent-soft);
+    border-radius: 3px;
+    padding: 15px 17px;
+    font-size: 14.5px;
+    color: var(--ink);
+    line-height: 1.5;
+  }
+  .callout strong { font-weight: 700; }
+
+  ul.plain { margin: 0; padding-inline-start: 19px; color: var(--ink-2); display: flex; flex-direction: column; gap: 6px; }
+  ul.plain li::marker { color: var(--ink-3); }
+
+  footer {
+    border-top: 1px solid var(--line);
+    padding-top: 16px;
+    font-size: 13px;
+    color: var(--ink-3);
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+  }
+  footer a { color: var(--accent); text-decoration: none; }
+  footer a:hover { text-decoration: underline; }
+  a:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; border-radius: 2px; }
+
+  @media (max-width: 480px) {
+    .models { grid-template-columns: 1fr; }
+  }
+</style>
+
+<div class="wrap">
+
+  <header>
+    <p class="eyebrow">BUYME ALL · 1,310 businesses checked</p>
+    <h1>The Buds4 Pro isn't buyable with your BuyMe voucher</h1>
+    <p class="sub">
+      Not one merchant in the BUYME ALL network carries <span class="mono">SM-R640</span>.
+      Every electronics chain on the list tops out one generation earlier, at the Buds3 Pro.
+    </p>
+  </header>
+
+  <section class="verdict">
+    <span class="tag tag-stop">Dead end</span>
+    <h2>Searched all 14 electronics &amp; mobile merchants</h2>
+    <p>
+      שקם אלקטריק, BIG Electric, חשמל נטו, טרקלין חשמל, Alltech, MOBICELL, BARCOM,
+      ליאור מוצרי חשמל and Intech all stock Samsung audio — and all of them stop at
+      <span class="mono">SM-R630</span>. The Buds4 Pro launched in March 2026 and hasn't
+      reached the BuyMe merchant network.
+    </p>
+  </section>
+
+  <section class="block">
+    <h2 class="section">Your two options</h2>
+    <div class="models">
+      <div class="model">
+        <span class="tag tag-go">Voucher works</span>
+        <span class="sku">SM-R630</span>
+        <span class="name">Galaxy Buds3 Pro</span>
+        <span class="price">₪494</span>
+        <span class="note">Previous generation. In stock at two BuyMe chains near you. Pay in-store with the voucher.</span>
+      </div>
+      <div class="model">
+        <span class="tag tag-stop">No voucher</span>
+        <span class="sku">SM-R640</span>
+        <span class="name">Galaxy Buds4 Pro</span>
+        <span class="price">₪552</span>
+        <span class="note">The one you wanted. Samsung IL, KSP, Bug, i-cell — none accept BuyMe. You'd pay full price.</span>
+      </div>
+    </div>
+  </section>
+
+  <section class="block">
+    <h2 class="section">Closest branches to Ariel</h2>
+
+    <div class="store">
+      <div class="store-head">
+        <span class="store-name">שקם אלקטריק</span>
+        <span class="store-role">Confirmed Buds3 Pro listing · In-store redemption</span>
+      </div>
+      <div class="branches">
+        <div class="branch">
+          <span class="branch-where">
+            <span class="branch-city">כפר סבא</span>
+            <span class="branch-addr">ויצמן 301, מתחם G · א׳–ה׳ 09:30–21:30, ו׳ 09:00–14:30</span>
+          </span>
+          <a href="tel:0732240572">073-2240572</a>
+        </div>
+        <div class="branch">
+          <span class="branch-where">
+            <span class="branch-city">פתח תקווה</span>
+            <span class="branch-addr">צומת סגולה · also ירקונים 58 / פינטו 1</span>
+          </span>
+          <a href="tel:037262428">03-7262428</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="store">
+      <div class="store-head">
+        <span class="store-name">BIG Electric</span>
+        <span class="store-role">Confirmed Buds3 Pro, white &amp; silver · In-store redemption</span>
+      </div>
+      <div class="branches">
+        <div class="branch">
+          <span class="branch-where">
+            <span class="branch-city">23 branches nationwide</span>
+            <span class="branch-addr">Use the branch finder to pick the closest — bigelectric.co.il/pointofsale</span>
+          </span>
+          <a href="tel:6387">6387*</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="store">
+      <div class="store-head">
+        <span class="store-name">חשמל נטו</span>
+        <span class="store-role">Carries current Samsung · Buds3 Pro not confirmed</span>
+      </div>
+      <div class="branches">
+        <div class="branch">
+          <span class="branch-where">
+            <span class="branch-city">פתח תקווה</span>
+            <span class="branch-addr">השחם 17, מתחם יכין סנטר</span>
+          </span>
+          <a href="tel:1599505066">1599-50-50-66</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <div class="callout">
+    <strong>Call before you drive.</strong> Per-branch stock isn't published anywhere online —
+    a chain-wide product page doesn't mean the Kfar Saba shelf has one. Phone the branch,
+    quote <span class="mono">SM-R630</span>, and confirm they take BuyMe at the register
+    while you're on the line.
+  </div>
+
+  <section class="block">
+    <h2 class="section">How confident is this</h2>
+    <ul class="plain">
+      <li><strong>Merchant list</strong> — complete. All 1,310 BUYME ALL businesses, 425 of them online-redemption.</li>
+      <li><strong>Buds3 Pro at שקם אלקטריק and BIG Electric</strong> — live product pages found for both.</li>
+      <li><strong>No SM-R640 anywhere on the list</strong> — searched every electronics merchant. Strong, but it's search-index evidence, not a shelf check.</li>
+      <li><strong>Branch-level stock</strong> — unverified, and not checkable remotely. Hence the phone numbers.</li>
+    </ul>
+  </section>
+
+  <footer>
+    <span>Prices are lowest listed on Zap, September 2026, and move week to week.</span>
+    <span>Sources: BUYME ALL merchant export · <a href="https://www.shekem-electric.co.il/339085.html">שקם אלקטריק product page</a> · <a href="https://www.zap.co.il/model.aspx?modelid=1263110">Zap SM-R640</a></span>
+  </footer>
+
+</div>
