@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-15T05:31:56+00:00",
+ "generated_at": "2026-09-15T17:16:21+00:00",
  "cadence": "episode every second day; its standalone Short the evening before, curiosity Short the same evening, recap Short the next day (1-2 videos a day)",
  "episodes": [
   {
@@ -200,12 +200,12 @@
    "title_en": "A chocolate bar",
    "title_he": "חפיסת שוקולד",
    "release_en": "2026-10-07",
-   "status_en": "built",
-   "youtube_en": "",
+   "status_en": "scheduled",
+   "youtube_en": "https://www.youtube.com/watch?v=6_Yzn1-YBVI",
    "shorts_en": [
-    "",
-    "",
-    ""
+    "https://www.youtube.com/watch?v=9LlwK1bpIkE",
+    "https://www.youtube.com/watch?v=ZV2UyjqqDdQ",
+    "https://www.youtube.com/watch?v=D9oJUdpkS2Q"
    ],
    "youtube_he": "",
    "hebrew": "script ready"
@@ -296,8 +296,8 @@
    "title_en": "The phone camera",
    "title_he": "מצלמת הטלפון",
    "release_en": "2026-10-19",
-   "status_en": "built",
-   "youtube_en": "",
+   "status_en": "scheduled",
+   "youtube_en": "https://www.youtube.com/watch?v=whNVeTcrCHI",
    "shorts_en": [
     "",
     "",
@@ -344,8 +344,8 @@
    "title_en": "A carton of milk",
    "title_he": "קרטון חלב",
    "release_en": "2026-10-25",
-   "status_en": "built",
-   "youtube_en": "",
+   "status_en": "scheduled",
+   "youtube_en": "https://www.youtube.com/watch?v=HQo8ZRNGUAU",
    "shorts_en": [
     "",
     "",
