@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Intech",
+    "online_redemption": true,
+    "category": null,
+    "website": "https://intech-trade.co.il/",
+    "domain": "intech-trade.co.il",
+    "tier": "A",
+    "classification": "Electronics importer / mobile accessories distributor",
+    "sells_sm_r640": "unverified",
+    "buyme_checkout": "unverified"
+  },
+  {
+    "name": "ליאור מוצרי חשמל",
+    "online_redemption": true,
+    "category": null,
+    "website": "https://www.lior-electric.co.il/",
+    "domain": "lior-electric.co.il",
+    "tier": "A",
+    "classification": "Electronics retailer - smartphones, laptops, Samsung audio, appliances",
+    "sells_sm_r640": "unverified",
+    "buyme_checkout": "unverified"
+  },
+  {
+    "name": "DREAME",
+    "online_redemption": true,
+    "category": null,
+    "website": "https://www.dreame-israel.co.il/",
+    "domain": "dreame-israel.co.il",
+    "tier": "B",
+    "classification": "Smart home - robot vacuums",
+    "sells_sm_r640": "unverified",
+    "buyme_checkout": "unverified"
+  },
+  {
+    "name": "NEXTHEAT",
+    "online_redemption": true,
+    "category": null,
+    "website": "https://nextheat.co.il/",
+    "domain": "nextheat.co.il",
+    "tier": "B",
+    "classification": "Home heating appliances",
+    "sells_sm_r640": "unverified",
+    "buyme_checkout": "unverified"
+  },
+  {
+    "name": "SMEG",
+    "online_redemption": true,
+    "category": null,
+    "website": "https://shop.smeg.co.il/",
+    "domain": "shop.smeg.co.il",
+    "tier": "B",
+    "classification": "Kitchen appliances",
+    "sells_sm_r640": "unverified",
+    "buyme_checkout": "unverified"
+  },
+  {
+    "name": "SWING",
+    "online_redemption": true,
+    "category": null,
+    "website": "https://www.swingfans.co.il/",
+    "domain": "swingfans.co.il",
+    "tier": "B",
+    "classification": "Fans / small appliances",
+    "sells_sm_r640": "unverified",
+    "buyme_checkout": "unverified"
+  },
+  {
+    "name": "Smoovee",
+    "online_redemption": true,
+    "category": null,
+    "website": "https://smoovee-ltd.com/he/",
+    "domain": "smoovee-ltd.com",
+    "tier": "B",
+    "classification": "Electric mobility",
+    "sells_sm_r640": "unverified",
+    "buyme_checkout": "unverified"
+  },
+  {
+    "name": "Water.io",
+    "online_redemption": true,
+    "category": null,
+    "website": "https://il.water.io/",
+    "domain": "il.water.io",
+    "tier": "B",
+    "classification": "Smart water bottles",
+    "sells_sm_r640": "unverified",
+    "buyme_checkout": "unverified"
+  },
+  {
+    "name": "XI MOBILITY",
+    "online_redemption": true,
+    "category": null,
+    "website": "https://xi-mobility.co.il/",
+    "domain": "xi-mobility.co.il",
+    "tier": "B",
+    "classification": "Electric mobility",
+    "sells_sm_r640": "unverified",
+    "buyme_checkout": "unverified"
+  },
+  {
+    "name": "ofiyaa israel",
+    "online_redemption": true,
+    "category": null,
+    "website": "https://ofiyaa-israel.com/",
+    "domain": "ofiyaa-israel.com",
+    "tier": "B",
+    "classification": "Portable monitors / computer peripherals",
+    "sells_sm_r640": "unverified",
+    "buyme_checkout": "unverified"
+  }
+]

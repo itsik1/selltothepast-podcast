@@ -2,5 +2,4 @@
 __pycache__/
 
 # buyme_merchants.js output
-merchants.json
 api-log.json
