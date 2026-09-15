@@ -18,43 +18,26 @@
     --stop-soft: #fbeade;
     --go: #176944;
     --go-soft: #e0f0e8;
-
     --font-body: 'Heebo', system-ui, -apple-system, 'Segoe UI', sans-serif;
-    --font-mono: 'IBM Plex Mono', ui-monospace, 'SF Mono', Menlo, monospace;
+    --font-mono: 'IBM Plex Mono', ui-monospace, Menlo, monospace;
   }
   @media (prefers-color-scheme: dark) {
     :root:not([data-theme="light"]) {
-      --ground: #0d1116;
-      --surface: #161c23;
-      --surface-2: #1d242c;
-      --ink: #e7ecf2;
-      --ink-2: #a3b0bd;
-      --ink-3: #7d8a97;
-      --line: #2b343e;
-      --line-2: #222a33;
-      --accent: #5aa2ef;
-      --accent-soft: #16283d;
-      --stop: #e0965c;
-      --stop-soft: #33220f;
-      --go: #5cc294;
-      --go-soft: #10291e;
+      --ground: #0d1116; --surface: #161c23; --surface-2: #1d242c;
+      --ink: #e7ecf2; --ink-2: #a3b0bd; --ink-3: #7d8a97;
+      --line: #2b343e; --line-2: #222a33;
+      --accent: #5aa2ef; --accent-soft: #16283d;
+      --stop: #e0965c; --stop-soft: #33220f;
+      --go: #5cc294; --go-soft: #10291e;
     }
   }
   :root[data-theme="dark"] {
-    --ground: #0d1116;
-    --surface: #161c23;
-    --surface-2: #1d242c;
-    --ink: #e7ecf2;
-    --ink-2: #a3b0bd;
-    --ink-3: #7d8a97;
-    --line: #2b343e;
-    --line-2: #222a33;
-    --accent: #5aa2ef;
-    --accent-soft: #16283d;
-    --stop: #e0965c;
-    --stop-soft: #33220f;
-    --go: #5cc294;
-    --go-soft: #10291e;
+    --ground: #0d1116; --surface: #161c23; --surface-2: #1d242c;
+    --ink: #e7ecf2; --ink-2: #a3b0bd; --ink-3: #7d8a97;
+    --line: #2b343e; --line-2: #222a33;
+    --accent: #5aa2ef; --accent-soft: #16283d;
+    --stop: #e0965c; --stop-soft: #33220f;
+    --go: #5cc294; --go-soft: #10291e;
   }
 
   * { box-sizing: border-box; }
@@ -64,11 +47,11 @@
     color: var(--ink);
     font-family: var(--font-body);
     font-size: 16px;
-    line-height: 1.55;
+    line-height: 1.6;
     -webkit-font-smoothing: antialiased;
   }
   .wrap {
-    max-width: 760px;
+    max-width: 720px;
     margin: 0 auto;
     padding-inline: 18px;
     padding-block: 28px 56px;
@@ -76,283 +59,231 @@
     flex-direction: column;
     gap: 26px;
   }
-
   .eyebrow {
-    font-size: 11px;
-    font-weight: 700;
-    letter-spacing: .13em;
-    text-transform: uppercase;
-    color: var(--ink-3);
-    margin: 0;
+    font-size: 11px; font-weight: 700; letter-spacing: .1em;
+    color: var(--ink-3); margin: 0;
   }
   h1 {
-    font-size: clamp(27px, 6.6vw, 40px);
-    line-height: 1.12;
-    font-weight: 900;
-    letter-spacing: -.022em;
-    text-wrap: balance;
-    margin: 6px 0 0;
+    font-size: clamp(26px, 6.4vw, 38px);
+    line-height: 1.18; font-weight: 900; letter-spacing: -.015em;
+    text-wrap: balance; margin: 6px 0 0;
   }
-  .sub { color: var(--ink-2); margin: 10px 0 0; max-width: 60ch; }
-  .mono { font-family: var(--font-mono); font-variant-numeric: tabular-nums; }
+  .sub { color: var(--ink-2); margin: 10px 0 0; }
+  .mono { font-family: var(--font-mono); font-variant-numeric: tabular-nums; direction: ltr; unicode-bidi: embed; }
 
   .verdict {
     background: var(--surface);
     border: 1px solid var(--line);
-    border-left: 5px solid var(--go);
+    border-right: 5px solid var(--go);
     border-radius: 3px;
     padding: 20px 22px;
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
+    display: flex; flex-direction: column; gap: 9px;
   }
-  .verdict h2 { margin: 0; font-size: 19px; font-weight: 700; letter-spacing: -.01em; }
+  .verdict h2 { margin: 0; font-size: 19px; font-weight: 700; }
   .verdict p { margin: 0; color: var(--ink-2); }
 
   .tag {
-    display: inline-flex;
-    align-items: center;
-    gap: 6px;
-    align-self: flex-start;
-    font-size: 11px;
-    font-weight: 700;
-    letter-spacing: .09em;
-    text-transform: uppercase;
-    padding: 4px 9px;
-    border-radius: 2px;
+    display: inline-flex; align-self: flex-start;
+    font-size: 11.5px; font-weight: 700; letter-spacing: .04em;
+    padding: 4px 10px; border-radius: 2px;
   }
+  .tag-go { background: var(--go-soft); color: var(--go); }
   .tag-stop { background: var(--stop-soft); color: var(--stop); }
-  .tag-go   { background: var(--go-soft);   color: var(--go); }
 
-  /* The SKU to quote at the counter */
   .sku-card {
-    background: var(--surface);
-    border: 1px solid var(--line);
-    border-radius: 3px;
-    padding: 18px 20px;
-    display: flex;
-    flex-direction: column;
-    gap: 14px;
+    background: var(--surface); border: 1px solid var(--line);
+    border-radius: 3px; padding: 18px 20px;
+    display: flex; flex-direction: column; gap: 14px;
   }
-  .sku-row { display: flex; gap: 22px; flex-wrap: wrap; }
-  .sku-field { display: flex; flex-direction: column; gap: 3px; }
-  .sku-label {
-    font-size: 10.5px;
-    font-weight: 700;
-    letter-spacing: .11em;
-    text-transform: uppercase;
-    color: var(--ink-3);
-  }
-  .sku-value {
-    font-family: var(--font-mono);
-    font-variant-numeric: tabular-nums;
-    font-size: 24px;
-    font-weight: 600;
-    letter-spacing: -.02em;
-    line-height: 1.1;
-  }
-  .sku-value.sm { font-size: 17px; font-weight: 500; }
+  .sku-row { display: flex; gap: 24px; flex-wrap: wrap; }
+  .sku-field { display: flex; flex-direction: column; gap: 2px; }
+  .sku-label { font-size: 11px; font-weight: 700; letter-spacing: .06em; color: var(--ink-3); }
+  .sku-value { font-family: var(--font-mono); font-size: 23px; font-weight: 600; line-height: 1.15; direction: ltr; }
+  .sku-value.sm { font-size: 16px; font-weight: 500; font-family: var(--font-body); direction: rtl; }
   .sku-note { font-size: 14px; color: var(--ink-2); margin: 0; }
 
   h2.section {
-    margin: 0 0 2px;
-    font-size: 13px;
-    font-weight: 700;
-    letter-spacing: .1em;
-    text-transform: uppercase;
-    color: var(--ink-3);
+    margin: 0 0 2px; font-size: 13px; font-weight: 700;
+    letter-spacing: .06em; color: var(--ink-3);
   }
   .block { display: flex; flex-direction: column; gap: 12px; }
 
-  .store {
-    background: var(--surface);
-    border: 1px solid var(--line);
-    border-radius: 3px;
-    overflow: hidden;
-  }
+  .store { background: var(--surface); border: 1px solid var(--line); border-radius: 3px; overflow: hidden; }
   .store-head {
-    padding: 14px 16px;
-    border-bottom: 1px solid var(--line-2);
-    display: flex;
-    align-items: baseline;
-    justify-content: space-between;
-    gap: 12px;
-    flex-wrap: wrap;
+    padding: 14px 16px; border-bottom: 1px solid var(--line-2);
+    display: flex; justify-content: space-between; align-items: baseline; gap: 12px; flex-wrap: wrap;
   }
   .store-name { font-weight: 700; font-size: 17px; }
   .store-role { font-size: 12.5px; color: var(--ink-3); }
-  .branches { display: flex; flex-direction: column; }
   .branch {
-    padding: 12px 16px;
-    display: flex;
-    justify-content: space-between;
-    align-items: baseline;
-    gap: 14px;
-    flex-wrap: wrap;
-    border-top: 1px solid var(--line-2);
+    padding: 12px 16px; border-top: 1px solid var(--line-2);
+    display: flex; justify-content: space-between; align-items: baseline; gap: 14px; flex-wrap: wrap;
   }
   .branch:first-child { border-top: 0; }
   .branch-where { display: flex; flex-direction: column; gap: 2px; min-width: 0; }
   .branch-city { font-weight: 500; }
   .branch-addr { font-size: 13.5px; color: var(--ink-2); }
   .branch a {
-    font-family: var(--font-mono);
-    font-size: 14px;
-    color: var(--accent);
-    text-decoration: none;
-    white-space: nowrap;
+    font-family: var(--font-mono); font-size: 14px; color: var(--accent);
+    text-decoration: none; white-space: nowrap; direction: ltr;
     border-bottom: 1px solid transparent;
   }
   .branch a:hover, .branch a:focus-visible { border-bottom-color: var(--accent); }
 
+  .scroller { overflow-x: auto; }
+  table { width: 100%; border-collapse: collapse; background: var(--surface); font-size: 14.5px; }
+  th, td { text-align: right; padding: 10px 14px; border-bottom: 1px solid var(--line-2); }
+  thead th {
+    font-size: 11.5px; font-weight: 700; letter-spacing: .05em;
+    color: var(--ink-3); background: var(--surface-2); white-space: nowrap;
+  }
+  tbody tr:last-child td { border-bottom: 0; }
+  td.res { white-space: nowrap; font-weight: 500; }
+  .yes { color: var(--go); font-weight: 700; }
+  .no { color: var(--ink-3); }
+  table { border: 1px solid var(--line); border-radius: 3px; }
+
   .callout {
-    background: var(--accent-soft);
-    border-radius: 3px;
-    padding: 15px 17px;
-    font-size: 14.5px;
-    line-height: 1.5;
+    background: var(--accent-soft); border-radius: 3px;
+    padding: 15px 17px; font-size: 14.5px; line-height: 1.55;
   }
   .callout strong { font-weight: 700; }
-
-  .alt {
-    background: var(--surface-2);
-    border: 1px solid var(--line-2);
-    border-radius: 3px;
-    padding: 14px 17px;
-    font-size: 14.5px;
-    color: var(--ink-2);
-    line-height: 1.5;
+  .warn {
+    background: var(--stop-soft); border-radius: 3px;
+    padding: 15px 17px; font-size: 14.5px; line-height: 1.55; color: var(--ink);
   }
-  .alt strong { color: var(--ink); font-weight: 600; }
-
-  ul.plain { margin: 0; padding-inline-start: 19px; color: var(--ink-2); display: flex; flex-direction: column; gap: 6px; }
-  ul.plain li::marker { color: var(--ink-3); }
-  ul.plain strong { color: var(--ink); font-weight: 600; }
+  .warn strong { font-weight: 700; color: var(--stop); }
 
   footer {
-    border-top: 1px solid var(--line);
-    padding-top: 16px;
-    font-size: 13px;
-    color: var(--ink-3);
-    display: flex;
-    flex-direction: column;
-    gap: 6px;
+    border-top: 1px solid var(--line); padding-top: 16px;
+    font-size: 13px; color: var(--ink-3);
+    display: flex; flex-direction: column; gap: 6px;
   }
   footer a { color: var(--accent); text-decoration: none; }
   footer a:hover { text-decoration: underline; }
   a:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; border-radius: 2px; }
 </style>
 
-<div class="wrap">
+<div class="wrap" dir="rtl" lang="he">
 
   <header>
-    <p class="eyebrow">BUYME ALL · corrected 15 Sep</p>
-    <h1>Yes — שקם אלקטריק has it, and takes your voucher</h1>
+    <p class="eyebrow">בדיקה חוזרת · כל 14 חנויות החשמל והסלולר ברשימת BUYME ALL</p>
+    <h1>שקם אלקטריק — היחידה שמחזיקה אותן</h1>
     <p class="sub">
-      The Galaxy Buds4 Pro <span class="mono">SM-R640</span> is stocked under SKU
-      <span class="mono">371552</span>, with the official Sani importer warranty. שקם אלקטריק
-      is on the BUYME ALL list, so the voucher covers it — <strong>in-store only</strong>.
+      אחרי שטעיתי, בדקתי מחדש כל אחת מהחנויות. רק בשקם אלקטריק נמצאו
+      ה־Galaxy Buds4 Pro, והיא ברשימת BUYME ALL — כלומר השובר עובד, <strong>בחנות בלבד</strong>.
     </p>
   </header>
 
   <section class="verdict">
-    <span class="tag tag-go">Buyable with BuyMe</span>
-    <h2>Correcting my earlier answer</h2>
+    <span class="tag tag-go">אפשר לקנות עם השובר</span>
+    <h2>מה שהשתנה</h2>
     <p>
-      I previously said no BuyMe merchant carried the Buds4 Pro. That was wrong — the product
-      page exists, it just wasn't in the search index I was working from. שקם אלקטריק carries
-      both the Buds4 Pro and the non-Pro Buds4.
+      קודם אמרתי שאף בית עסק לא מוכר את הדגם. זו הייתה טעות: דף המוצר קיים, הוא פשוט
+      לא הופיע במנוע החיפוש שעבדתי מולו. בשקם אלקטריק יש גם את ה־Pro וגם את הדגם הרגיל.
     </p>
   </section>
 
   <section class="block">
-    <h2 class="section">Quote this at the counter</h2>
+    <h2 class="section">המספר שצריך למסור בקופה</h2>
     <div class="sku-card">
       <div class="sku-row">
         <div class="sku-field">
-          <span class="sku-label">Shekem SKU</span>
+          <span class="sku-label">מק״ט שקם</span>
           <span class="sku-value">371552</span>
         </div>
         <div class="sku-field">
-          <span class="sku-label">Model</span>
+          <span class="sku-label">דגם</span>
           <span class="sku-value">SM-R640</span>
         </div>
         <div class="sku-field">
-          <span class="sku-label">Colour</span>
-          <span class="sku-value sm">White · לבן</span>
+          <span class="sku-label">צבע</span>
+          <span class="sku-value sm">לבן</span>
         </div>
         <div class="sku-field">
-          <span class="sku-label">Warranty</span>
-          <span class="sku-value sm">1 yr · סאני</span>
+          <span class="sku-label">אחריות</span>
+          <span class="sku-value sm">שנה, סאני</span>
         </div>
       </div>
       <p class="sku-note">
-        Galaxy Buds4 Pro — Hi-Fi 24-bit, ANC, up to 30 h battery with ANC off.
-        Price isn't something I can read from here; ask when you call.
+        Galaxy Buds4 Pro — סאונד Hi-Fi‏ 24bit, סינון רעשים אקטיבי, עד 30 שעות סוללה.
+        את המחיר אי אפשר לקרוא מכאן — שאל בטלפון.
       </p>
     </div>
-    <div class="alt">
-      <strong>Cheaper sibling, same shelf:</strong> the non-Pro Galaxy Buds4
-      <span class="mono">SM-R540</span> is SKU <span class="mono">371550</span> in white,
-      <span class="mono">371549</span> in black. Worth asking the price difference if the
-      Pro's ANC isn't the reason you want it.
+    <div class="callout">
+      <strong>הדגם הרגיל, אותה מדף:</strong> Galaxy Buds4 ללא Pro —
+      <span class="mono">SM-R540</span>, מק״ט <span class="mono">371550</span> בלבן
+      או <span class="mono">371549</span> בשחור. שווה לשאול מה הפרש המחיר.
     </div>
   </section>
 
   <section class="block">
-    <h2 class="section">Closest branches to Ariel</h2>
+    <h2 class="section">הסניפים הקרובים אליך</h2>
     <div class="store">
       <div class="store-head">
         <span class="store-name">שקם אלקטריק</span>
-        <span class="store-role">In-store redemption · not online</span>
+        <span class="store-role">מימוש בחנות · לא אונליין</span>
       </div>
-      <div class="branches">
-        <div class="branch">
-          <span class="branch-where">
-            <span class="branch-city">כפר סבא</span>
-            <span class="branch-addr">ויצמן 301, מתחם G · א׳–ה׳ 09:30–21:30, ו׳ 09:00–14:30</span>
-          </span>
-          <a href="tel:0732240572">073-2240572</a>
-        </div>
-        <div class="branch">
-          <span class="branch-where">
-            <span class="branch-city">פתח תקווה</span>
-            <span class="branch-addr">צומת סגולה · also ירקונים 58 / פינטו 1</span>
-          </span>
-          <a href="tel:037262428">03-7262428</a>
-        </div>
-        <div class="branch">
-          <span class="branch-where">
-            <span class="branch-city">Chain-wide</span>
-            <span class="branch-addr">Full branch list at shekem-electric.co.il/branches</span>
-          </span>
-          <a href="tel:0732398701">073-2398701</a>
-        </div>
+      <div class="branch">
+        <span class="branch-where">
+          <span class="branch-city">כפר סבא</span>
+          <span class="branch-addr">ויצמן 301, מתחם G · א׳–ה׳ ‎09:30–21:30‎, ו׳ ‎09:00–14:30</span>
+        </span>
+        <a href="tel:0732240572">073-2240572</a>
+      </div>
+      <div class="branch">
+        <span class="branch-where">
+          <span class="branch-city">פתח תקווה</span>
+          <span class="branch-addr">צומת סגולה · וגם ירקונים 58 / פינטו 1</span>
+        </span>
+        <a href="tel:037262428">03-7262428</a>
+      </div>
+      <div class="branch">
+        <span class="branch-where">
+          <span class="branch-city">מוקד הרשת</span>
+          <span class="branch-addr">רשימת כל הסניפים באתר shekem-electric.co.il/branches</span>
+        </span>
+        <a href="tel:0732398701">073-2398701</a>
       </div>
     </div>
   </section>
 
-  <div class="callout">
-    <strong>Two things to settle on one phone call.</strong> Ask whether SKU
-    <span class="mono">371552</span> is physically on the shelf at that branch — the website
-    listing is chain-wide and says nothing about local stock. Then confirm they'll take a
-    BUYME ALL voucher at the register for it, since שקם אלקטריק is in-store redemption and
-    handling can vary by branch.
-  </div>
-
   <section class="block">
-    <h2 class="section">What's solid, what isn't</h2>
-    <ul class="plain">
-      <li><strong>Product is carried</strong> — confirmed. SKU 371552, SM-R640, white, Sani warranty.</li>
-      <li><strong>שקם אלקטריק takes BuyMe</strong> — confirmed, in-store, from the BUYME ALL export.</li>
-      <li><strong>Price</strong> — unknown. Not visible to me; comparable listings elsewhere run about ₪552.</li>
-      <li><strong>Branch stock</strong> — unknown, and not published by any Israeli chain. The phone call is the only way.</li>
-      <li><strong>מחסני חשמל / PayNGo</strong> — lists the identical SKU, but is <em>not</em> a BuyMe merchant. Same catalogue, no voucher.</li>
-    </ul>
+    <h2 class="section">הבדיקה החוזרת — מה נמצא בכל חנות</h2>
+    <div class="scroller">
+      <table>
+        <thead>
+          <tr><th>בית עסק</th><th>מימוש</th><th>הדגם הכי חדש שנמצא</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>שקם אלקטריק</td><td>בחנות</td><td class="res yes">Buds4 Pro · SM-R640 ✓</td></tr>
+          <tr><td>BIG Electric</td><td>בחנות</td><td class="res no">Buds3 Pro · SM-R630</td></tr>
+          <tr><td>חשמל נטו</td><td>בחנות</td><td class="res no">Buds Live (2020)</td></tr>
+          <tr><td>ליאור מוצרי חשמל</td><td>אונליין</td><td class="res no">Buds Live (2020)</td></tr>
+          <tr><td>טרקלין חשמל</td><td>בחנות</td><td class="res no">אין אוזניות סמסונג</td></tr>
+          <tr><td>MOBICELL</td><td>בחנות</td><td class="res no">אוזניות גנריות בלבד</td></tr>
+          <tr><td>Intech</td><td>אונליין</td><td class="res no">אביזרים לסלולר בלבד</td></tr>
+          <tr><td>BARCOM</td><td>בחנות</td><td class="res no">מכשירי קשר, לא אודיו</td></tr>
+          <tr><td>Alltech · XI MOBILITY · ועוד 5</td><td>—</td><td class="res no">לא רלוונטי</td></tr>
+        </tbody>
+      </table>
+    </div>
   </section>
 
+  <div class="warn">
+    <strong>סייג חשוב.</strong> מנוע החיפוש לא הראה את דף המוצר של שקם גם כשחיפשתי ישירות
+    באתר שלהם — מצאנו אותו רק כי שלחת את הקישור. לכן ה״לא״ אצל שאר החנויות חלש יותר
+    מה״כן״ אצל שקם: ייתכן שגם אצל BIG או חשמל נטו יש מלאי שלא מופיע בחיפוש.
+  </div>
+
+  <div class="callout">
+    <strong>שתי שאלות לשיחת טלפון אחת.</strong> האם מק״ט <span class="mono">371552</span>
+    נמצא פיזית במלאי בסניף — דף באתר הוא ארצי ולא מעיד על המדף בכפר סבא. ואז לוודא
+    שיקבלו שובר BUYME ALL בקופה, כי המימוש הוא בחנות וההתנהלות משתנה בין סניפים.
+  </div>
+
   <footer>
-    <span>Sources: BUYME ALL merchant export (1,310 businesses) · <a href="https://www.shekem-electric.co.il/371552.html">שקם אלקטריק SKU 371552</a></span>
+    <span>מקורות: ייצוא בתי העסק של BUYME ALL (1,310 עסקים) · <a href="https://www.shekem-electric.co.il/371552.html">שקם אלקטריק מק״ט 371552</a></span>
   </footer>
 
 </div>
