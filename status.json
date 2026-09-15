@@ -1,0 +1,144 @@
+{
+  "generated_at": "2026-09-15T20:04:20+00:00",
+  "site": "https://itsik1.github.io/selltothepast-podcast",
+  "feed_url": "https://itsik1.github.io/selltothepast-podcast/feed.xml",
+  "feed": {
+    "ok": true,
+    "http": 200,
+    "title": "למכור לעבר",
+    "cover": "https://itsik1.github.io/selltothepast-podcast/cover.jpg",
+    "episodes": 1,
+    "latest": {
+      "title": "ניסיתי למכור כיכר לחם מהסופר לאנשים ב‑1795. הנה כמה הם שילמו",
+      "published": "2026-09-05T22:30:27+00:00",
+      "days_ago": 9.9,
+      "duration": "00:06:53",
+      "audio": "https://itsik1.github.io/selltothepast-podcast/audio/001-bread.mp3",
+      "bytes": 6912140,
+      "audio_http": 200,
+      "audio_bytes_match": true
+    },
+    "days_since_last_episode": 9.9,
+    "items": [
+      {
+        "title": "ניסיתי למכור כיכר לחם מהסופר לאנשים ב‑1795. הנה כמה הם שילמו",
+        "published": "2026-09-05T22:30:27+00:00",
+        "days_ago": 9.9,
+        "duration": "00:06:53",
+        "audio": "https://itsik1.github.io/selltothepast-podcast/audio/001-bread.mp3",
+        "bytes": 6912140,
+        "audio_http": 200,
+        "audio_bytes_match": true
+      }
+    ]
+  },
+  "apple": {
+    "ok": true,
+    "listed": false,
+    "note": "not in the Apple Podcasts directory yet (search by name and by feed URL)"
+  },
+  "spotify": {
+    "ok": true,
+    "configured": true,
+    "listed": true,
+    "name": "ניסיתי למכור כיכר לחם מהסופר לאנשים ב‑1795. הנה כמה הם שילמו",
+    "url": "https://open.spotify.com/show/5PPn0eIrTTG8jsEskBQgu9",
+    "id": "5PPn0eIrTTG8jsEskBQgu9",
+    "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1f46dfc9bd6ef4826cd117e350",
+    "source": "oembed"
+  },
+  "youtube": {
+    "ok": true,
+    "configured": true,
+    "channel_id": "UCfSDwjbObdiVMci7Tfk4rvA",
+    "url": "https://www.youtube.com/channel/UCfSDwjbObdiVMci7Tfk4rvA",
+    "channel_title": "למכור לעבר · Sell to the Past",
+    "videos_in_feed": 11,
+    "videos": [
+      {
+        "title": "Surrounded by ocean, with no water to drink #Shorts",
+        "url": "https://www.youtube.com/watch?v=R8dPdufyTyU",
+        "published": "2026-09-15T16:00:35+00:00",
+        "days_ago": 0.2,
+        "views": 127
+      },
+      {
+        "title": "I tried to sell water to a water carrier #Shorts",
+        "url": "https://www.youtube.com/watch?v=7JuvSV3_xII",
+        "published": "2026-09-14T23:00:10+00:00",
+        "days_ago": 0.9,
+        "views": 45
+      },
+      {
+        "title": "I tried to sell a litre of water to a man who sells water in 1854. Then I said one word",
+        "url": "https://www.youtube.com/watch?v=xFuOcyHwkhk",
+        "published": "2026-09-14T23:00:04+00:00",
+        "days_ago": 0.9,
+        "views": 1
+      },
+      {
+        "title": "I couldn't sell bread in Rome #Shorts",
+        "url": "https://www.youtube.com/watch?v=2g5WOaiH_lw",
+        "published": "2026-09-11T23:00:30+00:00",
+        "days_ago": 3.9,
+        "views": 275
+      },
+      {
+        "title": "ברומא לא הצלחתי למכור לחם #Shorts",
+        "url": "https://www.youtube.com/watch?v=ttS5NYaHKaM",
+        "published": "2026-09-11T16:00:35+00:00",
+        "days_ago": 4.2,
+        "views": 42
+      },
+      {
+        "title": "The best buyer wasn't the richest one #Shorts",
+        "url": "https://www.youtube.com/watch?v=DpRtTCkutrM",
+        "published": "2026-09-09T23:00:01+00:00",
+        "days_ago": 5.9,
+        "views": 78
+      },
+      {
+        "title": "הקונה הכי טוב לא היה הכי עשיר #Shorts",
+        "url": "https://www.youtube.com/watch?v=_Ql1W7CB7Y8",
+        "published": "2026-09-09T16:00:35+00:00",
+        "days_ago": 6.2,
+        "views": 44
+      },
+      {
+        "title": "How many hours for one loaf? #Shorts",
+        "url": "https://www.youtube.com/watch?v=dd4ShjS2nkM",
+        "published": "2026-09-06T20:33:53+00:00",
+        "days_ago": 9.0,
+        "views": 62
+      },
+      {
+        "title": "I tried to sell a supermarket loaf of bread to people in 1795. Here's what they paid",
+        "url": "https://www.youtube.com/watch?v=3KHjfu15FrA",
+        "published": "2026-09-06T20:33:51+00:00",
+        "days_ago": 9.0,
+        "views": 12
+      },
+      {
+        "title": "כמה שעות בשביל כיכר אחת? #Shorts",
+        "url": "https://www.youtube.com/watch?v=yz6C7ZYFVsA",
+        "published": "2026-09-06T18:41:33+00:00",
+        "days_ago": 9.1,
+        "views": 115
+      },
+      {
+        "title": "ניסיתי למכור כיכר לחם מהסופר לאנשים ב‑1795. הנה כמה הם שילמו",
+        "url": "https://www.youtube.com/watch?v=Fn9RgbNp2Cg",
+        "published": "2026-09-06T18:11:11+00:00",
+        "days_ago": 9.1,
+        "views": 9
+      }
+    ],
+    "subscribers": 3,
+    "views": 638,
+    "video_count": 11,
+    "handle": "@selltothepast"
+  },
+  "todo": [
+    "עדיין לא מופיע ב‑Apple Podcasts"
+  ]
+}
