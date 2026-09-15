@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-15T05:21:32+00:00",
- "cadence": "one episode every second day, two videos public every day (16:00 and 23:00 UTC)",
+ "generated_at": "2026-09-15T05:31:56+00:00",
+ "cadence": "episode every second day; its standalone Short the evening before, curiosity Short the same evening, recap Short the next day (1-2 videos a day)",
  "episodes": [
   {
    "slug": "001-bread",
@@ -39,7 +39,7 @@
    "number": 3,
    "title_en": "A bag of salt",
    "title_he": "שקית מלח",
-   "release_en": "2026-09-16",
+   "release_en": "2026-09-17",
    "status_en": "scheduled",
    "youtube_en": "https://www.youtube.com/watch?v=jH4Dy8EKufc",
    "shorts_en": [
@@ -55,7 +55,7 @@
    "number": 4,
    "title_en": "An LED bulb",
    "title_he": "נורת LED",
-   "release_en": "2026-09-18",
+   "release_en": "2026-09-19",
    "status_en": "scheduled",
    "youtube_en": "https://www.youtube.com/watch?v=LIlfWKCUpGE",
    "shorts_en": [
@@ -71,7 +71,7 @@
    "number": 5,
    "title_en": "Ice cubes",
    "title_he": "קוביות קרח מהמקפיא",
-   "release_en": "2026-09-20",
+   "release_en": "2026-09-21",
    "status_en": "scheduled",
    "youtube_en": "https://www.youtube.com/watch?v=B_4X2ySmcr8",
    "shorts_en": [
@@ -87,7 +87,7 @@
    "number": 6,
    "title_en": "A kilo of sugar",
    "title_he": "קילו סוכר",
-   "release_en": "2026-09-22",
+   "release_en": "2026-09-23",
    "status_en": "scheduled",
    "youtube_en": "https://www.youtube.com/watch?v=k4mFVSNDlPA",
    "shorts_en": [
@@ -103,7 +103,7 @@
    "number": 7,
    "title_en": "A cotton T-shirt",
    "title_he": "חולצת טי",
-   "release_en": "2026-09-24",
+   "release_en": "2026-09-25",
    "status_en": "scheduled",
    "youtube_en": "https://www.youtube.com/watch?v=6Gd8BGKShr8",
    "shorts_en": [
@@ -119,7 +119,7 @@
    "number": 8,
    "title_en": "A box of painkillers",
    "title_he": "אקמול",
-   "release_en": "2026-09-26",
+   "release_en": "2026-09-27",
    "status_en": "scheduled",
    "youtube_en": "https://www.youtube.com/watch?v=wBIjyXVHlUs",
    "shorts_en": [
@@ -135,7 +135,7 @@
    "number": 9,
    "title_en": "A box of matches",
    "title_he": "קופסת גפרורים",
-   "release_en": "2026-09-28",
+   "release_en": "2026-09-29",
    "status_en": "scheduled",
    "youtube_en": "https://www.youtube.com/watch?v=L7OgrQimm78",
    "shorts_en": [
@@ -151,7 +151,7 @@
    "number": 10,
    "title_en": "A paperback",
    "title_he": "ספר כיס",
-   "release_en": "2026-09-30",
+   "release_en": "2026-10-01",
    "status_en": "scheduled",
    "youtube_en": "https://www.youtube.com/watch?v=rbhrSbTES_A",
    "shorts_en": [
@@ -167,7 +167,7 @@
    "number": 11,
    "title_en": "A cup of coffee",
    "title_he": "כוס קפה",
-   "release_en": "2026-10-02",
+   "release_en": "2026-10-03",
    "status_en": "scheduled",
    "youtube_en": "https://www.youtube.com/watch?v=PcTevO1oB-8",
    "shorts_en": [
@@ -183,7 +183,7 @@
    "number": 12,
    "title_en": "Reading glasses",
    "title_he": "משקפי ראייה",
-   "release_en": "2026-10-04",
+   "release_en": "2026-10-05",
    "status_en": "scheduled",
    "youtube_en": "https://www.youtube.com/watch?v=FS_DUEkrfZI",
    "shorts_en": [
@@ -199,7 +199,7 @@
    "number": 13,
    "title_en": "A chocolate bar",
    "title_he": "חפיסת שוקולד",
-   "release_en": "2026-10-06",
+   "release_en": "2026-10-07",
    "status_en": "built",
    "youtube_en": "",
    "shorts_en": [
@@ -215,7 +215,7 @@
    "number": 14,
    "title_en": "A ballpoint pen",
    "title_he": "עט כדורי",
-   "release_en": "2026-10-08",
+   "release_en": "2026-10-09",
    "status_en": "built",
    "youtube_en": "",
    "shorts_en": [
@@ -231,7 +231,7 @@
    "number": 15,
    "title_en": "A can of food",
    "title_he": "קופסת שימורים",
-   "release_en": "2026-10-10",
+   "release_en": "2026-10-11",
    "status_en": "built",
    "youtube_en": "",
    "shorts_en": [
@@ -247,7 +247,7 @@
    "number": 16,
    "title_en": "A course of antibiotics",
    "title_he": "אנטיביוטיקה",
-   "release_en": "2026-10-12",
+   "release_en": "2026-10-13",
    "status_en": "built",
    "youtube_en": "",
    "shorts_en": [
@@ -263,7 +263,7 @@
    "number": 17,
    "title_en": "A roll of toilet paper",
    "title_he": "גליל נייר טואלט",
-   "release_en": "2026-10-14",
+   "release_en": "2026-10-15",
    "status_en": "built",
    "youtube_en": "",
    "shorts_en": [
@@ -279,7 +279,7 @@
    "number": 18,
    "title_en": "A banana",
    "title_he": "בננה",
-   "release_en": "2026-10-16",
+   "release_en": "2026-10-17",
    "status_en": "built",
    "youtube_en": "",
    "shorts_en": [
@@ -295,7 +295,7 @@
    "number": 19,
    "title_en": "The phone camera",
    "title_he": "מצלמת הטלפון",
-   "release_en": "2026-10-18",
+   "release_en": "2026-10-19",
    "status_en": "built",
    "youtube_en": "",
    "shorts_en": [
@@ -311,7 +311,7 @@
    "number": 20,
    "title_en": "A smartphone",
    "title_he": "סמארטפון",
-   "release_en": "2026-10-20",
+   "release_en": "2026-10-21",
    "status_en": "built",
    "youtube_en": "",
    "shorts_en": [
@@ -327,7 +327,7 @@
    "number": 21,
    "title_en": "A pineapple",
    "title_he": "אננס",
-   "release_en": "2026-10-22",
+   "release_en": "2026-10-23",
    "status_en": "built",
    "youtube_en": "",
    "shorts_en": [
@@ -343,7 +343,7 @@
    "number": 22,
    "title_en": "A carton of milk",
    "title_he": "קרטון חלב",
-   "release_en": "2026-10-24",
+   "release_en": "2026-10-25",
    "status_en": "built",
    "youtube_en": "",
    "shorts_en": [
@@ -359,7 +359,7 @@
    "number": 23,
    "title_en": "An orange",
    "title_he": "תפוז",
-   "release_en": "2026-10-26",
+   "release_en": "2026-10-27",
    "status_en": "built",
    "youtube_en": "",
    "shorts_en": [
@@ -375,7 +375,7 @@
    "number": 24,
    "title_en": "A bar of soap",
    "title_he": "סבון",
-   "release_en": "2026-10-28",
+   "release_en": "2026-10-29",
    "status_en": "built",
    "youtube_en": "",
    "shorts_en": [
@@ -391,7 +391,7 @@
    "number": 25,
    "title_en": "A pair of socks",
    "title_he": "זוג גרביים",
-   "release_en": "2026-10-30",
+   "release_en": "2026-10-31",
    "status_en": "built",
    "youtube_en": "",
    "shorts_en": [
@@ -407,7 +407,7 @@
    "number": 26,
    "title_en": "A hand mirror",
    "title_he": "מראה",
-   "release_en": "2026-11-01",
+   "release_en": "2026-11-02",
    "status_en": "built",
    "youtube_en": "",
    "shorts_en": [
@@ -423,7 +423,7 @@
    "number": 27,
    "title_en": "A box of nails",
    "title_he": "קופסת מסמרים",
-   "release_en": "2026-11-03",
+   "release_en": "2026-11-04",
    "status_en": "built",
    "youtube_en": "",
    "shorts_en": [
@@ -439,7 +439,7 @@
    "number": 28,
    "title_en": "A pane of window glass",
    "title_he": "שמשת חלון",
-   "release_en": "2026-11-05",
+   "release_en": "2026-11-06",
    "status_en": "built",
    "youtube_en": "",
    "shorts_en": [
@@ -455,7 +455,7 @@
    "number": 29,
    "title_en": "A box of tea bags",
    "title_he": "קופסת תה",
-   "release_en": "2026-11-07",
+   "release_en": "2026-11-08",
    "status_en": "built",
    "youtube_en": "",
    "shorts_en": [
@@ -471,7 +471,7 @@
    "number": 30,
    "title_en": "A jar of black pepper",
    "title_he": "פלפל שחור",
-   "release_en": "2026-11-09",
+   "release_en": "2026-11-10",
    "status_en": "built",
    "youtube_en": "",
    "shorts_en": [
@@ -487,7 +487,7 @@
    "number": 31,
    "title_en": "A wristwatch",
    "title_he": "שעון יד",
-   "release_en": "2026-11-11",
+   "release_en": "2026-11-12",
    "status_en": "built",
    "youtube_en": "",
    "shorts_en": [
@@ -503,7 +503,7 @@
    "number": 32,
    "title_en": "A pencil",
    "title_he": "עיפרון",
-   "release_en": "2026-11-13",
+   "release_en": "2026-11-14",
    "status_en": "built",
    "youtube_en": "",
    "shorts_en": [
@@ -519,7 +519,7 @@
    "number": 33,
    "title_en": "An umbrella",
    "title_he": "מטרייה",
-   "release_en": "2026-11-15",
+   "release_en": "2026-11-16",
    "status_en": "built",
    "youtube_en": "",
    "shorts_en": [
@@ -535,7 +535,7 @@
    "number": 34,
    "title_en": "A toothbrush",
    "title_he": "מברשת שיניים",
-   "release_en": "2026-11-17",
+   "release_en": "2026-11-18",
    "status_en": "built",
    "youtube_en": "",
    "shorts_en": [
@@ -551,7 +551,7 @@
    "number": 35,
    "title_en": "A disposable razor",
    "title_he": "סכין גילוח",
-   "release_en": "2026-11-19",
+   "release_en": "2026-11-20",
    "status_en": "built",
    "youtube_en": "",
    "shorts_en": [
@@ -567,7 +567,7 @@
    "number": 36,
    "title_en": "A dozen eggs",
    "title_he": "תריסר ביצים",
-   "release_en": "2026-11-21",
+   "release_en": "2026-11-22",
    "status_en": "built",
    "youtube_en": "",
    "shorts_en": [
@@ -583,7 +583,7 @@
    "number": 37,
    "title_en": "A jar of honey",
    "title_he": "צנצנת דבש",
-   "release_en": "2026-11-23",
+   "release_en": "2026-11-24",
    "status_en": "built",
    "youtube_en": "",
    "shorts_en": [
@@ -599,7 +599,7 @@
    "number": 38,
    "title_en": "A wool blanket",
    "title_he": "שמיכת צמר",
-   "release_en": "2026-11-25",
+   "release_en": "2026-11-26",
    "status_en": "built",
    "youtube_en": "",
    "shorts_en": [
@@ -615,7 +615,7 @@
    "number": 39,
    "title_en": "A vaccine",
    "title_he": "חיסון",
-   "release_en": "2026-11-27",
+   "release_en": "2026-11-28",
    "status_en": "built",
    "youtube_en": "",
    "shorts_en": [
@@ -631,7 +631,7 @@
    "number": 40,
    "title_en": "A pack of AA batteries",
    "title_he": "חבילת סוללות",
-   "release_en": "2026-11-29",
+   "release_en": "2026-11-30",
    "status_en": "built",
    "youtube_en": "",
    "shorts_en": [
