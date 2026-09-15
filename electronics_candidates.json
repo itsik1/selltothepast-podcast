@@ -7,8 +7,10 @@
     "domain": "intech-trade.co.il",
     "tier": "A",
     "classification": "Electronics importer / mobile accessories distributor",
-    "sells_sm_r640": "unverified",
-    "buyme_checkout": "unverified"
+    "sells_sm_r640": "not_found",
+    "buyme_checkout": "unverified",
+    "evidence": "Accessories retailer, not a device dealer: its Samsung catalogue is cases, covers, chargers and cables. Sells third-party wireless earbuds, not first-party Galaxy Buds.",
+    "buyme_supplier_url": "https://buyme.co.il/supplier/17573933"
   },
   {
     "name": "ליאור מוצרי חשמל",
@@ -18,8 +20,10 @@
     "domain": "lior-electric.co.il",
     "tier": "A",
     "classification": "Electronics retailer - smartphones, laptops, Samsung audio, appliances",
-    "sells_sm_r640": "unverified",
-    "buyme_checkout": "unverified"
+    "sells_sm_r640": "not_found",
+    "buyme_checkout": "unverified",
+    "evidence": "Current Samsung range indexes fine (Galaxy S26 Ultra, Galaxy Book 3, soundbars) and there is a wireless-headphone category, but the only Galaxy Buds product found is Buds Live (2020). No Buds4 Pro / SM-R640.",
+    "buyme_supplier_url": "https://buyme.co.il/supplier/17573876"
   },
   {
     "name": "DREAME",
