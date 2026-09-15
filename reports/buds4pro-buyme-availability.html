@@ -96,23 +96,17 @@
   .sub { color: var(--ink-2); margin: 10px 0 0; max-width: 60ch; }
   .mono { font-family: var(--font-mono); font-variant-numeric: tabular-nums; }
 
-  /* Verdict */
   .verdict {
     background: var(--surface);
     border: 1px solid var(--line);
-    border-left: 5px solid var(--stop);
+    border-left: 5px solid var(--go);
     border-radius: 3px;
     padding: 20px 22px;
     display: flex;
     flex-direction: column;
     gap: 10px;
   }
-  .verdict h2 {
-    margin: 0;
-    font-size: 19px;
-    font-weight: 700;
-    letter-spacing: -.01em;
-  }
+  .verdict h2 { margin: 0; font-size: 19px; font-weight: 700; letter-spacing: -.01em; }
   .verdict p { margin: 0; color: var(--ink-2); }
 
   .tag {
@@ -130,33 +124,35 @@
   .tag-stop { background: var(--stop-soft); color: var(--stop); }
   .tag-go   { background: var(--go-soft);   color: var(--go); }
 
-  /* Model comparison */
-  .models { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
-  .model {
+  /* The SKU to quote at the counter */
+  .sku-card {
     background: var(--surface);
     border: 1px solid var(--line);
     border-radius: 3px;
-    padding: 16px;
+    padding: 18px 20px;
     display: flex;
     flex-direction: column;
-    gap: 7px;
+    gap: 14px;
   }
-  .model .sku {
-    font-family: var(--font-mono);
-    font-size: 12px;
-    font-weight: 600;
+  .sku-row { display: flex; gap: 22px; flex-wrap: wrap; }
+  .sku-field { display: flex; flex-direction: column; gap: 3px; }
+  .sku-label {
+    font-size: 10.5px;
+    font-weight: 700;
+    letter-spacing: .11em;
+    text-transform: uppercase;
     color: var(--ink-3);
-    letter-spacing: .02em;
   }
-  .model .name { font-weight: 700; font-size: 16px; line-height: 1.25; }
-  .model .price {
+  .sku-value {
     font-family: var(--font-mono);
     font-variant-numeric: tabular-nums;
-    font-size: 25px;
+    font-size: 24px;
     font-weight: 600;
     letter-spacing: -.02em;
+    line-height: 1.1;
   }
-  .model .note { font-size: 13px; color: var(--ink-2); line-height: 1.45; }
+  .sku-value.sm { font-size: 17px; font-weight: 500; }
+  .sku-note { font-size: 14px; color: var(--ink-2); margin: 0; }
 
   h2.section {
     margin: 0 0 2px;
@@ -168,7 +164,6 @@
   }
   .block { display: flex; flex-direction: column; gap: 12px; }
 
-  /* Store cards */
   .store {
     background: var(--surface);
     border: 1px solid var(--line);
@@ -215,13 +210,24 @@
     border-radius: 3px;
     padding: 15px 17px;
     font-size: 14.5px;
-    color: var(--ink);
     line-height: 1.5;
   }
   .callout strong { font-weight: 700; }
 
+  .alt {
+    background: var(--surface-2);
+    border: 1px solid var(--line-2);
+    border-radius: 3px;
+    padding: 14px 17px;
+    font-size: 14.5px;
+    color: var(--ink-2);
+    line-height: 1.5;
+  }
+  .alt strong { color: var(--ink); font-weight: 600; }
+
   ul.plain { margin: 0; padding-inline-start: 19px; color: var(--ink-2); display: flex; flex-direction: column; gap: 6px; }
   ul.plain li::marker { color: var(--ink-3); }
+  ul.plain strong { color: var(--ink); font-weight: 600; }
 
   footer {
     border-top: 1px solid var(--line);
@@ -235,61 +241,70 @@
   footer a { color: var(--accent); text-decoration: none; }
   footer a:hover { text-decoration: underline; }
   a:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; border-radius: 2px; }
-
-  @media (max-width: 480px) {
-    .models { grid-template-columns: 1fr; }
-  }
 </style>
 
 <div class="wrap">
 
   <header>
-    <p class="eyebrow">BUYME ALL · 1,310 businesses checked</p>
-    <h1>The Buds4 Pro isn't buyable with your BuyMe voucher</h1>
+    <p class="eyebrow">BUYME ALL · corrected 15 Sep</p>
+    <h1>Yes — שקם אלקטריק has it, and takes your voucher</h1>
     <p class="sub">
-      Not one merchant in the BUYME ALL network carries <span class="mono">SM-R640</span>.
-      Every electronics chain on the list tops out one generation earlier, at the Buds3 Pro.
+      The Galaxy Buds4 Pro <span class="mono">SM-R640</span> is stocked under SKU
+      <span class="mono">371552</span>, with the official Sani importer warranty. שקם אלקטריק
+      is on the BUYME ALL list, so the voucher covers it — <strong>in-store only</strong>.
     </p>
   </header>
 
   <section class="verdict">
-    <span class="tag tag-stop">Dead end</span>
-    <h2>Searched all 14 electronics &amp; mobile merchants</h2>
+    <span class="tag tag-go">Buyable with BuyMe</span>
+    <h2>Correcting my earlier answer</h2>
     <p>
-      שקם אלקטריק, BIG Electric, חשמל נטו, טרקלין חשמל, Alltech, MOBICELL, BARCOM,
-      ליאור מוצרי חשמל and Intech all stock Samsung audio — and all of them stop at
-      <span class="mono">SM-R630</span>. The Buds4 Pro launched in March 2026 and hasn't
-      reached the BuyMe merchant network.
+      I previously said no BuyMe merchant carried the Buds4 Pro. That was wrong — the product
+      page exists, it just wasn't in the search index I was working from. שקם אלקטריק carries
+      both the Buds4 Pro and the non-Pro Buds4.
     </p>
   </section>
 
   <section class="block">
-    <h2 class="section">Your two options</h2>
-    <div class="models">
-      <div class="model">
-        <span class="tag tag-go">Voucher works</span>
-        <span class="sku">SM-R630</span>
-        <span class="name">Galaxy Buds3 Pro</span>
-        <span class="price">₪494</span>
-        <span class="note">Previous generation. In stock at two BuyMe chains near you. Pay in-store with the voucher.</span>
+    <h2 class="section">Quote this at the counter</h2>
+    <div class="sku-card">
+      <div class="sku-row">
+        <div class="sku-field">
+          <span class="sku-label">Shekem SKU</span>
+          <span class="sku-value">371552</span>
+        </div>
+        <div class="sku-field">
+          <span class="sku-label">Model</span>
+          <span class="sku-value">SM-R640</span>
+        </div>
+        <div class="sku-field">
+          <span class="sku-label">Colour</span>
+          <span class="sku-value sm">White · לבן</span>
+        </div>
+        <div class="sku-field">
+          <span class="sku-label">Warranty</span>
+          <span class="sku-value sm">1 yr · סאני</span>
+        </div>
       </div>
-      <div class="model">
-        <span class="tag tag-stop">No voucher</span>
-        <span class="sku">SM-R640</span>
-        <span class="name">Galaxy Buds4 Pro</span>
-        <span class="price">₪552</span>
-        <span class="note">The one you wanted. Samsung IL, KSP, Bug, i-cell — none accept BuyMe. You'd pay full price.</span>
-      </div>
+      <p class="sku-note">
+        Galaxy Buds4 Pro — Hi-Fi 24-bit, ANC, up to 30 h battery with ANC off.
+        Price isn't something I can read from here; ask when you call.
+      </p>
+    </div>
+    <div class="alt">
+      <strong>Cheaper sibling, same shelf:</strong> the non-Pro Galaxy Buds4
+      <span class="mono">SM-R540</span> is SKU <span class="mono">371550</span> in white,
+      <span class="mono">371549</span> in black. Worth asking the price difference if the
+      Pro's ANC isn't the reason you want it.
     </div>
   </section>
 
   <section class="block">
     <h2 class="section">Closest branches to Ariel</h2>
-
     <div class="store">
       <div class="store-head">
         <span class="store-name">שקם אלקטריק</span>
-        <span class="store-role">Confirmed Buds3 Pro listing · In-store redemption</span>
+        <span class="store-role">In-store redemption · not online</span>
       </div>
       <div class="branches">
         <div class="branch">
@@ -306,62 +321,38 @@
           </span>
           <a href="tel:037262428">03-7262428</a>
         </div>
-      </div>
-    </div>
-
-    <div class="store">
-      <div class="store-head">
-        <span class="store-name">BIG Electric</span>
-        <span class="store-role">Confirmed Buds3 Pro, white &amp; silver · In-store redemption</span>
-      </div>
-      <div class="branches">
         <div class="branch">
           <span class="branch-where">
-            <span class="branch-city">23 branches nationwide</span>
-            <span class="branch-addr">Use the branch finder to pick the closest — bigelectric.co.il/pointofsale</span>
+            <span class="branch-city">Chain-wide</span>
+            <span class="branch-addr">Full branch list at shekem-electric.co.il/branches</span>
           </span>
-          <a href="tel:6387">6387*</a>
-        </div>
-      </div>
-    </div>
-
-    <div class="store">
-      <div class="store-head">
-        <span class="store-name">חשמל נטו</span>
-        <span class="store-role">Carries current Samsung · Buds3 Pro not confirmed</span>
-      </div>
-      <div class="branches">
-        <div class="branch">
-          <span class="branch-where">
-            <span class="branch-city">פתח תקווה</span>
-            <span class="branch-addr">השחם 17, מתחם יכין סנטר</span>
-          </span>
-          <a href="tel:1599505066">1599-50-50-66</a>
+          <a href="tel:0732398701">073-2398701</a>
         </div>
       </div>
     </div>
   </section>
 
   <div class="callout">
-    <strong>Call before you drive.</strong> Per-branch stock isn't published anywhere online —
-    a chain-wide product page doesn't mean the Kfar Saba shelf has one. Phone the branch,
-    quote <span class="mono">SM-R630</span>, and confirm they take BuyMe at the register
-    while you're on the line.
+    <strong>Two things to settle on one phone call.</strong> Ask whether SKU
+    <span class="mono">371552</span> is physically on the shelf at that branch — the website
+    listing is chain-wide and says nothing about local stock. Then confirm they'll take a
+    BUYME ALL voucher at the register for it, since שקם אלקטריק is in-store redemption and
+    handling can vary by branch.
   </div>
 
   <section class="block">
-    <h2 class="section">How confident is this</h2>
+    <h2 class="section">What's solid, what isn't</h2>
     <ul class="plain">
-      <li><strong>Merchant list</strong> — complete. All 1,310 BUYME ALL businesses, 425 of them online-redemption.</li>
-      <li><strong>Buds3 Pro at שקם אלקטריק and BIG Electric</strong> — live product pages found for both.</li>
-      <li><strong>No SM-R640 anywhere on the list</strong> — searched every electronics merchant. Strong, but it's search-index evidence, not a shelf check.</li>
-      <li><strong>Branch-level stock</strong> — unverified, and not checkable remotely. Hence the phone numbers.</li>
+      <li><strong>Product is carried</strong> — confirmed. SKU 371552, SM-R640, white, Sani warranty.</li>
+      <li><strong>שקם אלקטריק takes BuyMe</strong> — confirmed, in-store, from the BUYME ALL export.</li>
+      <li><strong>Price</strong> — unknown. Not visible to me; comparable listings elsewhere run about ₪552.</li>
+      <li><strong>Branch stock</strong> — unknown, and not published by any Israeli chain. The phone call is the only way.</li>
+      <li><strong>מחסני חשמל / PayNGo</strong> — lists the identical SKU, but is <em>not</em> a BuyMe merchant. Same catalogue, no voucher.</li>
     </ul>
   </section>
 
   <footer>
-    <span>Prices are lowest listed on Zap, September 2026, and move week to week.</span>
-    <span>Sources: BUYME ALL merchant export · <a href="https://www.shekem-electric.co.il/339085.html">שקם אלקטריק product page</a> · <a href="https://www.zap.co.il/model.aspx?modelid=1263110">Zap SM-R640</a></span>
+    <span>Sources: BUYME ALL merchant export (1,310 businesses) · <a href="https://www.shekem-electric.co.il/371552.html">שקם אלקטריק SKU 371552</a></span>
   </footer>
 
 </div>
