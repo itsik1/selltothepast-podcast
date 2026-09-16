@@ -1,0 +1,31 @@
+{
+  "manifest_version": 3,
+  "name": "BuyMe Merchants — חיפוש וייצוא בתי עסק",
+  "description": "אוסף את בתי העסק מ-buyme.co.il, מאפשר לחפש בהם לפי קטגוריה וסוג מימוש, ולייצא ל-CSV או JSON.",
+  "version": "1.0.0",
+  "minimum_chrome_version": "111",
+  "permissions": ["storage", "downloads"],
+  "host_permissions": [
+    "https://buyme.co.il/*",
+    "https://*.buyme.co.il/*"
+  ],
+  "action": {
+    "default_title": "בתי עסק BuyMe",
+    "default_popup": "src/popup.html",
+    "default_icon": { "16": "icons/icon16.png", "48": "icons/icon48.png", "128": "icons/icon128.png" }
+  },
+  "icons": { "16": "icons/icon16.png", "48": "icons/icon48.png", "128": "icons/icon128.png" },
+  "content_scripts": [
+    {
+      "matches": ["https://buyme.co.il/*", "https://*.buyme.co.il/*"],
+      "js": ["src/inject.js"],
+      "run_at": "document_start",
+      "world": "MAIN"
+    },
+    {
+      "matches": ["https://buyme.co.il/*", "https://*.buyme.co.il/*"],
+      "js": ["src/extract.js", "src/content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}

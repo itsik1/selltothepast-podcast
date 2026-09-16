@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="he" dir="rtl">
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="popup.css">
+  <title>BuyMe Merchants</title>
+</head>
+<body>
+  <header>
+    <div class="titles">
+      <h1>בתי עסק BuyMe</h1>
+      <p id="status">טוען…</p>
+    </div>
+    <button id="scan" type="button" class="primary">סרוק דף זה</button>
+  </header>
+
+  <div class="controls">
+    <input id="q" type="search" placeholder="חפש שם, קטגוריה או אתר…" autocomplete="off">
+    <div class="row">
+      <select id="category"><option value="">כל הקטגוריות</option></select>
+      <select id="redeem">
+        <option value="">כל סוגי המימוש</option>
+        <option value="Online">אונליין</option>
+        <option value="In-store">בחנות</option>
+      </select>
+    </div>
+  </div>
+
+  <p id="count" class="count"></p>
+  <ul id="results"></ul>
+  <p id="empty" class="empty" hidden></p>
+
+  <footer>
+    <button id="csv" type="button">ייצוא CSV</button>
+    <button id="json" type="button">ייצוא JSON</button>
+    <button id="clear" type="button" class="danger">נקה</button>
+  </footer>
+
+  <script src="extract.js"></script>
+  <script src="popup.js"></script>
+</body>
+</html>

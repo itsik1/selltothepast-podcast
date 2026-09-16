@@ -3,3 +3,6 @@ __pycache__/
 
 # buyme_merchants.js output
 api-log.json
+
+# e2e screenshot artifact
+tools/buyme-extension/test/popup.png
