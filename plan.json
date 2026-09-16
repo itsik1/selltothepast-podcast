@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-16T07:30:38+00:00",
+ "generated_at": "2026-09-16T07:31:12+00:00",
  "cadence": "episode every second day; its standalone Short the evening before, curiosity Short the same evening, recap Short the next day (1-2 videos a day)",
  "episodes": [
   {
@@ -232,12 +232,12 @@
    "title_en": "A can of food",
    "title_he": "קופסת שימורים",
    "release_en": "2026-10-11",
-   "status_en": "built",
-   "youtube_en": "",
+   "status_en": "scheduled",
+   "youtube_en": "https://www.youtube.com/watch?v=_1d9MvtbloM",
    "shorts_en": [
-    "",
-    "",
-    ""
+    "https://www.youtube.com/watch?v=Iyknr4sq3Q0",
+    "https://www.youtube.com/watch?v=NxdvrDRbwCQ",
+    "https://www.youtube.com/watch?v=y61XcdFtG_A"
    ],
    "youtube_he": "",
    "hebrew": "script ready"
