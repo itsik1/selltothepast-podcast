@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-16T07:31:12+00:00",
+ "generated_at": "2026-09-16T07:31:41+00:00",
  "cadence": "episode every second day; its standalone Short the evening before, curiosity Short the same evening, recap Short the next day (1-2 videos a day)",
  "episodes": [
   {
@@ -248,11 +248,11 @@
    "title_en": "A course of antibiotics",
    "title_he": "אנטיביוטיקה",
    "release_en": "2026-10-13",
-   "status_en": "built",
-   "youtube_en": "",
+   "status_en": "scheduled",
+   "youtube_en": "https://www.youtube.com/watch?v=g_yuUC9EDRU",
    "shorts_en": [
     "",
-    "",
+    "https://www.youtube.com/watch?v=M8emmVHEYIw",
     ""
    ],
    "youtube_he": "",
