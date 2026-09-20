@@ -28,5 +28,15 @@
     "bytes": 5565221,
     "seconds": 318,
     "published": "2026-09-17T16:00:00+00:00"
+  },
+  {
+    "slug": "004-lightbulb",
+    "title": "I tried to sell a lantern in a coal mine in 1842. An 8-year-old paid the most for it",
+    "summary": "I took an LED lantern with its batteries into a time machine. I tried to sell it to a hired hand in Babylon 3,800 years ago, where an hour of light at lantern level cost 34 hours of work; to a stocking knitter in England in 1823, who gave two hours of every working day for taxed candles; and to Tommy, an eight-year-old trapper in a coal mine in 1842, who sat twelve hours in the dark because a candle cost 15% of his wage, and a flame could blow up the mine. Who paid the most, and why, says something about who needs light most.\n\nChapters:\n0:00 The lantern and the rules\n0:35 Babylon, 1750 BC: Ili-idinnam\n3:00 England, 1823: Martha\n5:30 A coal mine, 1842: Tommy\n7:30 Back to today\n\nSources:\n- Laws of Eshnunna (wages and oil prices): see research/research.md\n- William Nordhaus, \"Do Real-Output and Real-Wage Measures Capture Reality? The History of Lighting Suggests Not\" (1996): https://www.nber.org/system/files/chapters/c6064/c6064.pdf\n- Candle tax debate, Hansard 1823: https://api.parliament.uk/historic-hansard/\n- Children's Employment Commission 1842 (trapper testimony): https://www.ncl.ac.uk/webtemplate/libraryassets/external/education-outreach-mining/downloads/children_reports.pdf\n- US electricity price (BLS via FRED): https://fred.stlouisfed.org/series/APU000072610\n- US federal minimum wage: https://www.usa.gov/minimum-wage\n- All sources are listed in research/research.md of the episode.\nBackgrounds are AI-generated illustrations made locally; the characters are drawn.",
+    "file": "audio/004-lightbulb.en.mp3",
+    "url": "https://itsik1.github.io/selltothepast-podcast/audio/004-lightbulb.en.mp3",
+    "bytes": 5717762,
+    "seconds": 328,
+    "published": "2026-09-19T16:00:00+00:00"
   }
 ]

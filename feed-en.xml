@@ -13,6 +13,32 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>I tried to sell a lantern in a coal mine in 1842. An 8-year-old paid the most for it</title>
+      <description>I took an LED lantern with its batteries into a time machine. I tried to sell it to a hired hand in Babylon 3,800 years ago, where an hour of light at lantern level cost 34 hours of work; to a stocking knitter in England in 1823, who gave two hours of every working day for taxed candles; and to Tommy, an eight-year-old trapper in a coal mine in 1842, who sat twelve hours in the dark because a candle cost 15% of his wage, and a flame could blow up the mine. Who paid the most, and why, says something about who needs light most.
+
+Chapters:
+0:00 The lantern and the rules
+0:35 Babylon, 1750 BC: Ili-idinnam
+3:00 England, 1823: Martha
+5:30 A coal mine, 1842: Tommy
+7:30 Back to today
+
+Sources:
+- Laws of Eshnunna (wages and oil prices): see research/research.md
+- William Nordhaus, "Do Real-Output and Real-Wage Measures Capture Reality? The History of Lighting Suggests Not" (1996): https://www.nber.org/system/files/chapters/c6064/c6064.pdf
+- Candle tax debate, Hansard 1823: https://api.parliament.uk/historic-hansard/
+- Children's Employment Commission 1842 (trapper testimony): https://www.ncl.ac.uk/webtemplate/libraryassets/external/education-outreach-mining/downloads/children_reports.pdf
+- US electricity price (BLS via FRED): https://fred.stlouisfed.org/series/APU000072610
+- US federal minimum wage: https://www.usa.gov/minimum-wage
+- All sources are listed in research/research.md of the episode.
+Backgrounds are AI-generated illustrations made locally; the characters are drawn.</description>
+      <enclosure url="https://itsik1.github.io/selltothepast-podcast/audio/004-lightbulb.en.mp3" length="5717762" type="audio/mpeg"/>
+      <guid isPermaLink="false">004-lightbulb</guid>
+      <pubDate>Sat, 19 Sep 2026 16:00:00 +0000</pubDate>
+      <itunes:duration>00:05:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>I tried to sell a bag of salt in 1784. A kilo cost a day of work, and two minutes across the river</title>
       <description>I took a bag of salt, two dollars and forty-nine cents, into a time machine. I tried to sell it to a builder in Rome in 301, to a day labourer in Berry in 1784 who lived across the river from salt ten times cheaper, and to a farm labourer in India in April 1930, on the road to Dandi. Who paid the most, and why, says something about who really controls a price.
 
