@@ -13,6 +13,31 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>I tried to sell a bag of salt in 1784. A kilo cost a day of work, and two minutes across the river</title>
+      <description>I took a bag of salt, two dollars and forty-nine cents, into a time machine. I tried to sell it to a builder in Rome in 301, to a day labourer in Berry in 1784 who lived across the river from salt ten times cheaper, and to a farm labourer in India in April 1930, on the road to Dandi. Who paid the most, and why, says something about who really controls a price.
+
+Chapters:
+0:00 The bag and the rules
+0:35 Rome, 301: Marcus
+3:00 Berry, France, 1784: Jean
+5:30 Gujarat, India, 1930: Ramesh
+7:30 Back to today
+
+Sources:
+- Diocletian's Edict on Maximum Prices (Kropff translation): https://kark.uib.no/antikk/dias/priceedict.pdf
+- The Gabelle (Rodama): http://rodama1789.blogspot.com/2022/05/the-gabelle.html
+- Salt March (HISTORY): https://www.history.com/articles/salt-march
+- Were Roman soldiers paid in salt? (The Conversation): https://theconversation.com/our-pay-is-called-a-salary-but-were-roman-soldiers-really-paid-in-salt-290057
+- US federal minimum wage: https://www.usa.gov/minimum-wage
+- All sources are listed in research/research.md of the episode.
+Images: Wikimedia Commons, public domain / CC (credit on screen). Some backgrounds are AI-generated illustrations made locally.</description>
+      <enclosure url="https://itsik1.github.io/selltothepast-podcast/audio/003-salt.en.mp3" length="5565221" type="audio/mpeg"/>
+      <guid isPermaLink="false">003-salt</guid>
+      <pubDate>Thu, 17 Sep 2026 16:00:00 +0000</pubDate>
+      <itunes:duration>00:05:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>I tried to sell a litre of water to a man who sells water in 1854. Then I said one word</title>
       <description>I took a one-litre bottle of tap water, worth a fifth of a cent in the US, into a time machine. I tried to sell it to a water carrier in cholera-era London, to a water carrier in Paris before the Revolution, and to a sailor in the middle of the ocean in 1812. Who paid the most, and why, says something about what water really costs.
 

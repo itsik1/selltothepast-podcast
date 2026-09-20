@@ -18,5 +18,15 @@
     "bytes": 7150111,
     "seconds": 417,
     "published": "2026-09-14T23:00:00+00:00"
+  },
+  {
+    "slug": "003-salt",
+    "title": "I tried to sell a bag of salt in 1784. A kilo cost a day of work, and two minutes across the river",
+    "summary": "I took a bag of salt, two dollars and forty-nine cents, into a time machine. I tried to sell it to a builder in Rome in 301, to a day labourer in Berry in 1784 who lived across the river from salt ten times cheaper, and to a farm labourer in India in April 1930, on the road to Dandi. Who paid the most, and why, says something about who really controls a price.\n\nChapters:\n0:00 The bag and the rules\n0:35 Rome, 301: Marcus\n3:00 Berry, France, 1784: Jean\n5:30 Gujarat, India, 1930: Ramesh\n7:30 Back to today\n\nSources:\n- Diocletian's Edict on Maximum Prices (Kropff translation): https://kark.uib.no/antikk/dias/priceedict.pdf\n- The Gabelle (Rodama): http://rodama1789.blogspot.com/2022/05/the-gabelle.html\n- Salt March (HISTORY): https://www.history.com/articles/salt-march\n- Were Roman soldiers paid in salt? (The Conversation): https://theconversation.com/our-pay-is-called-a-salary-but-were-roman-soldiers-really-paid-in-salt-290057\n- US federal minimum wage: https://www.usa.gov/minimum-wage\n- All sources are listed in research/research.md of the episode.\nImages: Wikimedia Commons, public domain / CC (credit on screen). Some backgrounds are AI-generated illustrations made locally.",
+    "file": "audio/003-salt.en.mp3",
+    "url": "https://itsik1.github.io/selltothepast-podcast/audio/003-salt.en.mp3",
+    "bytes": 5565221,
+    "seconds": 318,
+    "published": "2026-09-17T16:00:00+00:00"
   }
 ]
