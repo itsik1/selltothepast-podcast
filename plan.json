@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-16T13:30:03+00:00",
+ "generated_at": "2026-09-22T19:30:16+00:00",
  "cadence": "episode every second day; its standalone Short the evening before, curiosity Short the same evening, recap Short the next day (1-2 videos a day)",
  "episodes": [
   {
@@ -251,9 +251,9 @@
    "status_en": "scheduled",
    "youtube_en": "https://www.youtube.com/watch?v=g_yuUC9EDRU",
    "shorts_en": [
-    "",
+    "https://www.youtube.com/watch?v=9DqtTlxzZmY",
     "https://www.youtube.com/watch?v=M8emmVHEYIw",
-    ""
+    "https://www.youtube.com/watch?v=JzwD54S4aw4"
    ],
    "youtube_he": "",
    "hebrew": "script ready"
@@ -641,6 +641,326 @@
    ],
    "youtube_he": "",
    "hebrew": "script ready"
+  },
+  {
+   "slug": "041-shoes",
+   "number": 41,
+   "title_en": "A pair of sneakers",
+   "title_he": "זוג נעלי ספורט",
+   "release_en": "2026-12-02",
+   "status_en": "researched",
+   "youtube_en": "",
+   "shorts_en": [
+    "",
+    "",
+    ""
+   ],
+   "youtube_he": "",
+   "hebrew": ""
+  },
+  {
+   "slug": "042-needles",
+   "number": 42,
+   "title_en": "A pack of sewing needles",
+   "title_he": "חבילת מחטי תפירה",
+   "release_en": "2026-12-04",
+   "status_en": "planned",
+   "youtube_en": "",
+   "shorts_en": [
+    "",
+    "",
+    ""
+   ],
+   "youtube_he": "",
+   "hebrew": ""
+  },
+  {
+   "slug": "043-notebook",
+   "number": 43,
+   "title_en": "A paper notebook",
+   "title_he": "מחברת",
+   "release_en": "2026-12-06",
+   "status_en": "planned",
+   "youtube_en": "",
+   "shorts_en": [
+    "",
+    "",
+    ""
+   ],
+   "youtube_he": "",
+   "hebrew": ""
+  },
+  {
+   "slug": "044-rice",
+   "number": 44,
+   "title_en": "A kilo of rice",
+   "title_he": "קילו אורז",
+   "release_en": "2026-12-08",
+   "status_en": "planned",
+   "youtube_en": "",
+   "shorts_en": [
+    "",
+    "",
+    ""
+   ],
+   "youtube_he": "",
+   "hebrew": ""
+  },
+  {
+   "slug": "045-potatoes",
+   "number": 45,
+   "title_en": "A kilo of potatoes",
+   "title_he": "קילו תפוחי אדמה",
+   "release_en": "2026-12-10",
+   "status_en": "planned",
+   "youtube_en": "",
+   "shorts_en": [
+    "",
+    "",
+    ""
+   ],
+   "youtube_he": "",
+   "hebrew": ""
+  },
+  {
+   "slug": "046-lemon",
+   "number": 46,
+   "title_en": "A lemon",
+   "title_he": "לימון",
+   "release_en": "2026-12-12",
+   "status_en": "planned",
+   "youtube_en": "",
+   "shorts_en": [
+    "",
+    "",
+    ""
+   ],
+   "youtube_he": "",
+   "hebrew": ""
+  },
+  {
+   "slug": "047-scissors",
+   "number": 47,
+   "title_en": "A pair of scissors",
+   "title_he": "מספריים",
+   "release_en": "2026-12-14",
+   "status_en": "planned",
+   "youtube_en": "",
+   "shorts_en": [
+    "",
+    "",
+    ""
+   ],
+   "youtube_he": "",
+   "hebrew": ""
+  },
+  {
+   "slug": "048-jeans",
+   "number": 48,
+   "title_en": "A pair of jeans",
+   "title_he": "מכנסי ג'ינס",
+   "release_en": "2026-12-16",
+   "status_en": "planned",
+   "youtube_en": "",
+   "shorts_en": [
+    "",
+    "",
+    ""
+   ],
+   "youtube_he": "",
+   "hebrew": ""
+  },
+  {
+   "slug": "049-cinnamon",
+   "number": 49,
+   "title_en": "A jar of cinnamon",
+   "title_he": "שקית קינמון",
+   "release_en": "2026-12-18",
+   "status_en": "planned",
+   "youtube_en": "",
+   "shorts_en": [
+    "",
+    "",
+    ""
+   ],
+   "youtube_he": "",
+   "hebrew": ""
+  },
+  {
+   "slug": "050-bandages",
+   "number": 50,
+   "title_en": "A box of adhesive bandages",
+   "title_he": "קופסת פלסטרים",
+   "release_en": "2026-12-20",
+   "status_en": "planned",
+   "youtube_en": "",
+   "shorts_en": [
+    "",
+    "",
+    ""
+   ],
+   "youtube_he": "",
+   "hebrew": ""
+  },
+  {
+   "slug": "051-mosquito-net",
+   "number": 51,
+   "title_en": "A mosquito net",
+   "title_he": "כילה נגד יתושים",
+   "release_en": "2026-12-22",
+   "status_en": "planned",
+   "youtube_en": "",
+   "shorts_en": [
+    "",
+    "",
+    ""
+   ],
+   "youtube_he": "",
+   "hebrew": ""
+  },
+  {
+   "slug": "052-padlock",
+   "number": 52,
+   "title_en": "A padlock",
+   "title_he": "מנעול",
+   "release_en": "2026-12-24",
+   "status_en": "planned",
+   "youtube_en": "",
+   "shorts_en": [
+    "",
+    "",
+    ""
+   ],
+   "youtube_he": "",
+   "hebrew": ""
+  },
+  {
+   "slug": "053-perfume",
+   "number": 53,
+   "title_en": "A bottle of perfume",
+   "title_he": "בקבוק בושם",
+   "release_en": "2026-12-26",
+   "status_en": "planned",
+   "youtube_en": "",
+   "shorts_en": [
+    "",
+    "",
+    ""
+   ],
+   "youtube_he": "",
+   "hebrew": ""
+  },
+  {
+   "slug": "054-comb",
+   "number": 54,
+   "title_en": "A plastic comb",
+   "title_he": "מסרק",
+   "release_en": "2026-12-28",
+   "status_en": "planned",
+   "youtube_en": "",
+   "shorts_en": [
+    "",
+    "",
+    ""
+   ],
+   "youtube_he": "",
+   "hebrew": ""
+  },
+  {
+   "slug": "055-map",
+   "number": 55,
+   "title_en": "A printed road map",
+   "title_he": "מפה מודפסת",
+   "release_en": "2026-12-30",
+   "status_en": "planned",
+   "youtube_en": "",
+   "shorts_en": [
+    "",
+    "",
+    ""
+   ],
+   "youtube_he": "",
+   "hebrew": ""
+  },
+  {
+   "slug": "056-thermometer",
+   "number": 56,
+   "title_en": "A digital thermometer",
+   "title_he": "מדחום",
+   "release_en": "2027-01-01",
+   "status_en": "planned",
+   "youtube_en": "",
+   "shorts_en": [
+    "",
+    "",
+    ""
+   ],
+   "youtube_he": "",
+   "hebrew": ""
+  },
+  {
+   "slug": "057-cooking-pot",
+   "number": 57,
+   "title_en": "A cooking pot",
+   "title_he": "סיר בישול",
+   "release_en": "2027-01-03",
+   "status_en": "planned",
+   "youtube_en": "",
+   "shorts_en": [
+    "",
+    "",
+    ""
+   ],
+   "youtube_he": "",
+   "hebrew": ""
+  },
+  {
+   "slug": "058-cheese",
+   "number": 58,
+   "title_en": "A block of cheese",
+   "title_he": "גבינה צהובה",
+   "release_en": "2027-01-05",
+   "status_en": "planned",
+   "youtube_en": "",
+   "shorts_en": [
+    "",
+    "",
+    ""
+   ],
+   "youtube_he": "",
+   "hebrew": ""
+  },
+  {
+   "slug": "059-playing-cards",
+   "number": 59,
+   "title_en": "A deck of playing cards",
+   "title_he": "חפיסת קלפים",
+   "release_en": "2027-01-07",
+   "status_en": "planned",
+   "youtube_en": "",
+   "shorts_en": [
+    "",
+    "",
+    ""
+   ],
+   "youtube_he": "",
+   "hebrew": ""
+  },
+  {
+   "slug": "060-olive-oil",
+   "number": 60,
+   "title_en": "A bottle of olive oil",
+   "title_he": "בקבוק שמן זית",
+   "release_en": "2027-01-09",
+   "status_en": "planned",
+   "youtube_en": "",
+   "shorts_en": [
+    "",
+    "",
+    ""
+   ],
+   "youtube_he": "",
+   "hebrew": ""
   }
  ]
 }
