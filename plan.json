@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-22T19:34:15+00:00",
+ "generated_at": "2026-09-22T19:34:50+00:00",
  "cadence": "episode every second day; its standalone Short the evening before, curiosity Short the same evening, recap Short the next day (1-2 videos a day)",
  "episodes": [
   {
@@ -392,12 +392,12 @@
    "title_en": "A pair of socks",
    "title_he": "זוג גרביים",
    "release_en": "2026-10-31",
-   "status_en": "built",
-   "youtube_en": "",
+   "status_en": "scheduled",
+   "youtube_en": "https://www.youtube.com/watch?v=8qlvTBUbgUY",
    "shorts_en": [
-    "",
-    "",
-    ""
+    "https://www.youtube.com/watch?v=angYxnns5iA",
+    "https://www.youtube.com/watch?v=9r6gsoJBC2E",
+    "https://www.youtube.com/watch?v=Kmj2qWnqWWY"
    ],
    "youtube_he": "",
    "hebrew": "script ready"
