@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-22T19:30:16+00:00",
+ "generated_at": "2026-09-22T19:30:50+00:00",
  "cadence": "episode every second day; its standalone Short the evening before, curiosity Short the same evening, recap Short the next day (1-2 videos a day)",
  "episodes": [
   {
@@ -264,12 +264,12 @@
    "title_en": "A roll of toilet paper",
    "title_he": "גליל נייר טואלט",
    "release_en": "2026-10-15",
-   "status_en": "built",
-   "youtube_en": "",
+   "status_en": "scheduled",
+   "youtube_en": "https://www.youtube.com/watch?v=vvYf_4Jl57E",
    "shorts_en": [
-    "",
-    "",
-    ""
+    "https://www.youtube.com/watch?v=buTJOq-xxK8",
+    "https://www.youtube.com/watch?v=VacC09O8I1w",
+    "https://www.youtube.com/watch?v=_LKkA2s4IX0"
    ],
    "youtube_he": "",
    "hebrew": "script ready"
