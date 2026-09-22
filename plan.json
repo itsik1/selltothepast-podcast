@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-22T19:32:18+00:00",
+ "generated_at": "2026-09-22T19:32:53+00:00",
  "cadence": "episode every second day; its standalone Short the evening before, curiosity Short the same evening, recap Short the next day (1-2 videos a day)",
  "episodes": [
   {
@@ -328,12 +328,12 @@
    "title_en": "A pineapple",
    "title_he": "אננס",
    "release_en": "2026-10-23",
-   "status_en": "built",
-   "youtube_en": "",
+   "status_en": "scheduled",
+   "youtube_en": "https://www.youtube.com/watch?v=j0mao54xOS8",
    "shorts_en": [
-    "",
-    "",
-    ""
+    "https://www.youtube.com/watch?v=51LN6s_XAnw",
+    "https://www.youtube.com/watch?v=1nIk8mfGtB4",
+    "https://www.youtube.com/watch?v=uLwSTorhn-o"
    ],
    "youtube_he": "",
    "hebrew": "script ready"
