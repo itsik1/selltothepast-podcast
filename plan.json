@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-22T19:31:23+00:00",
+ "generated_at": "2026-09-22T19:31:38+00:00",
  "cadence": "episode every second day; its standalone Short the evening before, curiosity Short the same evening, recap Short the next day (1-2 videos a day)",
  "episodes": [
   {
@@ -299,9 +299,9 @@
    "status_en": "scheduled",
    "youtube_en": "https://www.youtube.com/watch?v=whNVeTcrCHI",
    "shorts_en": [
-    "",
-    "",
-    ""
+    "https://www.youtube.com/watch?v=gVRNG7Xgdig",
+    "https://www.youtube.com/watch?v=dnopJ0eDWbM",
+    "https://www.youtube.com/watch?v=mu9ytAXI6z4"
    ],
    "youtube_he": "",
    "hebrew": "script ready"
