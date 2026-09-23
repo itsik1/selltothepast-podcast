@@ -13,6 +13,31 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>I tried to sell a kilo of sugar in 1942. It cost 40 minutes of work, and nobody could buy it</title>
+      <description>I took a kilo of sugar, two dollars and twenty-six cents, into a time machine. I tried to sell it to an apothecary in London in 1319 who sold sugar by the ounce as medicine, to a cane cutter in Jamaica in 1792 who was never paid, and to a mother with a ration book in London in 1942, when sugar was the cheapest in history and nobody could buy more than eight ounces a week. Who paid the most, and why, says something about who is allowed to buy.
+
+Chapters:
+0:00 The bag and the rules
+0:35 London, 1319: John
+3:00 Jamaica, 1792: Kwamina
+5:30 London, 1942: Margaret
+7:30 Back to today
+
+Sources:
+- Medieval prices (Dyer/Hodges list): https://www.goucher.edu/faculty/awatson/medieval-price-list
+- Sugar rationing, Hansard 1941: https://api.parliament.uk/historic-hansard/
+- Rationing in Britain, Imperial War Museums: https://www.iwm.org.uk/history/rationing-in-britain-during-the-second-world-war
+- US sugar price (BLS via FRED): https://fred.stlouisfed.org/series/APU0000715211
+- US federal minimum wage: https://www.usa.gov/minimum-wage
+- All sources are listed in research/research.md of the episode.
+Backgrounds are AI-generated illustrations made locally; the characters are drawn.</description>
+      <enclosure url="https://itsik1.github.io/selltothepast-podcast/audio/006-sugar.en.mp3" length="5210368" type="audio/mpeg"/>
+      <guid isPermaLink="false">006-sugar</guid>
+      <pubDate>Wed, 23 Sep 2026 16:00:00 +0000</pubDate>
+      <itunes:duration>00:04:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>I tried to sell a bag of ice in 1595. It cost a month of work, and melted by evening</title>
       <description>I took a bag of ice, about a dollar twenty, into a time machine. I tried to sell it to a labourer building Lahore fort in 1595, where it cost a month of work; to an Irish ice cutter on the ponds of Massachusetts in 1840, where it cost twenty minutes and he didn't need me; and to a mother in a one-room tenement flat in New York in 1900, when the ice company doubled the price only for small buyers and the mayor held its shares. Who paid the most, and why, says something about who controls a price.
 

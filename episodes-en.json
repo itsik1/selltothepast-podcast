@@ -48,5 +48,15 @@
     "bytes": 6070102,
     "seconds": 350,
     "published": "2026-09-21T16:00:00+00:00"
+  },
+  {
+    "slug": "006-sugar",
+    "title": "I tried to sell a kilo of sugar in 1942. It cost 40 minutes of work, and nobody could buy it",
+    "summary": "I took a kilo of sugar, two dollars and twenty-six cents, into a time machine. I tried to sell it to an apothecary in London in 1319 who sold sugar by the ounce as medicine, to a cane cutter in Jamaica in 1792 who was never paid, and to a mother with a ration book in London in 1942, when sugar was the cheapest in history and nobody could buy more than eight ounces a week. Who paid the most, and why, says something about who is allowed to buy.\n\nChapters:\n0:00 The bag and the rules\n0:35 London, 1319: John\n3:00 Jamaica, 1792: Kwamina\n5:30 London, 1942: Margaret\n7:30 Back to today\n\nSources:\n- Medieval prices (Dyer/Hodges list): https://www.goucher.edu/faculty/awatson/medieval-price-list\n- Sugar rationing, Hansard 1941: https://api.parliament.uk/historic-hansard/\n- Rationing in Britain, Imperial War Museums: https://www.iwm.org.uk/history/rationing-in-britain-during-the-second-world-war\n- US sugar price (BLS via FRED): https://fred.stlouisfed.org/series/APU0000715211\n- US federal minimum wage: https://www.usa.gov/minimum-wage\n- All sources are listed in research/research.md of the episode.\nBackgrounds are AI-generated illustrations made locally; the characters are drawn.",
+    "file": "audio/006-sugar.en.mp3",
+    "url": "https://itsik1.github.io/selltothepast-podcast/audio/006-sugar.en.mp3",
+    "bytes": 5210368,
+    "seconds": 296,
+    "published": "2026-09-23T16:00:00+00:00"
   }
 ]
