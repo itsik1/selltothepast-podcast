@@ -1,0 +1,173 @@
+{
+  "generated_at": "2026-09-26T19:36:46+00:00",
+  "site": "https://itsik1.github.io/selltothepast-podcast",
+  "feed_url": "https://itsik1.github.io/selltothepast-podcast/feed.xml",
+  "feed": {
+    "ok": true,
+    "http": 200,
+    "title": "למכור לעבר",
+    "cover": "https://itsik1.github.io/selltothepast-podcast/cover.jpg",
+    "episodes": 1,
+    "latest": {
+      "title": "ניסיתי למכור כיכר לחם מהסופר לאנשים ב‑1795. הנה כמה הם שילמו",
+      "published": "2026-09-05T22:30:27+00:00",
+      "days_ago": 20.9,
+      "duration": "00:06:53",
+      "audio": "https://itsik1.github.io/selltothepast-podcast/audio/001-bread.mp3",
+      "bytes": 6912140,
+      "audio_http": 200,
+      "audio_bytes_match": true
+    },
+    "days_since_last_episode": 20.9,
+    "items": [
+      {
+        "title": "ניסיתי למכור כיכר לחם מהסופר לאנשים ב‑1795. הנה כמה הם שילמו",
+        "published": "2026-09-05T22:30:27+00:00",
+        "days_ago": 20.9,
+        "duration": "00:06:53",
+        "audio": "https://itsik1.github.io/selltothepast-podcast/audio/001-bread.mp3",
+        "bytes": 6912140,
+        "audio_http": 200,
+        "audio_bytes_match": true
+      }
+    ]
+  },
+  "apple": {
+    "ok": true,
+    "listed": false,
+    "note": "not in the Apple Podcasts directory yet (search by name and by feed URL)"
+  },
+  "spotify": {
+    "ok": true,
+    "configured": true,
+    "listed": true,
+    "name": "ניסיתי למכור כיכר לחם מהסופר לאנשים ב‑1795. הנה כמה הם שילמו",
+    "url": "https://open.spotify.com/show/5PPn0eIrTTG8jsEskBQgu9",
+    "id": "5PPn0eIrTTG8jsEskBQgu9",
+    "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1f46dfc9bd6ef4826cd117e350",
+    "source": "oembed"
+  },
+  "youtube": {
+    "ok": true,
+    "configured": true,
+    "channel_id": "UCfSDwjbObdiVMci7Tfk4rvA",
+    "url": "https://www.youtube.com/channel/UCfSDwjbObdiVMci7Tfk4rvA",
+    "channel_title": "למכור לעבר · Sell to the Past",
+    "videos_in_feed": 15,
+    "videos": [
+      {
+        "title": "The man who wove shirts couldn't buy one #Shorts",
+        "url": "https://www.youtube.com/watch?v=gWzNxlToOkk",
+        "published": "2026-09-26T16:00:10+00:00",
+        "days_ago": 0.2,
+        "views": 14
+      },
+      {
+        "title": "600 hours for one shirt #Shorts",
+        "url": "https://www.youtube.com/watch?v=IJUrbJZMCug",
+        "published": "2026-09-25T23:00:24+00:00",
+        "days_ago": 0.9,
+        "views": 225
+      },
+      {
+        "title": "I tried to sell a T-shirt to a weaver in 1863. He clothed the world and couldn't buy one",
+        "url": "https://www.youtube.com/watch?v=6Gd8BGKShr8",
+        "published": "2026-09-25T16:00:09+00:00",
+        "days_ago": 1.2,
+        "views": 0
+      },
+      {
+        "title": "Death for selling too dear #Shorts",
+        "url": "https://www.youtube.com/watch?v=h7ecXWDZpBs",
+        "published": "2026-09-24T23:00:07+00:00",
+        "days_ago": 1.9,
+        "views": 92
+      },
+      {
+        "title": "The cheapest sugar you couldn't buy #Shorts",
+        "url": "https://www.youtube.com/watch?v=ghEEWk-q4_8",
+        "published": "2026-09-24T16:00:14+00:00",
+        "days_ago": 2.2,
+        "views": 100
+      },
+      {
+        "title": "Why the cheapest sugar is the one you can't buy #Shorts",
+        "url": "https://www.youtube.com/watch?v=C_T_DGSxX4s",
+        "published": "2026-09-23T23:00:35+00:00",
+        "days_ago": 2.9,
+        "views": 37
+      },
+      {
+        "title": "I tried to sell a kilo of sugar in 1942. It cost 40 minutes of work, and nobody could buy it",
+        "url": "https://www.youtube.com/watch?v=k4mFVSNDlPA",
+        "published": "2026-09-23T16:00:16+00:00",
+        "days_ago": 3.2,
+        "views": 6
+      },
+      {
+        "title": "Sugar was a medicine #Shorts",
+        "url": "https://www.youtube.com/watch?v=bCAWd1mKKYg",
+        "published": "2026-09-22T23:00:31+00:00",
+        "days_ago": 3.9,
+        "views": 8
+      },
+      {
+        "title": "The city with the most ice #Shorts",
+        "url": "https://www.youtube.com/watch?v=B2fW5C4ZhVc",
+        "published": "2026-09-22T16:00:13+00:00",
+        "days_ago": 4.2,
+        "views": 115
+      },
+      {
+        "title": "A month of work for a bag of ice #Shorts",
+        "url": "https://www.youtube.com/watch?v=-DiqNo-BWYU",
+        "published": "2026-09-21T23:00:10+00:00",
+        "days_ago": 4.9,
+        "views": 13
+      },
+      {
+        "title": "I tried to sell a bag of ice in 1595. It cost a month of work, and melted by evening",
+        "url": "https://www.youtube.com/watch?v=B_4X2ySmcr8",
+        "published": "2026-09-21T16:00:19+00:00",
+        "days_ago": 5.2,
+        "views": 2
+      },
+      {
+        "title": "Ice from Boston to India #Shorts",
+        "url": "https://www.youtube.com/watch?v=Pdz7foEwnEs",
+        "published": "2026-09-20T23:00:34+00:00",
+        "days_ago": 5.9,
+        "views": 2
+      },
+      {
+        "title": "Who paid the most for light #Shorts",
+        "url": "https://www.youtube.com/watch?v=WZ8ODfpzSOQ",
+        "published": "2026-09-20T16:00:38+00:00",
+        "days_ago": 6.2,
+        "views": 68
+      },
+      {
+        "title": "34 hours of work for an hour of light #Shorts",
+        "url": "https://www.youtube.com/watch?v=crf3VjDbTpg",
+        "published": "2026-09-19T23:00:19+00:00",
+        "days_ago": 6.9,
+        "views": 300
+      },
+      {
+        "title": "I tried to sell a lantern in a coal mine in 1842. An 8-year-old paid the most for it",
+        "url": "https://www.youtube.com/watch?v=LIlfWKCUpGE",
+        "published": "2026-09-19T16:00:21+00:00",
+        "days_ago": 7.2,
+        "views": 4
+      }
+    ],
+    "subscribers": 3,
+    "views": 1829,
+    "video_count": 32,
+    "handle": "@selltothepast"
+  },
+  "todo": [
+    "עברו 20 ימים מהפרק האחרון",
+    "עדיין לא מופיע ב‑Apple Podcasts"
+  ]
+}
