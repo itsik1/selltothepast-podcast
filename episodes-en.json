@@ -78,5 +78,15 @@
     "bytes": 5755805,
     "seconds": 330,
     "published": "2026-09-27T16:00:00+00:00"
+  },
+  {
+    "slug": "009-matches",
+    "title": "I tried to sell a box of matches in a trench in 1916. A soldier offered a week's pay",
+    "summary": "I took a box of matches into a time machine. I tried to sell it to a house servant in Stockton in 1827, when John Walker sold the first box of matches for half a day of work; to a match-factory worker in Bow in 1871, when a halfpenny tax sent thousands marching to Parliament; and to a private in a flooded trench on the Western Front in 1916, when a box cost a penny and no money could buy a dry match. Who paid the most, and why, says something about what fire really costs.\n\nChapters:\n0:00 The box and the rules\n0:35 Stockton, 1827: Hannah\n3:00 Bow, London, 1871: Alice\n5:30 The Western Front, 1916: Arthur\n7:30 Back to today\n\nSources:\n- John Walker's friction lights (Stockton Heritage): https://heritage.stockton.gov.uk/\n- The 1871 match tax (matchgirls1888.org): https://www.matchgirls1888.org/\n- British Army pay 1914 (The Long, Long Trail): https://www.longlongtrail.co.uk/\n- US federal minimum wage: https://www.usa.gov/minimum-wage\n- All sources are listed in research/research.md of the episode.\nBackgrounds are AI-generated illustrations made locally; the characters are drawn.",
+    "file": "audio/009-matches.en.mp3",
+    "url": "https://itsik1.github.io/selltothepast-podcast/audio/009-matches.en.mp3",
+    "bytes": 5135963,
+    "seconds": 292,
+    "published": "2026-09-29T16:00:00+00:00"
   }
 ]
