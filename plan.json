@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-30T13:35:02+00:00",
+ "generated_at": "2026-09-30T13:35:32+00:00",
  "cadence": "episode every second day; its standalone Short the evening before, curiosity Short the same evening, recap Short the next day (1-2 videos a day)",
  "episodes": [
   {
@@ -584,12 +584,12 @@
    "title_en": "A jar of honey",
    "title_he": "צנצנת דבש",
    "release_en": "2026-11-24",
-   "status_en": "built",
-   "youtube_en": "",
+   "status_en": "scheduled",
+   "youtube_en": "https://www.youtube.com/watch?v=ubjOn22qaqM",
    "shorts_en": [
-    "",
-    "",
-    ""
+    "https://www.youtube.com/watch?v=k44ozQFfE9E",
+    "https://www.youtube.com/watch?v=1z6ypQ3qCng",
+    "https://www.youtube.com/watch?v=fdgqiN7Wpp0"
    ],
    "youtube_he": "",
    "hebrew": "script ready"
