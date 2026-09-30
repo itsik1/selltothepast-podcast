@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-30T13:36:31+00:00",
+ "generated_at": "2026-09-30T13:37:02+00:00",
  "cadence": "episode every second day; its standalone Short the evening before, curiosity Short the same evening, recap Short the next day (1-2 videos a day)",
  "episodes": [
   {
@@ -632,12 +632,12 @@
    "title_en": "A pack of AA batteries",
    "title_he": "חבילת סוללות",
    "release_en": "2026-11-30",
-   "status_en": "built",
-   "youtube_en": "",
+   "status_en": "scheduled",
+   "youtube_en": "https://www.youtube.com/watch?v=cOYZyw55oHE",
    "shorts_en": [
-    "",
-    "",
-    ""
+    "https://www.youtube.com/watch?v=55AKNA7txpk",
+    "https://www.youtube.com/watch?v=QFGHrFsx9w0",
+    "https://www.youtube.com/watch?v=1zkW6dc7Mg8"
    ],
    "youtube_he": "",
    "hebrew": "script ready"
