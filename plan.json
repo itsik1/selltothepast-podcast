@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-30T13:30:33+00:00",
+ "generated_at": "2026-09-30T13:31:02+00:00",
  "cadence": "episode every second day; its standalone Short the evening before, curiosity Short the same evening, recap Short the next day (1-2 videos a day)",
  "episodes": [
   {
@@ -440,12 +440,12 @@
    "title_en": "A pane of window glass",
    "title_he": "שמשת חלון",
    "release_en": "2026-11-06",
-   "status_en": "built",
-   "youtube_en": "",
+   "status_en": "scheduled",
+   "youtube_en": "https://www.youtube.com/watch?v=OoboWOLHx0E",
    "shorts_en": [
-    "",
-    "",
-    ""
+    "https://www.youtube.com/watch?v=1niIVMBDNts",
+    "https://www.youtube.com/watch?v=4aRbLjCfeIY",
+    "https://www.youtube.com/watch?v=aTeJbXh-OTk"
    ],
    "youtube_he": "",
    "hebrew": "script ready"
