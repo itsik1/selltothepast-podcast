@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-30T13:36:00+00:00",
+ "generated_at": "2026-09-30T13:36:31+00:00",
  "cadence": "episode every second day; its standalone Short the evening before, curiosity Short the same evening, recap Short the next day (1-2 videos a day)",
  "episodes": [
   {
@@ -616,12 +616,12 @@
    "title_en": "A vaccine",
    "title_he": "חיסון",
    "release_en": "2026-11-28",
-   "status_en": "built",
-   "youtube_en": "",
+   "status_en": "scheduled",
+   "youtube_en": "https://www.youtube.com/watch?v=-ryxvSXg53M",
    "shorts_en": [
-    "",
-    "",
-    ""
+    "https://www.youtube.com/watch?v=mSC5Ani3LMU",
+    "https://www.youtube.com/watch?v=WXPKuZdy010",
+    "https://www.youtube.com/watch?v=1kKCmtTN17k"
    ],
    "youtube_he": "",
    "hebrew": "script ready"
