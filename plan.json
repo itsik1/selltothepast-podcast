@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-30T13:33:03+00:00",
+ "generated_at": "2026-09-30T13:33:38+00:00",
  "cadence": "episode every second day; its standalone Short the evening before, curiosity Short the same evening, recap Short the next day (1-2 videos a day)",
  "episodes": [
   {
@@ -520,12 +520,12 @@
    "title_en": "An umbrella",
    "title_he": "מטרייה",
    "release_en": "2026-11-16",
-   "status_en": "built",
-   "youtube_en": "",
+   "status_en": "scheduled",
+   "youtube_en": "https://www.youtube.com/watch?v=QAD5qT4Gz10",
    "shorts_en": [
-    "",
-    "",
-    ""
+    "https://www.youtube.com/watch?v=sbGWccDJwLU",
+    "https://www.youtube.com/watch?v=kpmllwgCJXE",
+    "https://www.youtube.com/watch?v=D7VZ3vZDOxo"
    ],
    "youtube_he": "",
    "hebrew": "script ready"
