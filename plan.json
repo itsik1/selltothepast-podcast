@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-30T03:32:33+00:00",
+ "generated_at": "2026-09-30T13:30:33+00:00",
  "cadence": "episode every second day; its standalone Short the evening before, curiosity Short the same evening, recap Short the next day (1-2 videos a day)",
  "episodes": [
   {
@@ -424,12 +424,12 @@
    "title_en": "A box of nails",
    "title_he": "קופסת מסמרים",
    "release_en": "2026-11-04",
-   "status_en": "built",
-   "youtube_en": "",
+   "status_en": "scheduled",
+   "youtube_en": "https://www.youtube.com/watch?v=1Ozh9jhvSd4",
    "shorts_en": [
-    "",
-    "",
-    ""
+    "https://www.youtube.com/watch?v=pt1bPrxlPP4",
+    "https://www.youtube.com/watch?v=NXe8xtDx3ZQ",
+    "https://www.youtube.com/watch?v=Wwxc-_C6mMc"
    ],
    "youtube_he": "",
    "hebrew": "script ready"
