@@ -88,5 +88,15 @@
     "bytes": 5135963,
     "seconds": 292,
     "published": "2026-09-29T16:00:00+00:00"
+  },
+  {
+    "slug": "010-book",
+    "title": "I tried to sell a paperback in 1835 to a boy who wasn't allowed to read. He paid in bread",
+    "summary": "I took a paperback, nine dollars and ninety-nine cents, into a time machine. I tried to sell it to a mason in Cambridge in 1400, where one manuscript cost more than a hundred days of work; to a clerk in Mainz in 1455, when Gutenberg sold the first printed Bible for three years of wages; and to Frederick, a twelve-year-old boy held in slavery in Baltimore in 1835, when teaching a slave to read was unlawful, and he paid for letters in bread. Who paid the most, and why, says something about what a book is really worth.\n\nChapters:\n0:00 The book and the rules\n0:35 Cambridge, 1400: Algar\n3:00 Mainz, 1455: Heinrich\n5:30 Baltimore, 1835: Frederick\n7:30 Back to today\n\nSources:\n- Medieval prices (Dyer/Hodges list): https://www.goucher.edu/faculty/awatson/medieval-price-list\n- The Gutenberg Bible (Cambridge University Library): see research/research.md\n- Virginia's 1831 anti-literacy law: see research/research.md\n- Frederick Douglass, Narrative of the Life (1845): see research/research.md\n- US federal minimum wage: https://www.usa.gov/minimum-wage\n- All sources are listed in research/research.md of the episode.\nBackgrounds are AI-generated illustrations made locally; the characters are drawn.",
+    "file": "audio/010-book.en.mp3",
+    "url": "https://itsik1.github.io/selltothepast-podcast/audio/010-book.en.mp3",
+    "bytes": 5262192,
+    "seconds": 299,
+    "published": "2026-10-01T16:00:00+00:00"
   }
 ]

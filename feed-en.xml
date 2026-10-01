@@ -13,6 +13,31 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>I tried to sell a paperback in 1835 to a boy who wasn't allowed to read. He paid in bread</title>
+      <description>I took a paperback, nine dollars and ninety-nine cents, into a time machine. I tried to sell it to a mason in Cambridge in 1400, where one manuscript cost more than a hundred days of work; to a clerk in Mainz in 1455, when Gutenberg sold the first printed Bible for three years of wages; and to Frederick, a twelve-year-old boy held in slavery in Baltimore in 1835, when teaching a slave to read was unlawful, and he paid for letters in bread. Who paid the most, and why, says something about what a book is really worth.
+
+Chapters:
+0:00 The book and the rules
+0:35 Cambridge, 1400: Algar
+3:00 Mainz, 1455: Heinrich
+5:30 Baltimore, 1835: Frederick
+7:30 Back to today
+
+Sources:
+- Medieval prices (Dyer/Hodges list): https://www.goucher.edu/faculty/awatson/medieval-price-list
+- The Gutenberg Bible (Cambridge University Library): see research/research.md
+- Virginia's 1831 anti-literacy law: see research/research.md
+- Frederick Douglass, Narrative of the Life (1845): see research/research.md
+- US federal minimum wage: https://www.usa.gov/minimum-wage
+- All sources are listed in research/research.md of the episode.
+Backgrounds are AI-generated illustrations made locally; the characters are drawn.</description>
+      <enclosure url="https://itsik1.github.io/selltothepast-podcast/audio/010-book.en.mp3" length="5262192" type="audio/mpeg"/>
+      <guid isPermaLink="false">010-book</guid>
+      <pubDate>Thu, 01 Oct 2026 16:00:00 +0000</pubDate>
+      <itunes:duration>00:04:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>I tried to sell a box of matches in a trench in 1916. A soldier offered a week's pay</title>
       <description>I took a box of matches into a time machine. I tried to sell it to a house servant in Stockton in 1827, when John Walker sold the first box of matches for half a day of work; to a match-factory worker in Bow in 1871, when a halfpenny tax sent thousands marching to Parliament; and to a private in a flooded trench on the Western Front in 1916, when a box cost a penny and no money could buy a dry match. Who paid the most, and why, says something about what fire really costs.
 
