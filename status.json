@@ -1,0 +1,173 @@
+{
+  "generated_at": "2026-10-03T19:43:03+00:00",
+  "site": "https://itsik1.github.io/selltothepast-podcast",
+  "feed_url": "https://itsik1.github.io/selltothepast-podcast/feed.xml",
+  "feed": {
+    "ok": true,
+    "http": 200,
+    "title": "למכור לעבר",
+    "cover": "https://itsik1.github.io/selltothepast-podcast/cover.jpg",
+    "episodes": 1,
+    "latest": {
+      "title": "ניסיתי למכור כיכר לחם מהסופר לאנשים ב‑1795. הנה כמה הם שילמו",
+      "published": "2026-09-05T22:30:27+00:00",
+      "days_ago": 27.9,
+      "duration": "00:06:53",
+      "audio": "https://itsik1.github.io/selltothepast-podcast/audio/001-bread.mp3",
+      "bytes": 6912140,
+      "audio_http": 200,
+      "audio_bytes_match": true
+    },
+    "days_since_last_episode": 27.9,
+    "items": [
+      {
+        "title": "ניסיתי למכור כיכר לחם מהסופר לאנשים ב‑1795. הנה כמה הם שילמו",
+        "published": "2026-09-05T22:30:27+00:00",
+        "days_ago": 27.9,
+        "duration": "00:06:53",
+        "audio": "https://itsik1.github.io/selltothepast-podcast/audio/001-bread.mp3",
+        "bytes": 6912140,
+        "audio_http": 200,
+        "audio_bytes_match": true
+      }
+    ]
+  },
+  "apple": {
+    "ok": true,
+    "listed": false,
+    "note": "not in the Apple Podcasts directory yet (search by name and by feed URL)"
+  },
+  "spotify": {
+    "ok": true,
+    "configured": true,
+    "listed": true,
+    "name": "ניסיתי למכור כיכר לחם מהסופר לאנשים ב‑1795. הנה כמה הם שילמו",
+    "url": "https://open.spotify.com/show/5PPn0eIrTTG8jsEskBQgu9",
+    "id": "5PPn0eIrTTG8jsEskBQgu9",
+    "artwork": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1f46dfc9bd6ef4826cd117e350",
+    "source": "oembed"
+  },
+  "youtube": {
+    "ok": true,
+    "configured": true,
+    "channel_id": "UCfSDwjbObdiVMci7Tfk4rvA",
+    "url": "https://www.youtube.com/channel/UCfSDwjbObdiVMci7Tfk4rvA",
+    "channel_title": "למכור לעבר · Sell to the Past",
+    "videos_in_feed": 15,
+    "videos": [
+      {
+        "title": "I tried to sell a bag of coffee in a camp in 1863. They paid in tobacco",
+        "url": "https://www.youtube.com/watch?v=PcTevO1oB-8",
+        "published": "2026-10-03T16:00:04+00:00",
+        "days_ago": 0.2,
+        "views": 1
+      },
+      {
+        "title": "A dish of coffee for a penny #Shorts",
+        "url": "https://www.youtube.com/watch?v=f68eZ3GuuQ4",
+        "published": "2026-10-02T23:00:37+00:00",
+        "days_ago": 0.9,
+        "views": 18
+      },
+      {
+        "title": "Bread for letters #Shorts",
+        "url": "https://www.youtube.com/watch?v=0PZbLdjTY5U",
+        "published": "2026-10-02T16:00:27+00:00",
+        "days_ago": 1.2,
+        "views": 38
+      },
+      {
+        "title": "3 years of wages for one book #Shorts",
+        "url": "https://www.youtube.com/watch?v=31k7L9lLank",
+        "published": "2026-10-01T23:00:00+00:00",
+        "days_ago": 1.9,
+        "views": 446
+      },
+      {
+        "title": "I tried to sell a paperback in 1835 to a boy who wasn't allowed to read. He paid in bread",
+        "url": "https://www.youtube.com/watch?v=rbhrSbTES_A",
+        "published": "2026-10-01T16:00:15+00:00",
+        "days_ago": 2.2,
+        "views": 4
+      },
+      {
+        "title": "200 sheep for one book #Shorts",
+        "url": "https://www.youtube.com/watch?v=9xClDKlrVzM",
+        "published": "2026-09-30T23:00:01+00:00",
+        "days_ago": 2.9,
+        "views": 39
+      },
+      {
+        "title": "A week's pay for a box of matches #Shorts",
+        "url": "https://www.youtube.com/watch?v=wwq5GeVDj5c",
+        "published": "2026-09-30T16:00:37+00:00",
+        "days_ago": 3.2,
+        "views": 152
+      },
+      {
+        "title": "20 minutes to light a fire #Shorts",
+        "url": "https://www.youtube.com/watch?v=Zj2YfN9YI5E",
+        "published": "2026-09-29T23:00:36+00:00",
+        "days_ago": 3.9,
+        "views": 114
+      },
+      {
+        "title": "I tried to sell a box of matches in a trench in 1916. A soldier offered a week's pay",
+        "url": "https://www.youtube.com/watch?v=L7OgrQimm78",
+        "published": "2026-09-29T16:00:18+00:00",
+        "days_ago": 4.2,
+        "views": 62
+      },
+      {
+        "title": "The tax that lit a march #Shorts",
+        "url": "https://www.youtube.com/watch?v=_sFim5WOE1k",
+        "published": "2026-09-28T23:00:28+00:00",
+        "days_ago": 4.9,
+        "views": 22
+      },
+      {
+        "title": "The buyer who didn't want to swallow #Shorts",
+        "url": "https://www.youtube.com/watch?v=OfBpXkrEp_g",
+        "published": "2026-09-28T16:00:23+00:00",
+        "days_ago": 5.2,
+        "views": 88
+      },
+      {
+        "title": "Opium for babies #Shorts",
+        "url": "https://www.youtube.com/watch?v=h7uvvsdcuJ0",
+        "published": "2026-09-27T23:00:01+00:00",
+        "days_ago": 5.9,
+        "views": 20
+      },
+      {
+        "title": "I tried to sell painkillers in 1915. The pharmacist offered everything, and not for the pain",
+        "url": "https://www.youtube.com/watch?v=wBIjyXVHlUs",
+        "published": "2026-09-27T16:00:07+00:00",
+        "days_ago": 6.2,
+        "views": 1
+      },
+      {
+        "title": "Willow bark by a baker's oven #Shorts",
+        "url": "https://www.youtube.com/watch?v=GOnCqX1sklQ",
+        "published": "2026-09-26T23:00:38+00:00",
+        "days_ago": 6.9,
+        "views": 9
+      },
+      {
+        "title": "The man who wove shirts couldn't buy one #Shorts",
+        "url": "https://www.youtube.com/watch?v=gWzNxlToOkk",
+        "published": "2026-09-26T16:00:10+00:00",
+        "days_ago": 7.2,
+        "views": 55
+      }
+    ],
+    "subscribers": 5,
+    "views": 2949,
+    "video_count": 46,
+    "handle": "@selltothepast"
+  },
+  "todo": [
+    "עברו 27 ימים מהפרק האחרון",
+    "עדיין לא מופיע ב‑Apple Podcasts"
+  ]
+}
