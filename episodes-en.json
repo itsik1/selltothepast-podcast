@@ -108,5 +108,15 @@
     "bytes": 5933834,
     "seconds": 341,
     "published": "2026-10-03T16:00:00+00:00"
+  },
+  {
+    "slug": "012-glasses",
+    "title": "I tried to sell reading glasses to a monk in 1270. He offered a year of work",
+    "summary": "I took a pair of reading glasses, nine dollars and eighty-nine cents, into a time machine. I tried to sell them to a mercer in the Florence market in 1415, where a pair cost a labourer 37 minutes of work; to a farmer's wife in Iowa in 1897 who ordered from the Sears catalogue for half a day of work; and to a monk and scribe in Tuscany in 1270, when spectacles did not yet exist anywhere in the world, and he offered a year of copying. Who paid the most, and why, says something about what glasses are really worth.\n\nChapters:\n0:00 The glasses and the rules\n0:35 Florence, 1415: Bartolomeo\n3:00 Iowa, 1897: Ethel\n5:30 Tuscany, 1270: Benedetto\n7:30 Back to today\n\nSources:\n- Vincent Ilardi, Renaissance Vision from Spectacles to Telescopes: see research/research.md\n- The College of Optometrists museum (early spectacles): https://www.college-optometrists.org/\n- Sears catalogue 1897 (spectacles): see research/research.md\n- Giordano da Pisa's sermon, 1306: see research/research.md\n- US federal minimum wage: https://www.usa.gov/minimum-wage\n- All sources are listed in research/research.md of the episode.\nBackgrounds are AI-generated illustrations made locally; the characters are drawn.",
+    "file": "audio/012-glasses.en.mp3",
+    "url": "https://itsik1.github.io/selltothepast-podcast/audio/012-glasses.en.mp3",
+    "bytes": 5271792,
+    "seconds": 300,
+    "published": "2026-10-05T16:00:00+00:00"
   }
 ]
