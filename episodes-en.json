@@ -98,5 +98,15 @@
     "bytes": 5262192,
     "seconds": 299,
     "published": "2026-10-01T16:00:00+00:00"
+  },
+  {
+    "slug": "011-coffee",
+    "title": "I tried to sell a bag of coffee in a camp in 1863. They paid in tobacco",
+    "summary": "I took a bag of coffee, five dollars and fourteen cents, into a time machine. I tried to sell it to a labourer in a London coffeehouse in 1700, where a dish cost a penny and came with a warm room; to a farmer in Prussia in 1777, when King Frederick banned coffee for the people and sent sniffers into the streets; and to a Confederate private in Virginia in 1863, when coffee in the South rose to 196 dollars a pound and soldiers traded tobacco for it between the lines. Who paid the most, and why, says something about what coffee is really worth.\n\nChapters:\n0:00 The bag and the rules\n0:35 London, 1700: Ned\n3:00 Prussia, 1777: Johann\n5:30 Virginia, 1863: Elijah\n7:30 Back to today\n\nSources:\n- London wages c. 1700 (Judy Stephenson): see research/research.md\n- Ukers, All About Coffee (Frederick the Great's 1777 manifesto): see research/research.md\n- Coffee and the Civil War soldier (American Battlefield Trust): https://www.battlefields.org/learn/articles/coffee-and-civil-war-soldier\n- US coffee price (BLS via FRED): https://fred.stlouisfed.org/series/APU0000717311\n- US federal minimum wage: https://www.usa.gov/minimum-wage\n- All sources are listed in research/research.md of the episode.\nBackgrounds are AI-generated illustrations made locally; the characters are drawn.",
+    "file": "audio/011-coffee.en.mp3",
+    "url": "https://itsik1.github.io/selltothepast-podcast/audio/011-coffee.en.mp3",
+    "bytes": 5933834,
+    "seconds": 341,
+    "published": "2026-10-03T16:00:00+00:00"
   }
 ]
