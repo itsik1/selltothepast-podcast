@@ -1,0 +1,173 @@
+{
+  "generated_at": "2026-10-10T20:31:29+00:00",
+  "site": "https://itsik1.github.io/selltothepast-podcast",
+  "feed_url": "https://itsik1.github.io/selltothepast-podcast/feed.xml",
+  "feed": {
+    "ok": true,
+    "http": 200,
+    "title": "למכור לעבר",
+    "cover": "https://itsik1.github.io/selltothepast-podcast/cover.jpg",
+    "episodes": 1,
+    "latest": {
+      "title": "ניסיתי למכור כיכר לחם מהסופר לאנשים ב‑1795. הנה כמה הם שילמו",
+      "published": "2026-09-05T22:30:27+00:00",
+      "days_ago": 34.9,
+      "duration": "00:06:53",
+      "audio": "https://itsik1.github.io/selltothepast-podcast/audio/001-bread.mp3",
+      "bytes": 6912140,
+      "audio_http": 200,
+      "audio_bytes_match": true
+    },
+    "days_since_last_episode": 34.9,
+    "items": [
+      {
+        "title": "ניסיתי למכור כיכר לחם מהסופר לאנשים ב‑1795. הנה כמה הם שילמו",
+        "published": "2026-09-05T22:30:27+00:00",
+        "days_ago": 34.9,
+        "duration": "00:06:53",
+        "audio": "https://itsik1.github.io/selltothepast-podcast/audio/001-bread.mp3",
+        "bytes": 6912140,
+        "audio_http": 200,
+        "audio_bytes_match": true
+      }
+    ]
+  },
+  "apple": {
+    "ok": true,
+    "listed": false,
+    "note": "not in the Apple Podcasts directory yet (search by name and by feed URL)"
+  },
+  "spotify": {
+    "ok": true,
+    "configured": true,
+    "listed": true,
+    "name": "ניסיתי למכור כיכר לחם מהסופר לאנשים ב‑1795. הנה כמה הם שילמו",
+    "url": "https://open.spotify.com/show/5PPn0eIrTTG8jsEskBQgu9",
+    "id": "5PPn0eIrTTG8jsEskBQgu9",
+    "artwork": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1f46dfc9bd6ef4826cd117e350",
+    "source": "oembed"
+  },
+  "youtube": {
+    "ok": true,
+    "configured": true,
+    "channel_id": "UCfSDwjbObdiVMci7Tfk4rvA",
+    "url": "https://www.youtube.com/channel/UCfSDwjbObdiVMci7Tfk4rvA",
+    "channel_title": "למכור לעבר · Sell to the Past",
+    "videos_in_feed": 15,
+    "videos": [
+      {
+        "title": "The pen worth the least #Shorts",
+        "url": "https://www.youtube.com/watch?v=FpVSH0XrRRA",
+        "published": "2026-10-10T16:00:27+00:00",
+        "days_ago": 0.2,
+        "views": 78
+      },
+      {
+        "title": "18,000 a day #Shorts",
+        "url": "https://www.youtube.com/watch?v=JbZzKrNT8Yc",
+        "published": "2026-10-09T23:00:17+00:00",
+        "days_ago": 0.9,
+        "views": 130
+      },
+      {
+        "title": "I tried to sell a pen in Cairo in 1834. The buyer paid easily, and couldn't use it",
+        "url": "https://www.youtube.com/watch?v=7aJHCGclvzg",
+        "published": "2026-10-09T16:00:37+00:00",
+        "days_ago": 1.2,
+        "views": 3
+      },
+      {
+        "title": "Quills at the Bank of England #Shorts",
+        "url": "https://www.youtube.com/watch?v=u5tbIAIz63k",
+        "published": "2026-10-08T23:00:04+00:00",
+        "days_ago": 1.9,
+        "views": 7
+      },
+      {
+        "title": "Chocolate that isn't allowed to taste good #Shorts",
+        "url": "https://www.youtube.com/watch?v=9LlwK1bpIkE",
+        "published": "2026-10-08T16:00:24+00:00",
+        "days_ago": 2.2,
+        "views": 133
+      },
+      {
+        "title": "A boiled potato #Shorts",
+        "url": "https://www.youtube.com/watch?v=ZV2UyjqqDdQ",
+        "published": "2026-10-07T23:00:19+00:00",
+        "days_ago": 2.9,
+        "views": 62
+      },
+      {
+        "title": "I tried to sell chocolate to a soldier who gets it free. He paid three rations for one bar",
+        "url": "https://www.youtube.com/watch?v=6_Yzn1-YBVI",
+        "published": "2026-10-07T16:00:27+00:00",
+        "days_ago": 3.2,
+        "views": 0
+      },
+      {
+        "title": "Money you can drink #Shorts",
+        "url": "https://www.youtube.com/watch?v=D9oJUdpkS2Q",
+        "published": "2026-10-06T23:00:35+00:00",
+        "days_ago": 3.9,
+        "views": 3
+      },
+      {
+        "title": "A year of work for glasses #Shorts",
+        "url": "https://www.youtube.com/watch?v=QUoNvOMLqgQ",
+        "published": "2026-10-06T16:00:09+00:00",
+        "days_ago": 4.2,
+        "views": 22
+      },
+      {
+        "title": "Dearer in 1897 than in 1415 #Shorts",
+        "url": "https://www.youtube.com/watch?v=HkeuKBMp-ek",
+        "published": "2026-10-05T23:00:39+00:00",
+        "days_ago": 4.9,
+        "views": 4
+      },
+      {
+        "title": "I tried to sell reading glasses to a monk in 1270. He offered a year of work",
+        "url": "https://www.youtube.com/watch?v=FS_DUEkrfZI",
+        "published": "2026-10-05T16:00:06+00:00",
+        "days_ago": 5.2,
+        "views": 3
+      },
+      {
+        "title": "The nun with the spectacles #Shorts",
+        "url": "https://www.youtube.com/watch?v=DC0TLVyOlbo",
+        "published": "2026-10-04T23:00:28+00:00",
+        "days_ago": 5.9,
+        "views": 9
+      },
+      {
+        "title": "Tobacco for coffee #Shorts",
+        "url": "https://www.youtube.com/watch?v=jdNg7zwGC4w",
+        "published": "2026-10-04T16:00:22+00:00",
+        "days_ago": 6.2,
+        "views": 31
+      },
+      {
+        "title": "The king who banned coffee #Shorts",
+        "url": "https://www.youtube.com/watch?v=o8Bb_utlStA",
+        "published": "2026-10-03T23:00:00+00:00",
+        "days_ago": 6.9,
+        "views": 61
+      },
+      {
+        "title": "I tried to sell a bag of coffee in a camp in 1863. They paid in tobacco",
+        "url": "https://www.youtube.com/watch?v=PcTevO1oB-8",
+        "published": "2026-10-03T16:00:04+00:00",
+        "days_ago": 7.2,
+        "views": 34
+      }
+    ],
+    "subscribers": 5,
+    "views": 3369,
+    "video_count": 60,
+    "handle": "@selltothepast"
+  },
+  "todo": [
+    "עברו 34 ימים מהפרק האחרון",
+    "עדיין לא מופיע ב‑Apple Podcasts"
+  ]
+}
