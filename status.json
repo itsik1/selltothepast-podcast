@@ -1,0 +1,173 @@
+{
+  "generated_at": "2026-10-17T19:06:21+00:00",
+  "site": "https://itsik1.github.io/selltothepast-podcast",
+  "feed_url": "https://itsik1.github.io/selltothepast-podcast/feed.xml",
+  "feed": {
+    "ok": true,
+    "http": 200,
+    "title": "למכור לעבר",
+    "cover": "https://itsik1.github.io/selltothepast-podcast/cover.jpg",
+    "episodes": 1,
+    "latest": {
+      "title": "ניסיתי למכור כיכר לחם מהסופר לאנשים ב‑1795. הנה כמה הם שילמו",
+      "published": "2026-09-05T22:30:27+00:00",
+      "days_ago": 41.9,
+      "duration": "00:06:53",
+      "audio": "https://itsik1.github.io/selltothepast-podcast/audio/001-bread.mp3",
+      "bytes": 6912140,
+      "audio_http": 200,
+      "audio_bytes_match": true
+    },
+    "days_since_last_episode": 41.9,
+    "items": [
+      {
+        "title": "ניסיתי למכור כיכר לחם מהסופר לאנשים ב‑1795. הנה כמה הם שילמו",
+        "published": "2026-09-05T22:30:27+00:00",
+        "days_ago": 41.9,
+        "duration": "00:06:53",
+        "audio": "https://itsik1.github.io/selltothepast-podcast/audio/001-bread.mp3",
+        "bytes": 6912140,
+        "audio_http": 200,
+        "audio_bytes_match": true
+      }
+    ]
+  },
+  "apple": {
+    "ok": true,
+    "listed": false,
+    "note": "not in the Apple Podcasts directory yet (search by name and by feed URL)"
+  },
+  "spotify": {
+    "ok": true,
+    "configured": true,
+    "listed": true,
+    "name": "ניסיתי למכור כיכר לחם מהסופר לאנשים ב‑1795. הנה כמה הם שילמו",
+    "url": "https://open.spotify.com/show/5PPn0eIrTTG8jsEskBQgu9",
+    "id": "5PPn0eIrTTG8jsEskBQgu9",
+    "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1f46dfc9bd6ef4826cd117e350",
+    "source": "oembed"
+  },
+  "youtube": {
+    "ok": true,
+    "configured": true,
+    "channel_id": "UCfSDwjbObdiVMci7Tfk4rvA",
+    "url": "https://www.youtube.com/channel/UCfSDwjbObdiVMci7Tfk4rvA",
+    "channel_title": "למכור לעבר · Sell to the Past",
+    "videos_in_feed": 15,
+    "videos": [
+      {
+        "title": "I tried to sell bananas in Bristol in 1945. The rich man offered two weeks' wages, and got none",
+        "url": "https://www.youtube.com/watch?v=joRFrvJWd2s",
+        "published": "2026-10-17T16:00:05+00:00",
+        "days_ago": 0.1,
+        "views": 0
+      },
+      {
+        "title": "Two a penny #Shorts",
+        "url": "https://www.youtube.com/watch?v=BRfohOefi3E",
+        "published": "2026-10-16T23:00:10+00:00",
+        "days_ago": 0.8,
+        "views": 13
+      },
+      {
+        "title": "The man who paid nothing #Shorts",
+        "url": "https://www.youtube.com/watch?v=buTJOq-xxK8",
+        "published": "2026-10-16T16:00:20+00:00",
+        "days_ago": 1.1,
+        "views": 39
+      },
+      {
+        "title": "One sponge for everyone #Shorts",
+        "url": "https://www.youtube.com/watch?v=VacC09O8I1w",
+        "published": "2026-10-15T23:00:05+00:00",
+        "days_ago": 1.8,
+        "views": 22
+      },
+      {
+        "title": "I tried to sell a roll of toilet paper to a farmer in 1900. He laughed: he had a catalogue",
+        "url": "https://www.youtube.com/watch?v=vvYf_4Jl57E",
+        "published": "2026-10-15T16:00:31+00:00",
+        "days_ago": 2.1,
+        "views": 3
+      },
+      {
+        "title": "Gayetty's medicated paper #Shorts",
+        "url": "https://www.youtube.com/watch?v=_LKkA2s4IX0",
+        "published": "2026-10-14T23:00:09+00:00",
+        "days_ago": 2.8,
+        "views": 10
+      },
+      {
+        "title": "The buyer who mustn't swallow #Shorts",
+        "url": "https://www.youtube.com/watch?v=9DqtTlxzZmY",
+        "published": "2026-10-14T16:00:39+00:00",
+        "days_ago": 3.1,
+        "views": 8
+      },
+      {
+        "title": "Penicillin from urine #Shorts",
+        "url": "https://www.youtube.com/watch?v=M8emmVHEYIw",
+        "published": "2026-10-13T23:00:26+00:00",
+        "days_ago": 3.8,
+        "views": 3
+      },
+      {
+        "title": "I tried to sell antibiotics in 1946. The buyer could pay, and I refused",
+        "url": "https://www.youtube.com/watch?v=g_yuUC9EDRU",
+        "published": "2026-10-13T16:00:19+00:00",
+        "days_ago": 4.1,
+        "views": 1
+      },
+      {
+        "title": "Twenty dollars a dose #Shorts",
+        "url": "https://www.youtube.com/watch?v=JzwD54S4aw4",
+        "published": "2026-10-12T23:00:29+00:00",
+        "days_ago": 4.8,
+        "views": 108
+      },
+      {
+        "title": "The richest buyer got the rotten can #Shorts",
+        "url": "https://www.youtube.com/watch?v=Iyknr4sq3Q0",
+        "published": "2026-10-12T16:00:36+00:00",
+        "days_ago": 5.1,
+        "views": 89
+      },
+      {
+        "title": "Five times the price, and rotten #Shorts",
+        "url": "https://www.youtube.com/watch?v=NxdvrDRbwCQ",
+        "published": "2026-10-11T23:00:24+00:00",
+        "days_ago": 5.8,
+        "views": 157
+      },
+      {
+        "title": "I tried to sell a can of food to the Franklin expedition. They paid 5 times the price, and got rot",
+        "url": "https://www.youtube.com/watch?v=_1d9MvtbloM",
+        "published": "2026-10-11T16:00:25+00:00",
+        "days_ago": 6.1,
+        "views": 1
+      },
+      {
+        "title": "Napoleon's prize #Shorts",
+        "url": "https://www.youtube.com/watch?v=y61XcdFtG_A",
+        "published": "2026-10-10T23:00:29+00:00",
+        "days_ago": 6.8,
+        "views": 74
+      },
+      {
+        "title": "The pen worth the least #Shorts",
+        "url": "https://www.youtube.com/watch?v=FpVSH0XrRRA",
+        "published": "2026-10-10T16:00:27+00:00",
+        "days_ago": 7.1,
+        "views": 91
+      }
+    ],
+    "subscribers": 6,
+    "views": 4237,
+    "video_count": 74,
+    "handle": "@selltothepast"
+  },
+  "todo": [
+    "עברו 41 ימים מהפרק האחרון",
+    "עדיין לא מופיע ב‑Apple Podcasts"
+  ]
+}
