@@ -1,0 +1,173 @@
+{
+  "generated_at": "2026-10-24T19:19:16+00:00",
+  "site": "https://itsik1.github.io/selltothepast-podcast",
+  "feed_url": "https://itsik1.github.io/selltothepast-podcast/feed.xml",
+  "feed": {
+    "ok": true,
+    "http": 200,
+    "title": "למכור לעבר",
+    "cover": "https://itsik1.github.io/selltothepast-podcast/cover.jpg",
+    "episodes": 1,
+    "latest": {
+      "title": "ניסיתי למכור כיכר לחם מהסופר לאנשים ב‑1795. הנה כמה הם שילמו",
+      "published": "2026-09-05T22:30:27+00:00",
+      "days_ago": 48.9,
+      "duration": "00:06:53",
+      "audio": "https://itsik1.github.io/selltothepast-podcast/audio/001-bread.mp3",
+      "bytes": 6912140,
+      "audio_http": 200,
+      "audio_bytes_match": true
+    },
+    "days_since_last_episode": 48.9,
+    "items": [
+      {
+        "title": "ניסיתי למכור כיכר לחם מהסופר לאנשים ב‑1795. הנה כמה הם שילמו",
+        "published": "2026-09-05T22:30:27+00:00",
+        "days_ago": 48.9,
+        "duration": "00:06:53",
+        "audio": "https://itsik1.github.io/selltothepast-podcast/audio/001-bread.mp3",
+        "bytes": 6912140,
+        "audio_http": 200,
+        "audio_bytes_match": true
+      }
+    ]
+  },
+  "apple": {
+    "ok": true,
+    "listed": false,
+    "note": "not in the Apple Podcasts directory yet (search by name and by feed URL)"
+  },
+  "spotify": {
+    "ok": true,
+    "configured": true,
+    "listed": true,
+    "name": "ניסיתי למכור כיכר לחם מהסופר לאנשים ב‑1795. הנה כמה הם שילמו",
+    "url": "https://open.spotify.com/show/5PPn0eIrTTG8jsEskBQgu9",
+    "id": "5PPn0eIrTTG8jsEskBQgu9",
+    "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1f46dfc9bd6ef4826cd117e350",
+    "source": "oembed"
+  },
+  "youtube": {
+    "ok": true,
+    "configured": true,
+    "channel_id": "UCfSDwjbObdiVMci7Tfk4rvA",
+    "url": "https://www.youtube.com/channel/UCfSDwjbObdiVMci7Tfk4rvA",
+    "channel_title": "למכור לעבר · Sell to the Past",
+    "videos_in_feed": 15,
+    "videos": [
+      {
+        "title": "The pineapple nobody ate #Shorts",
+        "url": "https://www.youtube.com/watch?v=51LN6s_XAnw",
+        "published": "2026-10-24T16:00:05+00:00",
+        "days_ago": 0.1,
+        "views": 7
+      },
+      {
+        "title": "A pineapple for the price of a coach #Shorts",
+        "url": "https://www.youtube.com/watch?v=1nIk8mfGtB4",
+        "published": "2026-10-23T23:00:22+00:00",
+        "days_ago": 0.8,
+        "views": 6
+      },
+      {
+        "title": "I tried to sell a pineapple in London in 1780. She rented it for the evening and gave it back whole",
+        "url": "https://www.youtube.com/watch?v=j0mao54xOS8",
+        "published": "2026-10-23T16:00:10+00:00",
+        "days_ago": 1.1,
+        "views": 0
+      },
+      {
+        "title": "Seven years for seven pineapples #Shorts",
+        "url": "https://www.youtube.com/watch?v=uLwSTorhn-o",
+        "published": "2026-10-22T23:00:35+00:00",
+        "days_ago": 1.8,
+        "views": 41
+      },
+      {
+        "title": "The battery beat them all #Shorts",
+        "url": "https://www.youtube.com/watch?v=zrFHhY77jrY",
+        "published": "2026-10-22T16:00:38+00:00",
+        "days_ago": 2.1,
+        "views": 44
+      },
+      {
+        "title": "35 years of work for a clock #Shorts",
+        "url": "https://www.youtube.com/watch?v=RefPJxei-YE",
+        "published": "2026-10-21T23:00:22+00:00",
+        "days_ago": 2.8,
+        "views": 36
+      },
+      {
+        "title": "I tried to sell a phone with no network in 1772. A sailor paid a month's wages for the clock",
+        "url": "https://www.youtube.com/watch?v=wK4chjK9FnA",
+        "published": "2026-10-21T16:00:39+00:00",
+        "days_ago": 3.1,
+        "views": 2
+      },
+      {
+        "title": "A calculator for three months' wages #Shorts",
+        "url": "https://www.youtube.com/watch?v=1OOcUDoezHg",
+        "published": "2026-10-20T23:00:10+00:00",
+        "days_ago": 3.8,
+        "views": 41
+      },
+      {
+        "title": "The camera worth nothing #Shorts",
+        "url": "https://www.youtube.com/watch?v=gVRNG7Xgdig",
+        "published": "2026-10-20T16:00:16+00:00",
+        "days_ago": 4.1,
+        "views": 38
+      },
+      {
+        "title": "A week of work for one picture #Shorts",
+        "url": "https://www.youtube.com/watch?v=dnopJ0eDWbM",
+        "published": "2026-10-19T23:00:32+00:00",
+        "days_ago": 4.8,
+        "views": 17
+      },
+      {
+        "title": "I tried to sell a camera in 1870 to a mother who needed one picture. It was worth nothing to her",
+        "url": "https://www.youtube.com/watch?v=whNVeTcrCHI",
+        "published": "2026-10-19T16:00:19+00:00",
+        "days_ago": 5.1,
+        "views": 3
+      },
+      {
+        "title": "A camera for a dollar #Shorts",
+        "url": "https://www.youtube.com/watch?v=mu9ytAXI6z4",
+        "published": "2026-10-18T23:00:02+00:00",
+        "days_ago": 5.8,
+        "views": 73
+      },
+      {
+        "title": "The rich man who got no banana #Shorts",
+        "url": "https://www.youtube.com/watch?v=pqEStn5fkTk",
+        "published": "2026-10-18T16:00:02+00:00",
+        "days_ago": 6.1,
+        "views": 29
+      },
+      {
+        "title": "A banana with a knife and fork #Shorts",
+        "url": "https://www.youtube.com/watch?v=MFRJzZZFQr0",
+        "published": "2026-10-17T23:00:16+00:00",
+        "days_ago": 6.8,
+        "views": 22
+      },
+      {
+        "title": "I tried to sell bananas in Bristol in 1945. The rich man offered two weeks' wages, and got none",
+        "url": "https://www.youtube.com/watch?v=joRFrvJWd2s",
+        "published": "2026-10-17T16:00:05+00:00",
+        "days_ago": 7.1,
+        "views": 0
+      }
+    ],
+    "subscribers": 8,
+    "views": 4649,
+    "video_count": 88,
+    "handle": "@selltothepast"
+  },
+  "todo": [
+    "עברו 48 ימים מהפרק האחרון",
+    "עדיין לא מופיע ב‑Apple Podcasts"
+  ]
+}
