@@ -1,0 +1,173 @@
+{
+  "generated_at": "2026-10-31T10:47:15+00:00",
+  "site": "https://itsik1.github.io/selltothepast-podcast",
+  "feed_url": "https://itsik1.github.io/selltothepast-podcast/feed.xml",
+  "feed": {
+    "ok": true,
+    "http": 200,
+    "title": "למכור לעבר",
+    "cover": "https://itsik1.github.io/selltothepast-podcast/cover.jpg",
+    "episodes": 1,
+    "latest": {
+      "title": "ניסיתי למכור כיכר לחם מהסופר לאנשים ב‑1795. הנה כמה הם שילמו",
+      "published": "2026-09-05T22:30:27+00:00",
+      "days_ago": 55.5,
+      "duration": "00:06:53",
+      "audio": "https://itsik1.github.io/selltothepast-podcast/audio/001-bread.mp3",
+      "bytes": 6912140,
+      "audio_http": 200,
+      "audio_bytes_match": true
+    },
+    "days_since_last_episode": 55.5,
+    "items": [
+      {
+        "title": "ניסיתי למכור כיכר לחם מהסופר לאנשים ב‑1795. הנה כמה הם שילמו",
+        "published": "2026-09-05T22:30:27+00:00",
+        "days_ago": 55.5,
+        "duration": "00:06:53",
+        "audio": "https://itsik1.github.io/selltothepast-podcast/audio/001-bread.mp3",
+        "bytes": 6912140,
+        "audio_http": 200,
+        "audio_bytes_match": true
+      }
+    ]
+  },
+  "apple": {
+    "ok": true,
+    "listed": false,
+    "note": "not in the Apple Podcasts directory yet (search by name and by feed URL)"
+  },
+  "spotify": {
+    "ok": true,
+    "configured": true,
+    "listed": true,
+    "name": "ניסיתי למכור כיכר לחם מהסופר לאנשים ב‑1795. הנה כמה הם שילמו",
+    "url": "https://open.spotify.com/show/5PPn0eIrTTG8jsEskBQgu9",
+    "id": "5PPn0eIrTTG8jsEskBQgu9",
+    "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1f46dfc9bd6ef4826cd117e350",
+    "source": "oembed"
+  },
+  "youtube": {
+    "ok": true,
+    "configured": true,
+    "channel_id": "UCfSDwjbObdiVMci7Tfk4rvA",
+    "url": "https://www.youtube.com/channel/UCfSDwjbObdiVMci7Tfk4rvA",
+    "channel_title": "למכור לעבר · Sell to the Past",
+    "videos_in_feed": 15,
+    "videos": [
+      {
+        "title": "Silk stockings for the queen #Shorts",
+        "url": "https://www.youtube.com/watch?v=Kmj2qWnqWWY",
+        "published": "2026-10-30T23:00:02+00:00",
+        "days_ago": 0.5,
+        "views": 29
+      },
+      {
+        "title": "The doctors who refused to wash #Shorts",
+        "url": "https://www.youtube.com/watch?v=fwqZd9IB34k",
+        "published": "2026-10-30T16:00:00+00:00",
+        "days_ago": 0.8,
+        "views": 48
+      },
+      {
+        "title": "141 years of soap tax #Shorts",
+        "url": "https://www.youtube.com/watch?v=gFmPD9OXvRs",
+        "published": "2026-10-29T23:00:11+00:00",
+        "days_ago": 1.5,
+        "views": 54
+      },
+      {
+        "title": "I tried to sell soap in Vienna in 1847. The doctors were offended",
+        "url": "https://www.youtube.com/watch?v=km3JPLSDcWs",
+        "published": "2026-10-29T16:00:24+00:00",
+        "days_ago": 1.8,
+        "views": 0
+      },
+      {
+        "title": "Life on a guinea a week #Shorts",
+        "url": "https://www.youtube.com/watch?v=wbOjyOu1_6I",
+        "published": "2026-10-28T23:00:06+00:00",
+        "days_ago": 2.5,
+        "views": 43
+      },
+      {
+        "title": "A month's wages for eight oranges #Shorts",
+        "url": "https://www.youtube.com/watch?v=GB3JZU4RKO0",
+        "published": "2026-10-28T16:00:02+00:00",
+        "days_ago": 2.8,
+        "views": 50
+      },
+      {
+        "title": "Six days, and the fruit ran out #Shorts",
+        "url": "https://www.youtube.com/watch?v=ID1q37YelX4",
+        "published": "2026-10-27T23:00:00+00:00",
+        "days_ago": 3.5,
+        "views": 78
+      },
+      {
+        "title": "I tried to sell oranges on a ship in 1747. A sailor gave a month's wages for eight",
+        "url": "https://www.youtube.com/watch?v=l_5q4iyn2Hg",
+        "published": "2026-10-27T16:00:07+00:00",
+        "days_ago": 3.8,
+        "views": 0
+      },
+      {
+        "title": "Nell Gwyn and sixpence #Shorts",
+        "url": "https://www.youtube.com/watch?v=JJvnQOskQnA",
+        "published": "2026-10-26T23:00:10+00:00",
+        "days_ago": 4.5,
+        "views": 3
+      },
+      {
+        "title": "Pure country milk #Shorts",
+        "url": "https://www.youtube.com/watch?v=8uWPeIzRJfE",
+        "published": "2026-10-26T16:00:01+00:00",
+        "days_ago": 4.8,
+        "views": 62
+      },
+      {
+        "title": "Milk from the distillery #Shorts",
+        "url": "https://www.youtube.com/watch?v=iKSrcKb0fPs",
+        "published": "2026-10-25T23:00:22+00:00",
+        "days_ago": 5.5,
+        "views": 20
+      },
+      {
+        "title": "I tried to sell a carton of milk in New York in 1858. \"Pure country milk\" killed 8,000 babies a year",
+        "url": "https://www.youtube.com/watch?v=HQo8ZRNGUAU",
+        "published": "2026-10-25T16:00:11+00:00",
+        "days_ago": 5.8,
+        "views": 2
+      },
+      {
+        "title": "A cow for 39 days of work #Shorts",
+        "url": "https://www.youtube.com/watch?v=SMthp3rrjJg",
+        "published": "2026-10-24T23:00:39+00:00",
+        "days_ago": 6.5,
+        "views": 33
+      },
+      {
+        "title": "The pineapple nobody ate #Shorts",
+        "url": "https://www.youtube.com/watch?v=51LN6s_XAnw",
+        "published": "2026-10-24T16:00:05+00:00",
+        "days_ago": 6.8,
+        "views": 25
+      },
+      {
+        "title": "A pineapple for the price of a coach #Shorts",
+        "url": "https://www.youtube.com/watch?v=1nIk8mfGtB4",
+        "published": "2026-10-23T23:00:22+00:00",
+        "days_ago": 7.5,
+        "views": 6
+      }
+    ],
+    "subscribers": 8,
+    "views": 5068,
+    "video_count": 101,
+    "handle": "@selltothepast"
+  },
+  "todo": [
+    "עברו 55 ימים מהפרק האחרון",
+    "עדיין לא מופיע ב‑Apple Podcasts"
+  ]
+}
