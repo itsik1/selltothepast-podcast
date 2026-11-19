@@ -268,5 +268,15 @@
     "bytes": 4689589,
     "seconds": 264,
     "published": "2026-11-04T16:00:00+00:00"
+  },
+  {
+    "slug": "028-window-glass",
+    "title": "I tried to sell a pane of glass in England in 1780. She had just paid a mason to brick up the window",
+    "summary": "I took a pane of window glass, about ninety-seven dollars, into a time machine. I tried to sell it to a widow in Warwickshire in 1447, when a pane cost a glazier fifteen days of work and windows were covered with oiled cloth; to a householder in London in 1755 who paid tax on every window; and to a householder in England in 1780 who bricked up a window to save the tax. The window tax was only repealed in 1851, under pressure from doctors. Who paid the most, and why, says something about what light really costs.\n\nChapters:\n0:00 The pane and the rules\n0:35 Warwickshire, 1447: Agnes\n3:00 London, 1755: John Hetherington\n5:30 England, 1780: Prudence\n7:30 Back to today\n\nSources:\n- The Beauchamp Chapel glazing contract, 1447 (British History Online): https://www.british-history.ac.uk/\n- The window tax (The National Archives): https://www.nationalarchives.gov.uk/\n- A window-tax receipt, 1755: see research/research.md\n- US federal minimum wage: https://www.usa.gov/minimum-wage\n- All sources are listed in research/research.md of the episode.\nBackgrounds are AI-generated illustrations made locally; the characters are drawn.",
+    "file": "audio/028-window-glass.en.mp3",
+    "url": "https://itsik1.github.io/selltothepast-podcast/audio/028-window-glass.en.mp3",
+    "bytes": 4562121,
+    "seconds": 256,
+    "published": "2026-11-06T16:00:00+00:00"
   }
 ]
