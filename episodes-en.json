@@ -188,5 +188,15 @@
     "bytes": 5323639,
     "seconds": 303,
     "published": "2026-10-19T16:00:00+00:00"
+  },
+  {
+    "slug": "020-smartphone",
+    "title": "I tried to sell a phone with no network in 1772. A sailor paid a month's wages for the clock",
+    "summary": "I took a smartphone, about a hundred dollars, into a time machine. No network and no charger: a clock, a calculator and a torch with one day of battery. I tried to sell it to a sailor on the Atlantic in 1772, when an exact marine clock cost thirty-five years of wages; to a bookkeeping clerk in Chicago in 1903, when a calculating machine cost three months' wages; and to a night watchman in Chicago in 1890, whose battery died in the middle of his shift. Who paid the most, and why, says something about what a phone is really worth. Episode twenty.\n\nChapters:\n0:00 The phone and the rules\n0:35 The Atlantic Ocean, 1772: Ezra\n3:00 Chicago, 1903: Nora\n5:30 Chicago, 1890: Otto\n7:30 Back to today\n\nSources:\n- Kendall's K1 chronometer (Royal Museums Greenwich): https://www.rmg.co.uk/\n- Merchant sailors' wages in the 1770s (British Tars): see research/research.md\n- The Comptometer (jaapsch.net): see research/research.md\n- US wages 1898 and 1905, kerosene prices 1890: see research/research.md\n- US federal minimum wage: https://www.usa.gov/minimum-wage\n- All sources are listed in research/research.md of the episode.\nBackgrounds are AI-generated illustrations made locally; the characters are drawn.",
+    "file": "audio/020-smartphone.en.mp3",
+    "url": "https://itsik1.github.io/selltothepast-podcast/audio/020-smartphone.en.mp3",
+    "bytes": 5747445,
+    "seconds": 330,
+    "published": "2026-10-21T16:00:00+00:00"
   }
 ]
