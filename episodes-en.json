@@ -318,5 +318,15 @@
     "bytes": 4431281,
     "seconds": 248,
     "published": "2026-11-14T16:00:00+00:00"
+  },
+  {
+    "slug": "033-umbrella",
+    "title": "I tried to sell an umbrella to the man who holds the king's parasol. He may not buy one",
+    "summary": "I took a folding umbrella, forty dollars, into a time machine. I tried to sell it to Jonas Hanway in London in 1750, the first man to walk with an umbrella, when coachmen threw rubbish at him because a coach ride in the rain cost half a day's work; to a factory mechanic in Britain in 1961, when a good umbrella cost two and a half days; and to the king's parasol-bearer in ancient Egypt, who touched the parasol all day and was forbidden to own one. Who paid the most, and why, says something about what an umbrella is really worth.\n\nChapters:\n0:00 The umbrella and the rules\n0:35 London, 1750: Jonas Hanway\n3:00 Britain, 1961: Dennis\n5:30 Ancient Egypt: Nakht-Ra\n7:30 Back to today\n\nSources:\n- The 1710 hackney-coach fares (Project Gutenberg): see research/research.md\n- London labourers' wages c.1720 (LSE Economic History working paper): see research/research.md\n- Jonas Hanway (Exploring London): see research/research.md\n- Umbrella prices and wages, Britain 1960-61 (retrowow): see research/research.md\n- US federal minimum wage: https://www.usa.gov/minimum-wage\n- All sources are listed in research/research.md of the episode.\nBackgrounds are AI-generated illustrations made locally; the characters are drawn.",
+    "file": "audio/033-umbrella.en.mp3",
+    "url": "https://itsik1.github.io/selltothepast-podcast/audio/033-umbrella.en.mp3",
+    "bytes": 4362324,
+    "seconds": 243,
+    "published": "2026-11-16T16:00:00+00:00"
   }
 ]
