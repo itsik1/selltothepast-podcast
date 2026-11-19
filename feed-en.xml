@@ -13,6 +13,31 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>I tried to sell a carton of milk in New York in 1858. "Pure country milk" killed 8,000 babies a year</title>
+      <description>I took a carton of milk, about a dollar twelve, into a time machine. I tried to sell it to a peasant with one cow in England in 1290, where milk had no price at all; to a labourer's wife in London in 1765, who paid an hour and a quarter of work for a watered quart; and to a young mother in Brooklyn in 1858, when distillery swill milk was sold as "pure country milk" and about eight thousand babies a year died from it. Who paid the most, and why, says something about what we buy in a carton.
+
+Chapters:
+0:00 The carton and the rules
+0:35 England, 1290: Elgitha
+3:00 London, 1765: Bess
+5:30 New York, 1858: Annie
+7:30 Back to today
+
+Sources:
+- Medieval prices (Dyer/Hodges list): https://www.goucher.edu/faculty/awatson/medieval-price-list
+- London milk prices, 1765: see research/research.md
+- The swill milk scandal, 1858 (Frank Leslie's; New York Times): see research/research.md
+- US milk price (BLS via FRED): https://fred.stlouisfed.org/series/APU0000709112
+- US federal minimum wage: https://www.usa.gov/minimum-wage
+- All sources are listed in research/research.md of the episode.
+Backgrounds are AI-generated illustrations made locally; the characters are drawn.</description>
+      <enclosure url="https://itsik1.github.io/selltothepast-podcast/audio/022-milk.en.mp3" length="5216227" type="audio/mpeg"/>
+      <guid isPermaLink="false">022-milk</guid>
+      <pubDate>Sun, 25 Oct 2026 16:00:00 +0000</pubDate>
+      <itunes:duration>00:04:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>I tried to sell a pineapple in London in 1780. She rented it for the evening and gave it back whole</title>
       <description>I took a pineapple, five dollars and forty-three cents, into a time machine. I tried to sell it to a lord with a hothouse in England in 1760, when one pineapple cost up to eighty pounds; to a building labourer at Covent Garden in 1850, when a street pineapple cost ninepence; and to a merchant's wife in Georgian London, who rented a pineapple for one evening to decorate her table and gave it back whole the next morning. Who paid the most, and why, says something about what a pineapple is really worth.
 
