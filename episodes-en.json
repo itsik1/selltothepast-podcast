@@ -328,5 +328,15 @@
     "bytes": 4362324,
     "seconds": 243,
     "published": "2026-11-16T16:00:00+00:00"
+  },
+  {
+    "slug": "034-toothbrush",
+    "title": "I tried to sell a toothbrush to a recruit in 1942. The army was already handing out dentures",
+    "summary": "I took a toothbrush, forty-seven cents, into a time machine. I tried to sell it to a factory worker in London in 1919, when an Addis brush cost forty-four minutes of work; to Egnatius in Rome in 50 BCE, whom Catullus mocked for teeth whitened with urine; and to an American recruit in 1942, when the army stopped requiring teeth and made dentures instead. Who paid the most, and why, says something about what a toothbrush is really worth.\n\nChapters:\n0:00 The toothbrush and the rules\n0:35 London, 1919: Mabel\n3:00 Rome, 50 BCE: Egnatius\n5:30 United States, 1942: Eddie\n7:30 Back to today\n\nSources:\n- William Addis and the 1919 Boots toothbrush: see research/research.md\n- UK Trade Board minimum wage, boot and shoe trade, 1919: see research/research.md\n- Catullus 39 (Egnatius): see research/research.md\n- US manufacturing wages 1939 (FRED) and the 1942 Army dental standards: see research/research.md\n- US federal minimum wage: https://www.usa.gov/minimum-wage\n- All sources are listed in research/research.md of the episode.\nBackgrounds are AI-generated illustrations made locally; the characters are drawn.",
+    "file": "audio/034-toothbrush.en.mp3",
+    "url": "https://itsik1.github.io/selltothepast-podcast/audio/034-toothbrush.en.mp3",
+    "bytes": 4222312,
+    "seconds": 234,
+    "published": "2026-11-18T16:00:00+00:00"
   }
 ]
