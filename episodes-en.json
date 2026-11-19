@@ -238,5 +238,15 @@
     "bytes": 4903977,
     "seconds": 277,
     "published": "2026-10-29T16:00:00+00:00"
+  },
+  {
+    "slug": "025-socks",
+    "title": "I tried to sell socks to a stockinger in 1812. He wanted to smash my machine",
+    "summary": "I took a pair of socks, eighteen dollars and ninety-five cents, into a time machine. I tried to sell it to a Roman soldier at the fort of Vindolanda around the year 110, who wrote home asking for socks; to Queen Elizabeth's silk-woman in London in 1583, when a pair of silk stockings cost half a year of a servant's wages; and to a stockinger in Nottingham in 1812, when the new frames cut his wage and breaking a frame was punished by death. Who paid the most, and why, says something about what a sock is really worth.\n\nChapters:\n0:00 The pair and the rules\n0:35 Vindolanda, 110: Flavius\n3:00 London, 1583: Mrs Montague\n5:30 Nottingham, 1812: Jem\n7:30 Back to today\n\nSources:\n- Vindolanda tablets 346 and 184: see research/research.md\n- Philip Stubbes, The Anatomie of Abuses (1583): see research/research.md\n- \"A Poor Stockinger\", Nottingham Review 1812; Henson's testimony to Parliament: see research/research.md\n- The Frame-Breaking Act, 1812: see research/research.md\n- US federal minimum wage: https://www.usa.gov/minimum-wage\n- All sources are listed in research/research.md of the episode.\nBackgrounds are AI-generated illustrations made locally; the characters are drawn.",
+    "file": "audio/025-socks.en.mp3",
+    "url": "https://itsik1.github.io/selltothepast-podcast/audio/025-socks.en.mp3",
+    "bytes": 5444827,
+    "seconds": 311,
+    "published": "2026-10-31T16:00:00+00:00"
   }
 ]
