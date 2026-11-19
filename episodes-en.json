@@ -248,5 +248,15 @@
     "bytes": 5444827,
     "seconds": 311,
     "published": "2026-10-31T16:00:00+00:00"
+  },
+  {
+    "slug": "026-mirror",
+    "title": "I tried to sell a mirror to a blind man in 1850. He bought it",
+    "summary": "I took a hand mirror, one dollar and fifty cents, into a time machine. I tried to sell it to a glassmaker on Murano in 1600, who was not allowed to leave the island and whose one mirror was worth thirty years of work; to a noblewoman at Versailles in 1684, when three hundred and fifty-seven mirrors were hung in the Hall of Mirrors; and to a man blind from birth in London in 1850, who wanted a mirror over the hearth to please the friends who could see. Who paid the most, and why, says something about what a mirror is really worth.\n\nChapters:\n0:00 The mirror and the rules\n0:35 Murano, 1600: Giacomo\n3:00 Versailles, 1684: Marie\n5:30 London, 1850: Reuben\n7:30 Back to today\n\nSources:\n- Venetian glass and the Murano secret (Brown University): see research/research.md\n- Rutland wage assessment, 1610: see research/research.md\n- The Hall of Mirrors (Château de Versailles): https://www.chateauversailles.fr/\n- Henry Mayhew, London Labour and the London Poor: see research/research.md\n- US federal minimum wage: https://www.usa.gov/minimum-wage\n- All sources are listed in research/research.md of the episode.\nBackgrounds are AI-generated illustrations made locally; the characters are drawn.",
+    "file": "audio/026-mirror.en.mp3",
+    "url": "https://itsik1.github.io/selltothepast-podcast/audio/026-mirror.en.mp3",
+    "bytes": 5346591,
+    "seconds": 305,
+    "published": "2026-11-02T16:00:00+00:00"
   }
 ]
