@@ -178,5 +178,15 @@
     "bytes": 4789068,
     "seconds": 270,
     "published": "2026-10-17T16:00:00+00:00"
+  },
+  {
+    "slug": "019-camera",
+    "title": "I tried to sell a camera in 1870 to a mother who needed one picture. It was worth nothing to her",
+    "summary": "I took a disposable camera, eighteen dollars and ninety-nine cents, into a time machine. I tried to sell it to a messenger in London in 1841, when one portrait cost more than a week of work; to a twelve-year-old girl in a South Carolina cotton mill in 1900, when a one-dollar Brownie cost her three days of work; and to a mother in Ohio in 1870 who needed one picture before the burial, and a travelling tintype photographer gave it to her for five cents in five minutes. Who paid the most, and why, says something about what a picture is really worth.\n\nChapters:\n0:00 The camera and the rules\n0:35 London, 1841: Thomas\n3:00 South Carolina, 1900: Mae\n5:30 Ohio, 1870: Eliza\n7:30 Back to today\n\nSources:\n- Richard Beard's studio, 1841 (Spartacus Educational): see research/research.md\n- Poor Law Commission salary table, 1841: see research/research.md\n- The Kodak Brownie, 1900 (The Franklin Institute): https://www.fi.edu/\n- Child labour in Southern cotton mills (UNC Documenting the American South): https://docsouth.unc.edu/\n- Post-mortem tintypes (Clara Barton Museum): see research/research.md\n- US federal minimum wage: https://www.usa.gov/minimum-wage\n- All sources are listed in research/research.md of the episode.\nBackgrounds are AI-generated illustrations made locally; the characters are drawn.",
+    "file": "audio/019-camera.en.mp3",
+    "url": "https://itsik1.github.io/selltothepast-podcast/audio/019-camera.en.mp3",
+    "bytes": 5323639,
+    "seconds": 303,
+    "published": "2026-10-19T16:00:00+00:00"
   }
 ]
