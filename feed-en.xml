@@ -13,6 +13,32 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>I tried to sell oranges on a ship in 1747. A sailor gave a month's wages for eight</title>
+      <description>I took a kilo of oranges, about three dollars and seventy-seven cents, into a time machine. I tried to sell it to Nell Gwyn, a girl selling oranges at a London theatre in 1665 for sixpence each; to a labourer in London in 1865 who bought an orange for each child's Christmas stocking, two for a penny; and to a sailor on a warship in the English Channel in 1747, when the surgeon James Lind cured scurvy with oranges and lemons, and the fruit ran out. Who paid the most, and why, says something about what an orange is really worth.
+
+Chapters:
+0:00 The kilo and the rules
+0:35 London, 1665: Nell Gwyn
+3:00 London, 1865: Jack
+5:30 The English Channel, 1747: Ben
+7:30 Back to today
+
+Sources:
+- Pepys's diary (Nell Gwyn's oranges): https://www.pepysdiary.com/
+- London wages 1670 (LSE working paper): see research/research.md
+- Mayhew and Victorian wages: see research/research.md
+- James Lind's scurvy trial, 1747: see research/research.md
+- US orange price (BLS via FRED): https://fred.stlouisfed.org/series/APU0000711311
+- US federal minimum wage: https://www.usa.gov/minimum-wage
+- All sources are listed in research/research.md of the episode.
+Backgrounds are AI-generated illustrations made locally; the characters are drawn.</description>
+      <enclosure url="https://itsik1.github.io/selltothepast-podcast/audio/023-orange.en.mp3" length="5118825" type="audio/mpeg"/>
+      <guid isPermaLink="false">023-orange</guid>
+      <pubDate>Tue, 27 Oct 2026 16:00:00 +0000</pubDate>
+      <itunes:duration>00:04:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>I tried to sell a carton of milk in New York in 1858. "Pure country milk" killed 8,000 babies a year</title>
       <description>I took a carton of milk, about a dollar twelve, into a time machine. I tried to sell it to a peasant with one cow in England in 1290, where milk had no price at all; to a labourer's wife in London in 1765, who paid an hour and a quarter of work for a watered quart; and to a young mother in Brooklyn in 1858, when distillery swill milk was sold as "pure country milk" and about eight thousand babies a year died from it. Who paid the most, and why, says something about what we buy in a carton.
 
