@@ -158,5 +158,15 @@
     "bytes": 5838539,
     "seconds": 336,
     "published": "2026-10-13T16:00:00+00:00"
+  },
+  {
+    "slug": "017-toilet-paper",
+    "title": "I tried to sell a roll of toilet paper to a farmer in 1900. He laughed: he had a catalogue",
+    "summary": "I took a roll of toilet paper, forty-nine cents, into a time machine. I tried to sell it to a porter in Pompeii in the year 79, whose bathhouse had one sponge for everyone; to a seamstress in New York in 1857, when Joseph Gayetty sold the first package for half a day of work; and to a farmer in Kansas in 1900, who got a free Sears catalogue every year and hung it on a hook in the outhouse. Who paid the most, and why, says something about what comfort really costs.\n\nChapters:\n0:00 The roll and the rules\n0:35 Pompeii, 79: Quintus\n3:00 New York, 1857: Clara\n5:30 Kansas, 1900: Amos\n7:30 Back to today\n\nSources:\n- Seneca and the Pompeii price graffiti: see research/research.md\n- Joseph Gayetty's medicated paper (Smithsonian): see research/research.md\n- The Sears catalogue in rural America: see research/research.md\n- US federal minimum wage: https://www.usa.gov/minimum-wage\n- All sources are listed in research/research.md of the episode.\nBackgrounds are AI-generated illustrations made locally; the characters are drawn.",
+    "file": "audio/017-toilet-paper.en.mp3",
+    "url": "https://itsik1.github.io/selltothepast-podcast/audio/017-toilet-paper.en.mp3",
+    "bytes": 5253416,
+    "seconds": 299,
+    "published": "2026-10-15T16:00:00+00:00"
   }
 ]
