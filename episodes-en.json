@@ -278,5 +278,15 @@
     "bytes": 4562121,
     "seconds": 256,
     "published": "2026-11-06T16:00:00+00:00"
+  },
+  {
+    "slug": "029-tea",
+    "title": "I tried to sell tea in Boston in 1773. The owner of 46 tons bought a box from me in secret",
+    "summary": "I took a box of tea, ten dollars and forty-nine cents, into a time machine. I tried to sell it to a farm labourer in England in 1710, when a pound cost ten days of work and the tax was a hundred and nineteen percent; to a tea porter on the Tea Horse Road in China in 1940, who carried more than his own body weight and was paid in rice; and to a merchant in Boston in December 1773, who owned 340 chests of tea that could not be landed, sold or drunk, and were thrown into the sea that night. Who paid the most, and why, says something about what tea is really worth.\n\nChapters:\n0:00 The box and the rules\n0:35 England, 1710: Giles\n3:00 Sichuan, 1940: Luo Yong Fu\n5:30 Boston, 1773: Richard Clarke\n7:30 Back to today\n\nSources:\n- The tea duty and the Commutation Act (Queen Mary University of London): see research/research.md\n- Tea Horse Road porters (National Geographic): see research/research.md\n- Boston Tea Party Ships & Museum: https://www.bostonteapartyship.com/\n- Massachusetts Historical Society (Richard Clarke): see research/research.md\n- US federal minimum wage: https://www.usa.gov/minimum-wage\n- All sources are listed in research/research.md of the episode.\nBackgrounds are AI-generated illustrations made locally; the characters are drawn.",
+    "file": "audio/029-tea.en.mp3",
+    "url": "https://itsik1.github.io/selltothepast-podcast/audio/029-tea.en.mp3",
+    "bytes": 4651554,
+    "seconds": 261,
+    "published": "2026-11-08T16:00:00+00:00"
   }
 ]
