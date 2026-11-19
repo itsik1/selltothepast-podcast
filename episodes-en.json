@@ -138,5 +138,15 @@
     "bytes": 5150590,
     "seconds": 293,
     "published": "2026-10-09T16:00:00+00:00"
+  },
+  {
+    "slug": "015-canned-food",
+    "title": "I tried to sell a can of food to the Franklin expedition. They paid 5 times the price, and got rot",
+    "summary": "I took a can of food, about a dollar thirty-five, into a time machine. I tried to sell it to a Royal Navy seaman at Deptford in 1815, when a can of meat cost more than two days of work; to a Union private in Virginia in 1863, who paid the sutler almost two days for a can of condensed milk; and to a sailor on the Franklin expedition in the Arctic in 1845, when the Admiralty paid up to five times the price for its cans, and the officers' cans were the ones that rotted. Who paid the most, and why, says something about what we buy in a can.\n\nChapters:\n0:00 The can and the rules\n0:35 Deptford, 1815: Harry\n3:00 Virginia, 1863: Levi\n5:30 The Arctic, 1845: James\n7:30 Back to today\n\nSources:\n- Donkin, Hall & Gamble and the Admiralty (Tastes of History; The Canmaker): see research/research.md\n- Billings, Hardtack and Coffee (sutlers' prices, soldiers' pay): see research/research.md\n- The Franklin expedition's tinned food (Royal Museums Greenwich): https://www.rmg.co.uk/\n- US federal minimum wage: https://www.usa.gov/minimum-wage\n- All sources are listed in research/research.md of the episode.\nBackgrounds are AI-generated illustrations made locally; the characters are drawn.",
+    "file": "audio/015-canned-food.en.mp3",
+    "url": "https://itsik1.github.io/selltothepast-podcast/audio/015-canned-food.en.mp3",
+    "bytes": 4890217,
+    "seconds": 276,
+    "published": "2026-10-11T16:00:00+00:00"
   }
 ]
