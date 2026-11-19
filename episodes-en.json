@@ -168,5 +168,15 @@
     "bytes": 5253416,
     "seconds": 299,
     "published": "2026-10-15T16:00:00+00:00"
+  },
+  {
+    "slug": "018-banana",
+    "title": "I tried to sell bananas in Bristol in 1945. The rich man offered two weeks' wages, and got none",
+    "summary": "I took a kilo of bananas, about a dollar forty-four, into a time machine. I tried to sell it to a costermonger in East London in 1897, who sold two a penny; to a labourer at the Philadelphia Centennial Exhibition in 1876, when one banana cost ten cents and was eaten with a knife and fork; and to a six-year-old girl on the quay in Bristol in December 1945, when the first ship in five years arrived and the government order allowed sales to children only. Who paid the most, and why, says something about what a banana is really worth.\n\nChapters:\n0:00 The bunch and the rules\n0:35 East London, 1897: Fred\n3:00 Philadelphia, 1876: Walt\n5:30 Bristol, 1945: Ruth\n7:30 Back to today\n\nSources:\n- Victorian London banana prices and the dockers' tanner (1889): see research/research.md\n- The Centennial Exhibition banana, 1876 (Smithsonian): see research/research.md\n- The Banana Order, December 1945 (Hansard): https://api.parliament.uk/historic-hansard/\n- US banana price (BLS via FRED): https://fred.stlouisfed.org/series/APU0000711211\n- US federal minimum wage: https://www.usa.gov/minimum-wage\n- All sources are listed in research/research.md of the episode.\nBackgrounds are AI-generated illustrations made locally; the characters are drawn.",
+    "file": "audio/018-banana.en.mp3",
+    "url": "https://itsik1.github.io/selltothepast-podcast/audio/018-banana.en.mp3",
+    "bytes": 4789068,
+    "seconds": 270,
+    "published": "2026-10-17T16:00:00+00:00"
   }
 ]

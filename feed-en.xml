@@ -13,6 +13,31 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>I tried to sell bananas in Bristol in 1945. The rich man offered two weeks' wages, and got none</title>
+      <description>I took a kilo of bananas, about a dollar forty-four, into a time machine. I tried to sell it to a costermonger in East London in 1897, who sold two a penny; to a labourer at the Philadelphia Centennial Exhibition in 1876, when one banana cost ten cents and was eaten with a knife and fork; and to a six-year-old girl on the quay in Bristol in December 1945, when the first ship in five years arrived and the government order allowed sales to children only. Who paid the most, and why, says something about what a banana is really worth.
+
+Chapters:
+0:00 The bunch and the rules
+0:35 East London, 1897: Fred
+3:00 Philadelphia, 1876: Walt
+5:30 Bristol, 1945: Ruth
+7:30 Back to today
+
+Sources:
+- Victorian London banana prices and the dockers' tanner (1889): see research/research.md
+- The Centennial Exhibition banana, 1876 (Smithsonian): see research/research.md
+- The Banana Order, December 1945 (Hansard): https://api.parliament.uk/historic-hansard/
+- US banana price (BLS via FRED): https://fred.stlouisfed.org/series/APU0000711211
+- US federal minimum wage: https://www.usa.gov/minimum-wage
+- All sources are listed in research/research.md of the episode.
+Backgrounds are AI-generated illustrations made locally; the characters are drawn.</description>
+      <enclosure url="https://itsik1.github.io/selltothepast-podcast/audio/018-banana.en.mp3" length="4789068" type="audio/mpeg"/>
+      <guid isPermaLink="false">018-banana</guid>
+      <pubDate>Sat, 17 Oct 2026 16:00:00 +0000</pubDate>
+      <itunes:duration>00:04:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>I tried to sell a roll of toilet paper to a farmer in 1900. He laughed: he had a catalogue</title>
       <description>I took a roll of toilet paper, forty-nine cents, into a time machine. I tried to sell it to a porter in Pompeii in the year 79, whose bathhouse had one sponge for everyone; to a seamstress in New York in 1857, when Joseph Gayetty sold the first package for half a day of work; and to a farmer in Kansas in 1900, who got a free Sears catalogue every year and hung it on a hook in the outhouse. Who paid the most, and why, says something about what comfort really costs.
 
