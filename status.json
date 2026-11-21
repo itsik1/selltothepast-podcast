@@ -1,0 +1,173 @@
+{
+  "generated_at": "2026-11-21T13:17:34+00:00",
+  "site": "https://itsik1.github.io/selltothepast-podcast",
+  "feed_url": "https://itsik1.github.io/selltothepast-podcast/feed.xml",
+  "feed": {
+    "ok": true,
+    "http": 200,
+    "title": "למכור לעבר",
+    "cover": "https://itsik1.github.io/selltothepast-podcast/cover.jpg",
+    "episodes": 1,
+    "latest": {
+      "title": "ניסיתי למכור כיכר לחם מהסופר לאנשים ב‑1795. הנה כמה הם שילמו",
+      "published": "2026-09-05T22:30:27+00:00",
+      "days_ago": 76.6,
+      "duration": "00:06:53",
+      "audio": "https://itsik1.github.io/selltothepast-podcast/audio/001-bread.mp3",
+      "bytes": 6912140,
+      "audio_http": 200,
+      "audio_bytes_match": true
+    },
+    "days_since_last_episode": 76.6,
+    "items": [
+      {
+        "title": "ניסיתי למכור כיכר לחם מהסופר לאנשים ב‑1795. הנה כמה הם שילמו",
+        "published": "2026-09-05T22:30:27+00:00",
+        "days_ago": 76.6,
+        "duration": "00:06:53",
+        "audio": "https://itsik1.github.io/selltothepast-podcast/audio/001-bread.mp3",
+        "bytes": 6912140,
+        "audio_http": 200,
+        "audio_bytes_match": true
+      }
+    ]
+  },
+  "apple": {
+    "ok": true,
+    "listed": false,
+    "note": "not in the Apple Podcasts directory yet (search by name and by feed URL)"
+  },
+  "spotify": {
+    "ok": true,
+    "configured": true,
+    "listed": true,
+    "name": "ניסיתי למכור כיכר לחם מהסופר לאנשים ב‑1795. הנה כמה הם שילמו",
+    "url": "https://open.spotify.com/show/5PPn0eIrTTG8jsEskBQgu9",
+    "id": "5PPn0eIrTTG8jsEskBQgu9",
+    "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1f46dfc9bd6ef4826cd117e350",
+    "source": "oembed"
+  },
+  "youtube": {
+    "ok": true,
+    "configured": true,
+    "channel_id": "UCfSDwjbObdiVMci7Tfk4rvA",
+    "url": "https://www.youtube.com/channel/UCfSDwjbObdiVMci7Tfk4rvA",
+    "channel_title": "למכור לעבר · Sell to the Past",
+    "videos_in_feed": 15,
+    "videos": [
+      {
+        "title": "77 days of work for a case of razors #Shorts",
+        "url": "https://www.youtube.com/watch?v=dFKazc-iLsc",
+        "published": "2026-11-20T23:00:36+00:00",
+        "days_ago": 0.6,
+        "views": 6
+      },
+      {
+        "title": "I tried to sell a razor in the trenches of 1918. The army handed it out for free",
+        "url": "https://www.youtube.com/watch?v=AortV20jpx8",
+        "published": "2026-11-20T16:00:33+00:00",
+        "days_ago": 0.9,
+        "views": 0
+      },
+      {
+        "title": "50 hours of work for a Gillette set #Shorts",
+        "url": "https://www.youtube.com/watch?v=DQaWU1QXY78",
+        "published": "2026-11-19T23:00:33+00:00",
+        "days_ago": 1.6,
+        "views": 8
+      },
+      {
+        "title": "11 minutes of work, too late to brush #Shorts",
+        "url": "https://www.youtube.com/watch?v=Hp7vVWQjfZ8",
+        "published": "2026-11-19T16:00:17+00:00",
+        "days_ago": 1.9,
+        "views": 8
+      },
+      {
+        "title": "44 minutes of work for one toothbrush #Shorts",
+        "url": "https://www.youtube.com/watch?v=hBogUBkXjo0",
+        "published": "2026-11-18T23:00:14+00:00",
+        "days_ago": 2.6,
+        "views": 4
+      },
+      {
+        "title": "I tried to sell a toothbrush to a recruit in 1942. The army was already handing out dentures",
+        "url": "https://www.youtube.com/watch?v=i5g521iVjqc",
+        "published": "2026-11-18T16:00:37+00:00",
+        "days_ago": 2.9,
+        "views": 0
+      },
+      {
+        "title": "0 minutes of work for white teeth #Shorts",
+        "url": "https://www.youtube.com/watch?v=y-WCN9vRBto",
+        "published": "2026-11-17T23:00:18+00:00",
+        "days_ago": 3.6,
+        "views": 8
+      },
+      {
+        "title": "1 person allowed under the parasol #Shorts",
+        "url": "https://www.youtube.com/watch?v=sbGWccDJwLU",
+        "published": "2026-11-17T16:00:39+00:00",
+        "days_ago": 3.9,
+        "views": 0
+      },
+      {
+        "title": "12 pence for a short ride in the rain #Shorts",
+        "url": "https://www.youtube.com/watch?v=kpmllwgCJXE",
+        "published": "2026-11-16T23:00:00+00:00",
+        "days_ago": 4.6,
+        "views": 3
+      },
+      {
+        "title": "I tried to sell an umbrella to the man who holds the king's parasol. He may not buy one",
+        "url": "https://www.youtube.com/watch?v=QAD5qT4Gz10",
+        "published": "2026-11-16T16:00:13+00:00",
+        "days_ago": 4.9,
+        "views": 1
+      },
+      {
+        "title": "2.5 days of work for one umbrella #Shorts",
+        "url": "https://www.youtube.com/watch?v=D7VZ3vZDOxo",
+        "published": "2026-11-15T23:00:10+00:00",
+        "days_ago": 5.6,
+        "views": 8
+      },
+      {
+        "title": "1 penny for the pencil that still worked #Shorts",
+        "url": "https://www.youtube.com/watch?v=rC_mhyepZ9c",
+        "published": "2026-11-15T16:00:19+00:00",
+        "days_ago": 5.9,
+        "views": 63
+      },
+      {
+        "title": "30 minutes of work for one pencil #Shorts",
+        "url": "https://www.youtube.com/watch?v=lLtHeR7dBzk",
+        "published": "2026-11-14T23:00:16+00:00",
+        "days_ago": 6.6,
+        "views": 16
+      },
+      {
+        "title": "I tried to sell a pencil in Antarctica in 1912. It was the only thing that worked",
+        "url": "https://www.youtube.com/watch?v=qDyqQAZFLAM",
+        "published": "2026-11-14T16:00:15+00:00",
+        "days_ago": 6.9,
+        "views": 1
+      },
+      {
+        "title": "8 days of work for a pound of graphite #Shorts",
+        "url": "https://www.youtube.com/watch?v=kY7Oj5Bch-0",
+        "published": "2026-11-13T23:00:30+00:00",
+        "days_ago": 7.6,
+        "views": 10
+      }
+    ],
+    "subscribers": 8,
+    "views": 5998,
+    "video_count": 143,
+    "handle": "@selltothepast"
+  },
+  "todo": [
+    "עברו 76 ימים מהפרק האחרון",
+    "עדיין לא מופיע ב‑Apple Podcasts"
+  ]
+}
