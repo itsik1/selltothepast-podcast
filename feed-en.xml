@@ -13,6 +13,32 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>I tried to sell eggs to a wounded soldier in 1915. He'd already been sent 32 million for free</title>
+      <description>I took a dozen eggs, two dollars twenty-seven, into a time machine. I tried to sell them to a peasant in England in 1300, when a dozen cost a quarter of a day's work; to a dockworker in New York in 1851, when a dozen cost an eighth of a day; and to a wounded private in Boulogne in 1915, when British civilians sent thirty-two million eggs by rail for free. Who paid the most, and why, says something about what an egg is really worth.
+
+Chapters:
+0:00 The eggs and the rules
+0:35 England, 1300: Alice
+3:00 New York, 1851: Isaac
+5:30 Boulogne, 1915: Percy
+7:30 Back to today
+
+Sources:
+- Medieval English prices and wages: see research/research.md
+- New York dockworkers' wages, 1851: see research/research.md
+- US egg prices in the 1850s: see research/research.md
+- The National Egg Collection for Wounded Soldiers and Sailors: see research/research.md
+- US average egg price (FRED APU0000708111): https://fred.stlouisfed.org/series/APU0000708111
+- US federal minimum wage: https://www.usa.gov/minimum-wage
+- All sources are listed in research/research.md of the episode.
+Backgrounds are AI-generated illustrations made locally; the characters are drawn.</description>
+      <enclosure url="https://itsik1.github.io/selltothepast-podcast/audio/036-eggs.en.mp3" length="4152932" type="audio/mpeg"/>
+      <guid isPermaLink="false">036-eggs</guid>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 +0000</pubDate>
+      <itunes:duration>00:03:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>I tried to sell a razor in the trenches of 1918. The army handed it out for free</title>
       <description>I took a disposable razor, twelve cents, into a time machine. I tried to sell it to a barber in London in 1682, when a case of razors was worth seventy-seven days of work; to a factory worker in Boston in 1906, when the first Gillette set cost fifty hours; and to a private on the Western Front in 1918, when the army handed out razors for free because a gas mask seals only on a shaven face. Who paid the most, and why, says something about what a razor is really worth.
 
