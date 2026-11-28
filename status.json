@@ -1,0 +1,173 @@
+{
+  "generated_at": "2026-11-28T13:58:17+00:00",
+  "site": "https://itsik1.github.io/selltothepast-podcast",
+  "feed_url": "https://itsik1.github.io/selltothepast-podcast/feed.xml",
+  "feed": {
+    "ok": true,
+    "http": 200,
+    "title": "למכור לעבר",
+    "cover": "https://itsik1.github.io/selltothepast-podcast/cover.jpg",
+    "episodes": 1,
+    "latest": {
+      "title": "ניסיתי למכור כיכר לחם מהסופר לאנשים ב‑1795. הנה כמה הם שילמו",
+      "published": "2026-09-05T22:30:27+00:00",
+      "days_ago": 83.6,
+      "duration": "00:06:53",
+      "audio": "https://itsik1.github.io/selltothepast-podcast/audio/001-bread.mp3",
+      "bytes": 6912140,
+      "audio_http": 200,
+      "audio_bytes_match": true
+    },
+    "days_since_last_episode": 83.6,
+    "items": [
+      {
+        "title": "ניסיתי למכור כיכר לחם מהסופר לאנשים ב‑1795. הנה כמה הם שילמו",
+        "published": "2026-09-05T22:30:27+00:00",
+        "days_ago": 83.6,
+        "duration": "00:06:53",
+        "audio": "https://itsik1.github.io/selltothepast-podcast/audio/001-bread.mp3",
+        "bytes": 6912140,
+        "audio_http": 200,
+        "audio_bytes_match": true
+      }
+    ]
+  },
+  "apple": {
+    "ok": true,
+    "listed": false,
+    "note": "not in the Apple Podcasts directory yet (search by name and by feed URL)"
+  },
+  "spotify": {
+    "ok": true,
+    "configured": true,
+    "listed": true,
+    "name": "ניסיתי למכור כיכר לחם מהסופר לאנשים ב‑1795. הנה כמה הם שילמו",
+    "url": "https://open.spotify.com/show/5PPn0eIrTTG8jsEskBQgu9",
+    "id": "5PPn0eIrTTG8jsEskBQgu9",
+    "artwork": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1f46dfc9bd6ef4826cd117e350",
+    "source": "oembed"
+  },
+  "youtube": {
+    "ok": true,
+    "configured": true,
+    "channel_id": "UCfSDwjbObdiVMci7Tfk4rvA",
+    "url": "https://www.youtube.com/channel/UCfSDwjbObdiVMci7Tfk4rvA",
+    "channel_title": "למכור לעבר · Sell to the Past",
+    "videos_in_feed": 15,
+    "videos": [
+      {
+        "title": "10,000 pounds for one inoculation #Shorts",
+        "url": "https://www.youtube.com/watch?v=1kKCmtTN17k",
+        "published": "2026-11-27T23:00:24+00:00",
+        "days_ago": 0.6,
+        "views": 9
+      },
+      {
+        "title": "30 ships sank with the army's coats #Shorts",
+        "url": "https://www.youtube.com/watch?v=qbLb3ScFD5c",
+        "published": "2026-11-27T16:00:00+00:00",
+        "days_ago": 0.9,
+        "views": 10
+      },
+      {
+        "title": "7 weeks of work for one blanket #Shorts",
+        "url": "https://www.youtube.com/watch?v=6mdiawt_z5E",
+        "published": "2026-11-26T23:00:11+00:00",
+        "days_ago": 1.6,
+        "views": 10
+      },
+      {
+        "title": "I tried to sell a blanket to a soldier in the Crimea in 1854. The army had bought him one. It sank",
+        "url": "https://www.youtube.com/watch?v=0neqmalggSw",
+        "published": "2026-11-26T16:00:11+00:00",
+        "days_ago": 1.9,
+        "views": 1
+      },
+      {
+        "title": "13 hours of weaving for one blanket #Shorts",
+        "url": "https://www.youtube.com/watch?v=_L3BKY-dMWE",
+        "published": "2026-11-25T23:00:14+00:00",
+        "days_ago": 2.6,
+        "views": 20
+      },
+      {
+        "title": "22 cents for the jar I refused to sell #Shorts",
+        "url": "https://www.youtube.com/watch?v=k44ozQFfE9E",
+        "published": "2026-11-25T16:00:08+00:00",
+        "days_ago": 2.9,
+        "views": 11
+      },
+      {
+        "title": "A quarter of a wage for a jar of honey #Shorts",
+        "url": "https://www.youtube.com/watch?v=1z6ypQ3qCng",
+        "published": "2026-11-24T23:00:12+00:00",
+        "days_ago": 3.6,
+        "views": 32
+      },
+      {
+        "title": "A mother in New York in 1897 wanted honey for her baby. I refused to sell",
+        "url": "https://www.youtube.com/watch?v=ubjOn22qaqM",
+        "published": "2026-11-24T16:00:16+00:00",
+        "days_ago": 3.9,
+        "views": 1
+      },
+      {
+        "title": "90 minutes of work for a pound of honey #Shorts",
+        "url": "https://www.youtube.com/watch?v=fdgqiN7Wpp0",
+        "published": "2026-11-23T23:00:27+00:00",
+        "days_ago": 4.6,
+        "views": 19
+      },
+      {
+        "title": "32 million eggs sent free to soldiers #Shorts",
+        "url": "https://www.youtube.com/watch?v=QEtxoSZyIhY",
+        "published": "2026-11-23T16:00:15+00:00",
+        "days_ago": 4.9,
+        "views": 13
+      },
+      {
+        "title": "77 minutes of work for a dozen eggs #Shorts",
+        "url": "https://www.youtube.com/watch?v=2jeK4mkSk24",
+        "published": "2026-11-22T23:00:38+00:00",
+        "days_ago": 5.6,
+        "views": 11
+      },
+      {
+        "title": "I tried to sell eggs to a wounded soldier in 1915. He'd already been sent 32 million for free",
+        "url": "https://www.youtube.com/watch?v=7_LDvD6NPV4",
+        "published": "2026-11-22T16:00:38+00:00",
+        "days_ago": 5.9,
+        "views": 1
+      },
+      {
+        "title": "2.5 hours of work for eggs in 1300 #Shorts",
+        "url": "https://www.youtube.com/watch?v=WiO-aPDNjGw",
+        "published": "2026-11-21T23:00:24+00:00",
+        "days_ago": 6.6,
+        "views": 23
+      },
+      {
+        "title": "5 days' pay for the razor that's free #Shorts",
+        "url": "https://www.youtube.com/watch?v=hpBK3oNIEtM",
+        "published": "2026-11-21T16:00:34+00:00",
+        "days_ago": 6.9,
+        "views": 19
+      },
+      {
+        "title": "77 days of work for a case of razors #Shorts",
+        "url": "https://www.youtube.com/watch?v=dFKazc-iLsc",
+        "published": "2026-11-20T23:00:36+00:00",
+        "days_ago": 7.6,
+        "views": 8
+      }
+    ],
+    "subscribers": 9,
+    "views": 6198,
+    "video_count": 157,
+    "handle": "@selltothepast"
+  },
+  "todo": [
+    "עברו 83 ימים מהפרק האחרון",
+    "עדיין לא מופיע ב‑Apple Podcasts"
+  ]
+}
